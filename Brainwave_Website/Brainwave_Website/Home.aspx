@@ -9,7 +9,7 @@
     <header>
 
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-	<meta name="author" content="SemiColonWeb" />
+	<meta name="Ian Olivier" content="SemiColonWeb" />
 
 	<!-- Stylesheets
 	============================================= -->
