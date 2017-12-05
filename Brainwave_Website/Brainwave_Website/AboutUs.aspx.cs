@@ -7,11 +7,11 @@ using System.Web.UI.WebControls;
 
 namespace Brainwave_Website
 {
-    public partial class Home : System.Web.UI.Page
+    public partial class AboutUs : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            
+
         }
     }
 }

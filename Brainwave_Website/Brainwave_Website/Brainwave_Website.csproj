@@ -66,6 +66,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="AboutUs.aspx" />
     <Content Include="css\animate.css" />
     <Content Include="css\bootstrap-rtl.css" />
     <Content Include="css\bootstrap.css" />
@@ -503,6 +504,7 @@
     <Content Include="images\magazine\thumb\7.jpg" />
     <Content Include="images\magazine\thumb\8.jpg" />
     <Content Include="images\magazine\thumb\9.jpg" />
+    <Content Include="images\mainlogo.png" />
     <Content Include="images\modals\modal1.jpg" />
     <Content Include="images\others\1.jpg" />
     <Content Include="images\others\mac-phone.png" />
@@ -983,6 +985,7 @@
     <Content Include="images\testimonials\8.jpg" />
     <Content Include="images\testimonials\parallax.jpg" />
     <Content Include="images\testimonials\parallax2.jpg" />
+    <Content Include="images\uselogomain.png" />
     <Content Include="images\videos\explore-thumb.jpg" />
     <Content Include="images\videos\explore.jpg" />
     <Content Include="images\videos\explore.mp4" />
@@ -3608,6 +3611,13 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AboutUs.aspx.cs">
+      <DependentUpon>AboutUs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AboutUs.aspx.designer.cs">
+      <DependentUpon>AboutUs.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Home.aspx.cs">
       <DependentUpon>Home.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
