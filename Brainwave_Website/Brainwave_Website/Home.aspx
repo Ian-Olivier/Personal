@@ -37,7 +37,7 @@
 
 		
 
-		<section id="slider" class="slider-parallax swiper_wrapper full-screen clearfix">
+		<section id="slider" class="carousel slider-parallax swiper_wrapper full-screen clearfix">
 			<div class="slider-parallax-inner">
 
 				<div class="swiper-container swiper-parent">
@@ -45,7 +45,7 @@
 						<div class="swiper-slide dark" style="background-image: url('images/slider/swiper/1.jpg');">
 							<div class="container clearfix">
 								<div class="slider-caption slider-caption-center">
-									<h2 data-caption-animate="fadeInUp">Welcome to Canvas</h2>
+									<h2 data-caption-animate="fadeInUp">Welcome to <b style="color:#660033">Brain</b><b style="color:#009999">Wave</b></h2>
 									<p data-caption-animate="fadeInUp" data-caption-delay="200">Create just what you need for your Perfect Website. Choose from a wide range of Elements &amp; simply put them on your own Canvas.</p>
 								</div>
 							</div>

@@ -3635,6 +3635,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="images\Brainwave\" />
     <Folder Include="include\twitter\cache\" />
   </ItemGroup>
   <PropertyGroup>
