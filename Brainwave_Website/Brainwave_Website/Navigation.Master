@@ -47,18 +47,14 @@
 							<li class="current" id="hometab" runat="server"><a href="Home.aspx"><div><i class="icon-home2"></i>Home</div></a>
 								
 							</li>
-							<li><a href="AboutUs.aspx" id="abouttab" runat="server"><div><i class="icon-beaker"></i>Features</div></a>	
+							<li><a href="AboutUs.aspx" id="abouttab" runat="server"><div><i class="icon-info"></i>About Us</div></a>	
 							</li>
-							<li><a href="#"><div><i class="icon-file-alt"></i>Pages</div></a>	
+							<li><a href="#"><div><i class="icon-cart"></i>Products</div></a>	
+							</li>							
+							<li><a href="#"><div><i class="icon-pencil2"></i>News</div></a>								
 							</li>
-							<li><a href="#"><div><i class="icon-briefcase"></i>Portfolio</div></a>							
-							</li>
-							<li><a href="#"><div><i class="icon-pencil2"></i>Blog</div></a>								
-							</li>
-							<li><a href="shop.html"><div><i class="icon-bag"></i>Shop</div></a>								
-							</li>
-							<li class="mega-menu"><a href="#"><div><i class="icon-code"></i>Shortcodes</div></a>
-							</li>
+							<li><a href="shop.html"><div><i class="icon-bag"></i>Contact</div></a>								
+							</li>							
 						</ul>
 
 						

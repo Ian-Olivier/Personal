@@ -11,7 +11,11 @@ namespace Brainwave_Website
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            string pageName = this.Page.ToString().Substring(4, this.Page.ToString().Substring(4).Length - 5) + ".aspx";
+            if (pageName.Equals("AboutUs.aspx"))
+            {
 
+            }
         }
     }
 }
