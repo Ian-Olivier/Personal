@@ -1,9 +1,6 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Navigation.Master" AutoEventWireup="true" CodeBehind="AboutUs.aspx.cs" Inherits="Brainwave_Website.AboutUs" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
-</asp:Content>
-<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-
-    <header>
+    
 
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<meta name="Ian Olivier" content="SemiColonWeb" />
@@ -24,6 +21,10 @@
 
 	<!-- ========================================== -->
 	
-    </header>
+    
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+
+    
 
 </asp:Content>

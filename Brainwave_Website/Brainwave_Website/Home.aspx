@@ -35,7 +35,7 @@
 	============================================= -->
 	<div id="wrapper" class="clearfix">
 
-		
+		<!-- top slide show ------------------------------------------------------------------------- -->
 
 		<section id="slider" class="carousel slider-parallax swiper_wrapper full-screen clearfix">
 			<div class="slider-parallax-inner">
@@ -47,7 +47,7 @@
 							<div class="container clearfix">
 								<div class="slider-caption slider-caption-center">
 									<h2 data-caption-animate="fadeInUp">Welcome to <b style="color:#660033">Brain</b><b style="color:#009999">Wave</b></h2>
-									<p data-caption-animate="fadeInUp" data-caption-delay="200">Create just what you need for your Perfect Website. Choose from a wide range of Elements &amp; simply put them on your own Canvas.</p>
+									<p data-caption-animate="fadeInUp" data-caption-delay="200">Empowering learners to reach their full potential in helping them discover who they are and where they best fit in life</p>
 								</div>
 							</div>
 						</div>
@@ -55,7 +55,7 @@
 						<div class="swiper-slide" style="background-image: url('images/Brainwave/careerguide.jpg'); background-position: center top;">
 							<div class="container clearfix">
 								<div class="slider-caption">
-									<h2 data-caption-animate="fadeInUp">Career Guidance</h2>
+									<h2 data-caption-animate="fadeInUp"><b style="color:#660033">Career</b><b style="color:#009999"> Guidance</b></h2>
 									<p data-caption-animate="fadeInUp" data-caption-delay="200">You'll be surprised to see the Final Results of your Creation &amp; would crave for more.</p>
 								</div>
 							</div>
@@ -64,8 +64,8 @@
                         <div class="swiper-slide" style="background-image: url('images/Brainwave/earlychild.png'); background-position: center top;">
 							<div class="container clearfix">
 								<div class="slider-caption">
-									<h2 data-caption-animate="fadeInUp">Early Childhood Development</h2>
-									<p data-caption-animate="fadeInUp" data-caption-delay="200">You'll be surprised to see the Final Results of your Creation &amp; would crave for more.</p>
+									<h2 data-caption-animate="fadeInUp"><b style="color:#660033">Early</b> <b style="color:#009999">Childhood</b> <b style="color:#660033">Development</b></h2>
+									<p data-caption-animate="fadeInUp" data-caption-delay="200">Committed to putting young children first by ensuring quality early childhood development for our country’s youngest citizens</p>
 								</div>
 							</div>
 						</div>
@@ -88,8 +88,11 @@
 
 			</div>
 		</section>
-
-		<!-- Content
+        <!-- end of slide show =========================================================================================================================================================>
+		
+            
+            
+            <!-- Content intro
 		============================================= -->
 		<section id="content">
 
@@ -117,6 +120,8 @@
 					</div>
 				</div>
 
+                <!-- ================================================================================================================================= -->
+
 				<div class="section nobottommargin">
 					<div class="container clear-bottommargin clearfix">
                         
@@ -132,11 +137,11 @@
 							<div class="col-md-4 bottommargin-sm">
 								<div class="feature-box media-box fbox-bg">
 									<div class="fbox-media">
-										<a href="#"><img class="image_fade" src="images/Brainwave/ECD.jpeg" alt="Featured Box Image"></a>
+										<a href="ECD.aspx"><img class="image_fade" src="images/Brainwave/ECD.jpeg" alt="Featured Box Image"></a>
 									</div>
 									<div class="fbox-desc">
-										<h3 class="nott ls0 t600">Early Childhood Development<span class="subtitle font-secondary t300 ls0">Globally parallel task premium infomediaries</span></h3>
-										<a href="#" class="button-link noborder color">Read More</a>
+										<h3 class="nott ls0 t600">Early Childhood Development<span class="subtitle font-secondary t300 ls0">View our NQF4, NQF5 and Ready Steady Learn programmes.</span></h3>
+										<a href="ECD.aspx" class="button-link noborder color">Read More</a>
 									</div>
 								</div>
 							</div>
@@ -144,11 +149,11 @@
 							<div class="col-md-4 bottommargin-sm">
 								<div class="feature-box media-box fbox-bg">
 									<div class="fbox-media">
-										<a href="#"><img class="image_fade" src="images/Brainwave/Hihjschool.jpg" alt="Featured Box Image"></a>
+										<a href="Primaryschool.aspx"><img class="image_fade" src="images/Brainwave/Hihjschool.jpg" alt="Featured Box Image"></a>
 									</div>
 									<div class="fbox-desc">
-										<h3 class="nott ls0 t600">High School<span class="subtitle font-secondary t300 ls0">Energistically words visualize market-driven.</span></h3>
-										<a href="#" class="button-link noborder color">Read More</a>
+										<h3 class="nott ls0 t600">High School<span class="subtitle font-secondary t300 ls0">Career Guidance, Subject choices and life skills.</span></h3>
+										<a href="Primaryschool.aspx" class="button-link noborder color">Read More</a>
 									</div>
 								</div>
 							</div>
@@ -156,11 +161,11 @@
 							<div class="col-md-4 bottommargin-sm">
 								<div class="feature-box media-box fbox-bg">
 									<div class="fbox-media">
-										<a href="#"><img class="image_fade" src="images/Brainwave/education.jpg" alt="Featured Box Image"></a>
+										<a href="Highschool.aspx"><img class="image_fade" src="images/Brainwave/education.jpg" alt="Featured Box Image"></a>
 									</div>
 									<div class="fbox-desc">
-										<h3 class="nott ls0 t600">Primary school<span class="subtitle font-secondary t300 ls0">Enthusiastically iterate enabled portals after.</span></h3>
-										<a href="#" class="button-link noborder color">Read More</a>
+										<h3 class="nott ls0 t600">Primary school<span class="subtitle font-secondary t300 ls0">English and Maths learner and teacher empowerment.</span></h3>
+										<a href="Highschool.aspx" class="button-link noborder color">Read More</a>
 									</div>
 								</div>
 							</div>
@@ -267,187 +272,28 @@
 				
 
 		
+                <!-- ================================================================================= end of what we offer -->
 
-				<div class="row clearfix bottommargin-lg common-height">
-
-					<div class="col-md-3 col-sm-6 dark center col-padding" style="background-color: #515875;">
-						
-					</div>
-
-					<div class="col-md-3 col-sm-6 dark center col-padding" style="background-color: #576F9E;">
-						
-					</div>
-
-					<div class="col-md-3 col-sm-6 dark center col-padding" style="background-color: #6697B9;">
-						
-					</div>
-
-					<div class="col-md-3 col-sm-6 dark center col-padding" style="background-color: #88C3D8;">
-						
-					</div>
-
-				</div>
 
 				
 
-				<div class="section topmargin nobottommargin nobottomborder">
-					<div class="container clearfix">
-						<div class="heading-block center nomargin">
-							<h3>Photo Gallery</h3>
-						</div>
-					</div>
-				</div>
+				<div class="section parallax dark nobottommargin" style="background-image: url('images/Brainwave/boy.jpg'); padding: 100px 0;" data-stellar-background-ratio="0.4">
 
-				<div id="portfolio" class="portfolio portfolio-nomargin grid-container portfolio-notitle portfolio-full grid-container clearfix">
-
-					<article class="portfolio-item pf-media pf-icons">
-						<div class="portfolio-image">
-							<a href="portfolio-single.html">
-								<img src="images/portfolio/4/1.jpg" alt="Open Imagination">
-							</a>
-							<div class="portfolio-overlay">
-								<a href="images/portfolio/full/1.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
-								
-							</div>
-						</div>
-						<div class="portfolio-desc">
-							<h3><a href="portfolio-single.html">Open Imagination</a></h3>
-							
-						</div>
-					</article>
-
-					<article class="portfolio-item pf-illustrations">
-						<div class="portfolio-image">
-							<a href="portfolio-single.html">
-								<img src="images/portfolio/4/2.jpg" alt="Locked Steel Gate">
-							</a>
-							<div class="portfolio-overlay">
-								<a href="images/portfolio/full/2.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
-								
-							</div>
-						</div>
-						<div class="portfolio-desc">
-							<h3><a href="portfolio-single.html">Locked Steel Gate</a></h3>
-							
-						</div>
-					</article>
-
-					<article class="portfolio-item pf-graphics pf-uielements">
-						<div class="portfolio-image">
-							<a href="#">
-								<img src="images/portfolio/4/3.jpg" alt="Mac Sunglasses">
-							</a>
-							<div class="portfolio-overlay">
-								<a href="http://vimeo.com/89396394" class="left-icon" data-lightbox="iframe"><i class="icon-line-play"></i></a>
-								
-							</div>
-						</div>
-						<div class="portfolio-desc">
-							<h3><a href="portfolio-single-video.html">Mac Sunglasses</a></h3>
-							
-						</div>
-					</article>
-
-					<article class="portfolio-item pf-icons pf-illustrations">
-						<div class="portfolio-image">
-							<a href="portfolio-single.html">
-								<img src="images/portfolio/4/4.jpg" alt="Open Imagination">
-							</a>
-							<div class="portfolio-overlay" data-lightbox="gallery">
-								<a href="images/portfolio/full/4.jpg" class="left-icon" data-lightbox="gallery-item"><i class="icon-line-stack-2"></i></a>
-								<a href="images/portfolio/full/4-1.jpg" class="hidden" data-lightbox="gallery-item"></a>
-								
-							</div>
-						</div>
-						<div class="portfolio-desc">
-							<h3><a href="portfolio-single-gallery.html">Morning Dew</a></h3>
-							
-						</div>
-					</article>
-
-					<article class="portfolio-item pf-uielements pf-media">
-						<div class="portfolio-image">
-							<a href="portfolio-single.html">
-								<img src="images/portfolio/4/5.jpg" alt="Console Activity">
-							</a>
-							<div class="portfolio-overlay">
-								<a href="images/portfolio/full/5.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
-								
-							</div>
-						</div>
-						<div class="portfolio-desc">
-							<h3><a href="portfolio-single.html">Console Activity</a></h3>
-							
-						</div>
-					</article>
-
-					<article class="portfolio-item pf-graphics pf-illustrations">
-						<div class="portfolio-image">
-							<a href="portfolio-single.html">
-								<img src="images/portfolio/4/6.jpg" alt="Open Imagination">
-							</a>
-							<div class="portfolio-overlay" data-lightbox="gallery">
-								<a href="images/portfolio/full/6.jpg" class="left-icon" data-lightbox="gallery-item"><i class="icon-line-stack-2"></i></a>
-								<a href="images/portfolio/full/6-1.jpg" class="hidden" data-lightbox="gallery-item"></a>
-								<a href="images/portfolio/full/6-2.jpg" class="hidden" data-lightbox="gallery-item"></a>
-								<a href="images/portfolio/full/6-3.jpg" class="hidden" data-lightbox="gallery-item"></a>
-								
-							</div>
-						</div>
-						<div class="portfolio-desc">
-							<h3><a href="portfolio-single-gallery.html">Shake It!</a></h3>
-							
-						</div>
-					</article>
-
-					<article class="portfolio-item pf-uielements pf-icons">
-						<div class="portfolio-image">
-							<a href="portfolio-single-video.html">
-								<img src="images/portfolio/4/7.jpg" alt="Backpack Contents">
-							</a>
-							<div class="portfolio-overlay">
-								<a href="http://www.youtube.com/watch?v=kuceVNBTJio" class="left-icon" data-lightbox="iframe"><i class="icon-line-play"></i></a>
-								
-							</div>
-						</div>
-						<div class="portfolio-desc">
-							<h3><a href="portfolio-single-video.html">Backpack Contents</a></h3>
-							
-						</div>
-					</article>
-
-					<article class="portfolio-item pf-graphics">
-						<div class="portfolio-image">
-							<a href="portfolio-single.html">
-								<img src="images/portfolio/4/8.jpg" alt="Sunset Bulb Glow">
-							</a>
-							<div class="portfolio-overlay">
-								<a href="images/portfolio/full/8.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
-								
-							</div>
-						</div>
-						<div class="portfolio-desc">
-							<h3><a href="portfolio-single.html">Sunset Bulb Glow</a></h3>
-							
-						</div>
-					</article>
-
-				</div>
-
-
-				<div class="clear"></div>
-
-				<a href="portfolio.html" class="button button-full button-dark center tright bottommargin-lg">
-					<div class="container clearfix">
-						<strong>See More</strong> <i class="icon-caret-right" style="top:4px;"></i>
-					</div>
-				</a>
-
-				
-
-				<div class="section parallax dark nobottommargin" style="background-image: url('images/Brainwave/welcome2.png'); padding: 100px 0;" data-stellar-background-ratio="0.4">
-
-					<div class="heading-block center">
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    
+                    
+					<!--<div class="heading-block center">
 						<h3>What Clients Say?</h3>
 					</div>
 
@@ -468,7 +314,7 @@
 								</div>								
 							</div>
 						</div>
-					</div>
+					</div> -->
 
 				</div>
 

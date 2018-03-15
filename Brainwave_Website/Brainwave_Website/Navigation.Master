@@ -49,11 +49,11 @@
 							</li>
 							<li><a href="AboutUs.aspx" id="abouttab" runat="server"><div><i class="icon-info"></i>About Us</div></a>	
 							</li>
-							<li><a href="#"><div><i class="icon-cart"></i>Products</div></a>	
+							<li><a href="Product.aspx"><div><i class="icon-cart"></i>Products</div></a>	
 							</li>							
 							<li><a href="#"><div><i class="icon-pencil2"></i>News</div></a>								
 							</li>
-							<li><a href="shop.html"><div><i class="icon-bag"></i>Contact</div></a>								
+							<li><a href="shop.html"><div><i class="icon-email3"></i>Contact</div></a>								
 							</li>							
 						</ul>
 
@@ -66,6 +66,7 @@
 			</div>
 
 		</header><!-- #header end -->
+
 
 
     <form id="form1" runat="server">
