@@ -531,7 +531,7 @@
 							<div class="row">
 
 								<div class="col-md-6 bottommargin-sm">
-									<div class="counter counter-small"><span data-from="50" data-to="46720" data-refresh-interval="80" data-speed="3000" data-comma="true"></span></div>
+									<div class="counter counter-small"><span data-from="100" data-to="46720" data-refresh-interval="80" data-speed="3000" data-comma="true"></span></div>
 									<h5 class="nobottommargin">Teachers and learners helped</h5>
 								</div>
 
@@ -545,7 +545,7 @@
 						</div>
 
 						<div class="widget subscribe-widget clearfix">
-							<h5>For any further information about us as well as enquiries feel free to contact us <a href="https://twitter.com/BrainwaveCareer"><strong>here</strong></a></h5>
+							<h5>For any further information about us as well as enquiries feel free to contact us <a href="Contact.aspx"><strong>here</strong></a></h5>
 							<div class="widget-subscribe-form-result"></div>
 						</div>
 

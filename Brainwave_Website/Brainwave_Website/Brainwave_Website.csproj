@@ -233,6 +233,7 @@
     <Content Include="images\Brainwave\earlychild.png" />
     <Content Include="images\Brainwave\ECD.jpeg" />
     <Content Include="images\Brainwave\education.jpg" />
+    <Content Include="images\Brainwave\grad.jpeg" />
     <Content Include="images\Brainwave\Hihjschool.jpg" />
     <Content Include="images\Brainwave\inc.jpg" />
     <Content Include="images\Brainwave\incc.jpg" />
@@ -3635,7 +3636,6 @@
   <ItemGroup>
     <Content Include="Home.aspx" />
     <Content Include="News.aspx" />
-    <Content Include="Photos.aspx" />
     <Content Include="Policy.aspx" />
     <Content Include="Primaryschool.aspx" />
     <Content Include="Product.aspx" />
@@ -3705,13 +3705,6 @@
     </Compile>
     <Compile Include="News.aspx.designer.cs">
       <DependentUpon>News.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Photos.aspx.cs">
-      <DependentUpon>Photos.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Photos.aspx.designer.cs">
-      <DependentUpon>Photos.aspx</DependentUpon>
     </Compile>
     <Compile Include="Policy.aspx.cs">
       <DependentUpon>Policy.aspx</DependentUpon>
