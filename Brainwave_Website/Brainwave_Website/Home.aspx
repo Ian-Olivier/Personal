@@ -149,11 +149,11 @@
 							<div class="col-md-4 bottommargin-sm">
 								<div class="feature-box media-box fbox-bg">
 									<div class="fbox-media">
-										<a href="Primaryschool.aspx"><img class="image_fade" src="images/Brainwave/Hihjschool.jpg" alt="Featured Box Image"></a>
+										<a href="Highschool.aspx"><img class="image_fade" src="images/Brainwave/Hihjschool.jpg" alt="Featured Box Image"></a>
 									</div>
 									<div class="fbox-desc">
 										<h3 class="nott ls0 t600">High School<span class="subtitle font-secondary t300 ls0">Career Guidance, Subject choices and life skills.</span></h3>
-										<a href="Primaryschool.aspx" class="button-link noborder color">Read More</a>
+										<a href="Highschool.aspx" class="button-link noborder color">Read More</a>
 									</div>
 								</div>
 							</div>
@@ -161,11 +161,11 @@
 							<div class="col-md-4 bottommargin-sm">
 								<div class="feature-box media-box fbox-bg">
 									<div class="fbox-media">
-										<a href="Highschool.aspx"><img class="image_fade" src="images/Brainwave/education.jpg" alt="Featured Box Image"></a>
+										<a href="Primaryschool.aspx"><img class="image_fade" src="images/Brainwave/education.jpg" alt="Featured Box Image"></a>
 									</div>
 									<div class="fbox-desc">
 										<h3 class="nott ls0 t600">Primary school<span class="subtitle font-secondary t300 ls0">English and Maths learner and teacher empowerment.</span></h3>
-										<a href="Highschool.aspx" class="button-link noborder color">Read More</a>
+										<a href="Primaryschool.aspx" class="button-link noborder color">Read More</a>
 									</div>
 								</div>
 							</div>
@@ -182,11 +182,11 @@
                             <div class="col-md-4 bottommargin-sm">
 								<div class="feature-box media-box fbox-bg">
 									<div class="fbox-media">
-										<a href="#"><img class="image_fade" src="images/Brainwave/wrok.jpg" alt="Featured Box Image"></a>
+										<a href="WorkShops.aspx"><img class="image_fade" src="images/Brainwave/wrok.jpg" alt="Featured Box Image"></a>
 									</div>
 									<div class="fbox-desc">
-										<h3 class="nott ls0 t600">Motivational Workshops<span class="subtitle font-secondary t300 ls0">Globally parallel task premium infomediaries</span></h3>
-										<a href="#" class="button-link noborder color">Read More</a>
+										<h3 class="nott ls0 t600">Motivational Workshops<span class="subtitle font-secondary t300 ls0">Life Skills, Teambuilding and Anger Management.</span></h3>
+										<a href="WorkShops.aspx" class="button-link noborder color">Read More</a>
 									</div>
 								</div>
 							</div>
@@ -194,11 +194,11 @@
 							<div class="col-md-4 bottommargin-sm">
 								<div class="feature-box media-box fbox-bg">
 									<div class="fbox-media">
-										<a href="#"><img class="image_fade" src="images/Brainwave/app3.jpeg" alt="Featured Box Image"></a>
+										<a href="CXplore.aspx"><img class="image_fade" src="images/Brainwave/app3.jpeg" alt="Featured Box Image"></a>
 									</div>
 									<div class="fbox-desc">
-										<h3 class="nott ls0 t600">CareerXplora App<span class="subtitle font-secondary t300 ls0">Energistically words visualize market-driven.</span></h3>
-										<a href="#" class="button-link noborder color">Read More</a>
+										<h3 class="nott ls0 t600">CareerXplora App<span class="subtitle font-secondary t300 ls0">Career Advise and Live chat, all availoble on our App.</span></h3>
+										<a href="CXplore.aspx" class="button-link noborder color">Read More</a>
 									</div>
 								</div>
 							</div>
@@ -206,11 +206,11 @@
 							<div class="col-md-4 bottommargin-sm">
 								<div class="feature-box media-box fbox-bg">
 									<div class="fbox-media">
-										<a href="#"><img class="image_fade" src="images/Brainwave/carinfo.jpeg" alt="Featured Box Image"></a>
+										<a href="CareerGuidance.aspx"><img class="image_fade" src="images/Brainwave/carinfo.jpeg" alt="Featured Box Image"></a>
 									</div>
 									<div class="fbox-desc">
-										<h3 class="nott ls0 t600">Career Info<span class="subtitle font-secondary t300 ls0">Enthusiastically iterate enabled portals after.</span></h3>
-										<a href="#" class="button-link noborder color">Read More</a>
+										<h3 class="nott ls0 t600">Career Info<span class="subtitle font-secondary t300 ls0">Job descriptions. Bursaries and What and Where to study.</span></h3>
+										<a href="CareerGuidance.aspx" class="button-link noborder color">Read More</a>
 									</div>
 								</div>
 							</div>
@@ -228,11 +228,11 @@
                             <div class="col-md-4 bottommargin-sm">
 								<div class="feature-box media-box fbox-bg">
 									<div class="fbox-media">
-										<a href="#"><img class="image_fade" src="images/Brainwave/intro.jpg" alt="Featured Box Image"></a>
+										<a href="SResponsibility.aspx"><img class="image_fade" src="images/Brainwave/intro.jpg" alt="Featured Box Image"></a>
 									</div>
 									<div class="fbox-desc">
-										<h3 class="nott ls0 t600">Social Responsibility<span class="subtitle font-secondary t300 ls0">Globally parallel task premium infomediaries</span></h3>
-										<a href="#" class="button-link noborder color">Read More</a>
+										<h3 class="nott ls0 t600">Social Responsibility<span class="subtitle font-secondary t300 ls0">Giving back to the community.</span></h3>
+										<a href="SResponsibility.aspx" class="button-link noborder color">Read More</a>
 									</div>
 								</div>
 							</div>
@@ -240,11 +240,11 @@
 							<div class="col-md-4 bottommargin-sm">
 								<div class="feature-box media-box fbox-bg">
 									<div class="fbox-media">
-										<a href="#"><img class="image_fade" src="images/Brainwave/suc.jpg" alt="Featured Box Image"></a>
+										<a href="SStories.aspx"><img class="image_fade" src="images/Brainwave/suc.jpg" alt="Featured Box Image"></a>
 									</div>
 									<div class="fbox-desc">
-										<h3 class="nott ls0 t600">Success Stories<span class="subtitle font-secondary t300 ls0">Energistically words visualize market-driven.</span></h3>
-										<a href="#" class="button-link noborder color">Read More</a>
+										<h3 class="nott ls0 t600">Success Stories<span class="subtitle font-secondary t300 ls0">Testimonials from our clients.</span></h3>
+										<a href="SStories.aspx" class="button-link noborder color">Read More</a>
 									</div>
 								</div>
 							</div>
@@ -252,11 +252,11 @@
 							<div class="col-md-4 bottommargin-sm">
 								<div class="feature-box media-box fbox-bg">
 									<div class="fbox-media">
-										<a href="#"><img class="image_fade" src="images/Brainwave/qui.jpg" alt="Featured Box Image"></a>
+										<a href="Quiz.aspx"><img class="image_fade" src="images/Brainwave/qui.jpg" alt="Featured Box Image"></a>
 									</div>
 									<div class="fbox-desc">
-										<h3 class="nott ls0 t600">Quizzes<span class="subtitle font-secondary t300 ls0">Enthusiastically iterate enabled portals after.</span></h3>
-										<a href="#" class="button-link noborder color">Read More</a>
+										<h3 class="nott ls0 t600">Quizzes<span class="subtitle font-secondary t300 ls0">Personality, and Career Interests.</span></h3>
+										<a href="Quiz.aspx" class="button-link noborder color">Read More</a>
 									</div>
 								</div>
 							</div>

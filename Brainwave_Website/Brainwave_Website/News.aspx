@@ -28,7 +28,35 @@
 
    
 
-    
+  
+
+		<!-- top slide show ------------------------------------------------------------------------- -->
+
+		<section id="slider" class="carousel slider-parallax swiper_wrapper full-screen clearfix">
+			<div class="slider-parallax-inner">
+
+				<div class="swiper-container swiper-parent">
+					<div class="swiper-wrapper">
+
+						<div class="swiper-slide dark" style="background-image: url('images/Brainwave/tes.jpeg');">
+							<div class="container clearfix">
+								<div class="slider-caption slider-caption-center">
+                                    <i class="i-plain i-xxlarge divcenter nobottommargin icon-warning-sign"></i>
+									<h2 data-caption-animate="fadeInUp"><b style="color:#660033">Under </b><b style="color:#009999">Construction</b></h2>
+									<p style="color:#009999" data-caption-animate="fadeInUp" data-caption-delay="200">We've gone out for tea, news will be up as soon as it becomes available</p>
+                                    <a href="Home.aspx" class="add-to-cart button nomargin"><i class="icon-arrow-left"></i> Back to Home</a>
+								</div>
+							</div>
+						</div>
+					</div>
+						
+				</div>
+
+				<a href="#" data-scrollto="#content" data-offset="100" class="dark one-page-arrow"><i class="icon-angle-down infinite animated fadeInDown"></i></a>
+
+			</div>
+		</section>
+        <!-- end of slide show =========================================================================================================================================================>
 	
     
     <!-- Footer
