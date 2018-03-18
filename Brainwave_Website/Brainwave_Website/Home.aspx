@@ -209,7 +209,7 @@
 										<a href="CareerGuidance.aspx"><img class="image_fade" src="images/Brainwave/carinfo.jpeg" alt="Featured Box Image"></a>
 									</div>
 									<div class="fbox-desc">
-										<h3 class="nott ls0 t600">Career Info<span class="subtitle font-secondary t300 ls0">Job descriptions. Bursaries and What and Where to study.</span></h3>
+										<h3 class="nott ls0 t600">Career Guidance<span class="subtitle font-secondary t300 ls0">Job descriptions. Bursaries and What and Where to study.</span></h3>
 										<a href="CareerGuidance.aspx" class="button-link noborder color">Read More</a>
 									</div>
 								</div>

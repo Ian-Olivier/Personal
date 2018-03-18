@@ -67,6 +67,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="AboutUs.aspx" />
+    <Content Include="Area1.aspx" />
+    <Content Include="Area2.aspx" />
+    <Content Include="Area3.aspx" />
+    <Content Include="Area4.aspx" />
+    <Content Include="Area5.aspx" />
+    <Content Include="Area9.aspx" />
     <Content Include="CareerGuidance.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="css\animate.css" />
@@ -225,25 +231,43 @@
     <Content Include="images\blog\standard\20.jpg" />
     <Content Include="images\blog\standard\21.jpg" />
     <Content Include="images\blog\standard\22.jpg" />
+    <Content Include="images\Brainwave\agi.jpg" />
+    <Content Include="images\Brainwave\alm.jpg" />
     <Content Include="images\Brainwave\app3.jpeg" />
+    <Content Include="images\Brainwave\art.jpg" />
+    <Content Include="images\Brainwave\bill.jpg" />
+    <Content Include="images\Brainwave\bio.jpg" />
     <Content Include="images\Brainwave\boy.jpg" />
     <Content Include="images\Brainwave\bulb.jpeg" />
+    <Content Include="images\Brainwave\bus.jpeg" />
     <Content Include="images\Brainwave\careerguide.jpg" />
     <Content Include="images\Brainwave\carinfo.jpeg" />
+    <Content Include="images\Brainwave\comp.jpeg" />
     <Content Include="images\Brainwave\earlychild.png" />
     <Content Include="images\Brainwave\ECD.jpeg" />
     <Content Include="images\Brainwave\education.jpg" />
+    <Content Include="images\Brainwave\edus.jpg" />
+    <Content Include="images\Brainwave\engi.jpg" />
+    <Content Include="images\Brainwave\engir.jpg" />
+    <Content Include="images\Brainwave\fin.jpg" />
     <Content Include="images\Brainwave\grad.jpeg" />
+    <Content Include="images\Brainwave\gui.jpeg" />
     <Content Include="images\Brainwave\Hihjschool.jpg" />
+    <Content Include="images\Brainwave\Hospitality.jpg" />
     <Content Include="images\Brainwave\inc.jpg" />
     <Content Include="images\Brainwave\incc.jpg" />
     <Content Include="images\Brainwave\infocc.jpg" />
     <Content Include="images\Brainwave\intro.jpg" />
+    <Content Include="images\Brainwave\IT.jpg" />
+    <Content Include="images\Brainwave\law.jpg" />
     <Content Include="images\Brainwave\lightwelcome.png" />
     <Content Include="images\Brainwave\logo_footer.png" />
+    <Content Include="images\Brainwave\musk.png" />
+    <Content Include="images\Brainwave\neil.jpg" />
     <Content Include="images\Brainwave\prim.jpeg" />
     <Content Include="images\Brainwave\prima.jpg" />
     <Content Include="images\Brainwave\qui.jpg" />
+    <Content Include="images\Brainwave\science.jpeg" />
     <Content Include="images\Brainwave\suc.jpg" />
     <Content Include="images\Brainwave\tea.jpeg" />
     <Content Include="images\Brainwave\tes.jpeg" />
@@ -3655,6 +3679,48 @@
     </Compile>
     <Compile Include="AboutUs.aspx.designer.cs">
       <DependentUpon>AboutUs.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Area1.aspx.cs">
+      <DependentUpon>Area1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Area1.aspx.designer.cs">
+      <DependentUpon>Area1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Area2.aspx.cs">
+      <DependentUpon>Area2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Area2.aspx.designer.cs">
+      <DependentUpon>Area2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Area3.aspx.cs">
+      <DependentUpon>Area3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Area3.aspx.designer.cs">
+      <DependentUpon>Area3.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Area4.aspx.cs">
+      <DependentUpon>Area4.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Area4.aspx.designer.cs">
+      <DependentUpon>Area4.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Area5.aspx.cs">
+      <DependentUpon>Area5.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Area5.aspx.designer.cs">
+      <DependentUpon>Area5.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Area9.aspx.cs">
+      <DependentUpon>Area9.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Area9.aspx.designer.cs">
+      <DependentUpon>Area9.aspx</DependentUpon>
     </Compile>
     <Compile Include="CareerGuidance.aspx.cs">
       <DependentUpon>CareerGuidance.aspx</DependentUpon>
