@@ -118,76 +118,76 @@
 
 						<div class="entry clearfix">
 							<div class="entry-image">
-								<a href="images/blog/full/17.jpg" data-lightbox="image"><img class="image_fade" src="images/Brainwave/agi.jpg" alt="Standard Post with Image"></a>
+								<a href="images/Brainwave/agi.jpg" data-lightbox="image"><img class="image_fade" src="images/Brainwave/agi.jpg" alt="Standard Post with Image"></a>
 							</div>
 							<div class="entry-title">
-								<h2><a href="blog-single.html">Area 5: AGRICULTURE AND ENVIRONMENT</a></h2>
+								<h2><a href="Area5.aspx">Area 5: AGRICULTURE AND ENVIRONMENT</a></h2>
 							</div>
 							
 							<div class="entry-content">
                                 <h4>Subject advice</h4>
 								<p>Maths or Maths Literacy, Physical Sciences and/or Life Sciences and/or Geography are compulsory for certain degrees in this area. Complementing subjects such as Agricultural Sciences, Agricultural Technology and Agricultural Management Practices, Engineering Graphic and Design, Economics and Business Studies are recommended for this area. </p>
-								<a href="#"class="more-link">Read More</a>
+								<a href="Area5.aspx"class="more-link">Read More</a>
 							</div>
 						</div>
 
 						<div class="entry clearfix">
 							<div class="entry-image">
-								<a href="images/blog/full/17.jpg" data-lightbox="image"><img class="image_fade" src="images/Brainwave/edus.jpg" alt="Standard Post with Image"></a>
+								<a href="images/Brainwave/edus.jpg" data-lightbox="image"><img class="image_fade" src="images/Brainwave/edus.jpg" alt="Standard Post with Image"></a>
 							</div>
 							<div class="entry-title">
-								<h2><a href="blog-single.html">Area 6: HUMAN, SOCIAL AND EDUCATION</a></h2>
+								<h2><a href="Area6.aspx">Area 6: HUMAN, SOCIAL AND EDUCATION</a></h2>
 							</div>
 							
 							<div class="entry-content">
                                 <h4>Subject advice</h4>
 								<p>Afrikaans and English, Maths or Maths Literacy are compulsory. Complementing subjects such as Languages, Life Sciences, Tourism, Computer Application Technology (CAT), History, Business Studies, Biblical Studies and Geography are recommended for this area.  </p>
-								<a href="#"class="more-link">Read More</a>
+								<a href="Area6.aspx"class="more-link">Read More</a>
 							</div>
 						</div>
 
 						<div class="entry clearfix">
 							<div class="entry-image">
-								<a href="images/blog/full/17.jpg" data-lightbox="image"><img class="image_fade" src="images/Brainwave/Hospitality.jpg" alt="Standard Post with Image"></a>
+								<a href="images/Brainwave/Hospitality.jpg" data-lightbox="image"><img class="image_fade" src="images/Brainwave/Hospitality.jpg" alt="Standard Post with Image"></a>
 							</div>
 							<div class="entry-title">
-								<h2><a href="blog-single.html">Area 7: SERVICES</a></h2>
+								<h2><a href="Area7.aspx">Area 7: SERVICES</a></h2>
 							</div>
 							
 							<div class="entry-content">
                                 <h4>Subject advice</h4>
 								<p>Afrikaans and English, Maths or Maths Literacy are compulsory. Complementing subjects such as another Language, Tourism, Computer Application Technology (CAT), Hospitality, Consumer Sciences, History, Business Studies, Economics, Accounting, and Geography are recommended for this area.</p>
-								<a href="#"class="more-link">Read More</a>
+								<a href="Area7.aspx"class="more-link">Read More</a>
 							</div>
 						</div>
 
 						<div class="entry clearfix">
 							<div class="entry-image">
-								<a href="images/blog/full/17.jpg" data-lightbox="image"><img class="image_fade" src="images/Brainwave/art.jpg" alt="Standard Post with Image"></a>
+								<a href="images/Brainwave/art.jpg" data-lightbox="image"><img class="image_fade" src="images/Brainwave/art.jpg" alt="Standard Post with Image"></a>
 							</div>
 							<div class="entry-title">
-								<h2><a href="blog-single.html">Area 8: ARTS AND CULTURE</a></h2>
+								<h2><a href="Area8.aspx">Area 8: ARTS AND CULTURE</a></h2>
 							</div>
 							
 							<div class="entry-content">
                                 <h4>Subject advice</h4>
 								<p>English with one additional National Senior Certificate language and Maths or Maths Literacy are compulsory. Complementing subjects such as Design, Visual Arts, Business Studies, Music, Dramatic Arts; and Dance Studies are recommended for this area.</p>
-								<a href="#"class="more-link">Read More</a>
+								<a href="Area8.aspx"class="more-link">Read More</a>
 							</div>
 						</div>
 
                         <div class="entry clearfix">
 							<div class="entry-image">
-								<a href="images/blog/full/17.jpg" data-lightbox="image"><img class="image_fade" src="images/Brainwave/law.jpg" alt="Standard Post with Image"></a>
+								<a href="images/Brainwave/law.jpg" data-lightbox="image"><img class="image_fade" src="images/Brainwave/law.jpg" alt="Standard Post with Image"></a>
 							</div>
 							<div class="entry-title">
-								<h2><a href="blog-single.html">Area 9: LANGUAGES AND LAW</a></h2>
+								<h2><a href="Area9.aspx">Area 9: LANGUAGES AND LAW</a></h2>
 							</div>
 							
 							<div class="entry-content">
                                 <h4>Subject advice</h4>
 								<p>English or Afrikaans with another National Senior Certificate language and Maths or Maths Literacy is compulsory. Complementing subjects such as Languages, History, Business Studies and Accounting are recommended for this area. </p>
-								<a href="#"class="more-link">Read More</a>
+								<a href="Area9.aspx"class="more-link">Read More</a>
 							</div>
 						</div>
 

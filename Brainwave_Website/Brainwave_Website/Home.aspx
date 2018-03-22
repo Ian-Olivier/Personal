@@ -70,11 +70,11 @@
 							</div>
 						</div>
 
-                        <div class="swiper-slide" style="background-image: url('images/slider/swiper/3.jpg'); background-position: center top;">
+                        <div class="swiper-slide" style="background-image: url('images/Brainwave/newXp.png'); background-position: center top;">
 							<div class="container clearfix">
 								<div class="slider-caption">
-									<h2 data-caption-animate="fadeInUp">CareerXplora Mobile App</h2>
-									<p data-caption-animate="fadeInUp" data-caption-delay="200">You'll be surprised to see the Final Results of your Creation &amp; would crave for more.</p>
+									<h2 data-caption-animate="fadeInUp"><b style="color:#660033">CareerXplora</b><b style="color:#009999"> Mobile App</b></h2>
+									<p data-caption-animate="fadeInUp" data-caption-delay="200">Get a better understanding of the world of work and where you fit into it </p>
 								</div>
 							</div>
 						</div>

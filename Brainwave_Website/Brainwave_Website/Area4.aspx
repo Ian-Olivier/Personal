@@ -135,11 +135,11 @@
 
 								<div class="mpost clearfix">
 									<div class="entry-image">
-										<a href="Area3.aspx"><img src="images/Brainwave/law.jpg" alt="Blog Single"></a>
+										<a href="Area9.aspx"><img src="images/Brainwave/law.jpg" alt="Blog Single"></a>
 									</div>
 									<div class="entry-c">
 										<div class="entry-title">
-											<h4><a href="Area3.aspx">LANGUAGES AND LAW</a></h4>
+											<h4><a href="Area9.aspx">LANGUAGES AND LAW</a></h4>
 										</div>										
 										<div class="entry-content"></div>
 									</div>
