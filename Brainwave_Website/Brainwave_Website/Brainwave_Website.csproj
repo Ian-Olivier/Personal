@@ -252,6 +252,7 @@
     <Content Include="images\Brainwave\comp.jpeg" />
     <Content Include="images\Brainwave\earlychild.png" />
     <Content Include="images\Brainwave\ECD.jpeg" />
+    <Content Include="images\Brainwave\EDC.jpeg" />
     <Content Include="images\Brainwave\education.jpg" />
     <Content Include="images\Brainwave\educs.jpeg" />
     <Content Include="images\Brainwave\edus.jpg" />
