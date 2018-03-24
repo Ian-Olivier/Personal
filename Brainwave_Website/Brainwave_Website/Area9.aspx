@@ -71,22 +71,22 @@
 							<div class="entry-content notopmargin">
 
                                 <h4>Subject advice</h4>
-                                <p>English or Afrikaans with another National Senior Certificate language and Maths or Maths Literacy is compulsory. Complementing subjects such as Languages, History, Business Studies and Accounting are recommended for this area. </p>
+                                <p style="font-size:18px">English or Afrikaans with another National Senior Certificate language and Maths or Maths Literacy is compulsory. Complementing subjects such as Languages, History, Business Studies and Accounting are recommended for this area. </p>
 
                                 <h4>University courses</h4>
-                                <p>For B Com degrees, you need English and one additional language as well as Maths. For BA degrees, you need the two languages and Maths or Maths Literacy. </p>
+                                <p style="font-size:18px">For B Com degrees, you need English and one additional language as well as Maths. For BA degrees, you need the two languages and Maths or Maths Literacy. </p>
 
                                 <h4>University of Technology</h4>
-                                <p>For a National Diploma in Journalism or Languages you need Afrikaans or English with another National Senior Certificate language, and Maths or Maths Literacy. </p>
+                                <p style="font-size:18px">For a National Diploma in Journalism or Languages you need Afrikaans or English with another National Senior Certificate language, and Maths or Maths Literacy. </p>
 
                                 
 
                                 <h4>Private Institutions</h4>
-                                <p>For Degrees or National Diplomas, admission requirements differ from Institution to institution. For B Com Law, English and Maths are compulsory. </p>
+                                <p style="font-size:18px">For Degrees or National Diplomas, admission requirements differ from Institution to institution. For B Com Law, English and Maths are compulsory. </p>
                                
 
                                 <h4>Career Fields</h4>
-								<ul>
+								<ul style="font-size:18px">
                                     <li>Languages or Journalism</li>
                                     <li>Law or Legal support</li>
                                     

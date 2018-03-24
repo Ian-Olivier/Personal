@@ -71,25 +71,25 @@
 							<div class="entry-content notopmargin">
 
                                 <h4>Subject advice</h4>
-								<p>Maths and Physical Sciences are compulsory for all Engineering degrees and for most National Diplomas. Complementary subjects such as Maths Literacy, Geography, Information Technology, Computer Application Technology (CAT), Mechanical, Civil and Electrical Engineering are recommended for this area.</p>
+								<p style="font-size:18px">Maths and Physical Sciences are compulsory for all Engineering degrees and for most National Diplomas. Complementary subjects such as Maths Literacy, Geography, Information Technology, Computer Application Technology (CAT), Mechanical, Civil and Electrical Engineering are recommended for this area.</p>
 
                                 <h4>University Courses</h4>
-								<p>Maths and Physical Sciences and English are compulsory, and you have to obtain a minimum of 5 in all your subjects (at UJ) with an Average Point Score (APS) of 35 for your 6 academic subjects. There are, however, universities that require a minimum of a 7 for Maths and a 6 or 7 for Physical Sciences for Engineering. </p>
+								<p style="font-size:18px">Maths and Physical Sciences and English are compulsory, and you have to obtain a minimum of 5 in all your subjects (at UJ) with an Average Point Score (APS) of 35 for your 6 academic subjects. There are, however, universities that require a minimum of a 7 for Maths and a 6 or 7 for Physical Sciences for Engineering. </p>
 
                                 <h4>University of Technology Courses</h4>
-								<p>Maths and Physical Sciences are compulsory for most of the 
+								<p style="font-size:18px">Maths and Physical Sciences are compulsory for most of the 
                                 Diploma / B Tech courses. There are some National Diplomas such as Industrial Design where Maths Literacy 
                                 is accepted. 
                                 </p>
 
                                 <h4>Technical Vocational Education and Training (TVET) Colleges</h4>
-								<p>You need Grade 9 and you must be 16 years old.</p>
+								<p style="font-size:18px">You need Grade 9 and you must be 16 years old.</p>
 
                                 <h4>Private Institutions and Training Centres</h4>
-								<p>Admission requirements differ from institution to institution, therefore you must make completely sure your marks comply with their criteria. </p>
+								<p style="font-size:18px">Admission requirements differ from institution to institution, therefore you must make completely sure your marks comply with their criteria. </p>
 
                                 <h4>Career Fields</h4>
-								<ul>
+								<ul style="font-size:18px">
                                     <li>Engineering or Engineering Support</li>
                                     <li>Architecture, Draughting and Technical Drawing</li>
                                     <li>Building and Construction or Building Support</li>
@@ -119,7 +119,7 @@
 							<div class="panel-heading">
 								<h3 class="panel-title">Quote by <span><a>Elon Musk</a></span></h3>
 							</div>
-							<div class="panel-body">
+							<div class="panel-body" style="font-size:18px">
 								<div class="author-image">
 									<img src="images/Brainwave/musk.png" alt="" class="img-circle">
 								</div>

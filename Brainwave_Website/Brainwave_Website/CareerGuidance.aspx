@@ -63,7 +63,7 @@
 							
 							<div class="entry-content">
                                 <h4>Subject advice</h4>
-								<p>Maths and Physical Sciences are compulsory for all Engineering degrees and for most National Diplomas. Complementary subjects such as Maths Literacy, Geography, Information Technology, Computer Application Technology (CAT), Mechanical, Civil and Electrical Engineering are recommended for this area.</p>
+								<p style="font-size:18px">Maths and Physical Sciences are compulsory for all Engineering degrees and for most National Diplomas. Complementary subjects such as Maths Literacy, Geography, Information Technology, Computer Application Technology (CAT), Mechanical, Civil and Electrical Engineering are recommended for this area.</p>
 								<a href="Area1.aspx"class="more-link">Read More</a>
 							</div>
 						</div>
@@ -78,7 +78,7 @@
 							
 							<div class="entry-content">
                                 <h4>Subject advice</h4>
-								<p>Maths, Physical Sciences, Life Sciences with complementary subjects such as Business Studies and Accounting are recommended for this career area.</p>
+								<p style="font-size:18px">Maths, Physical Sciences, Life Sciences with complementary subjects such as Business Studies and Accounting are recommended for this career area.</p>
 								<a href="Area2.aspx"class="more-link">Read More</a>
 							</div>
 						</div>
@@ -93,7 +93,7 @@
 							
 							<div class="entry-content">
                                 <h4>Subject advice</h4>
-								<p>Maths or Maths Literacy is compulsory with complementary subjects such as Physical Science, Information Technology and Computer Application Technology (CAT) are important for this area. For computer animation, Visual Arts and Design are highly recommended.</p>
+								<p style="font-size:18px">Maths or Maths Literacy is compulsory with complementary subjects such as Physical Science, Information Technology and Computer Application Technology (CAT) are important for this area. For computer animation, Visual Arts and Design are highly recommended.</p>
 								<a href="Area3.aspx"class="more-link">Read More</a>
 							</div>
 						</div>
@@ -110,7 +110,7 @@
 							
 							<div class="entry-content">
                                 <h4>Subject advice</h4>
-								<p>For Business, Finance and Management, Maths or Maths Literacy is compulsory. Complementary subjects such as Business Studies, Economics, Accounting, Computer Application Technology (CAT) or Information Technology are recommended for this area. </p>
+								<p style="font-size:18px">For Business, Finance and Management, Maths or Maths Literacy is compulsory. Complementary subjects such as Business Studies, Economics, Accounting, Computer Application Technology (CAT) or Information Technology are recommended for this area. </p>
 								<a href="Area4.aspx"class="more-link">Read More</a>
 							</div>
 						</div>
@@ -126,7 +126,7 @@
 							
 							<div class="entry-content">
                                 <h4>Subject advice</h4>
-								<p>Maths or Maths Literacy, Physical Sciences and/or Life Sciences and/or Geography are compulsory for certain degrees in this area. Complementing subjects such as Agricultural Sciences, Agricultural Technology and Agricultural Management Practices, Engineering Graphic and Design, Economics and Business Studies are recommended for this area. </p>
+								<p style="font-size:18px">Maths or Maths Literacy, Physical Sciences and/or Life Sciences and/or Geography are compulsory for certain degrees in this area. Complementing subjects such as Agricultural Sciences, Agricultural Technology and Agricultural Management Practices, Engineering Graphic and Design, Economics and Business Studies are recommended for this area. </p>
 								<a href="Area5.aspx"class="more-link">Read More</a>
 							</div>
 						</div>
@@ -141,7 +141,7 @@
 							
 							<div class="entry-content">
                                 <h4>Subject advice</h4>
-								<p>Afrikaans and English, Maths or Maths Literacy are compulsory. Complementing subjects such as Languages, Life Sciences, Tourism, Computer Application Technology (CAT), History, Business Studies, Biblical Studies and Geography are recommended for this area.  </p>
+								<p style="font-size:18px">Afrikaans and English, Maths or Maths Literacy are compulsory. Complementing subjects such as Languages, Life Sciences, Tourism, Computer Application Technology (CAT), History, Business Studies, Biblical Studies and Geography are recommended for this area.  </p>
 								<a href="Area6.aspx"class="more-link">Read More</a>
 							</div>
 						</div>
@@ -156,7 +156,7 @@
 							
 							<div class="entry-content">
                                 <h4>Subject advice</h4>
-								<p>Afrikaans and English, Maths or Maths Literacy are compulsory. Complementing subjects such as another Language, Tourism, Computer Application Technology (CAT), Hospitality, Consumer Sciences, History, Business Studies, Economics, Accounting, and Geography are recommended for this area.</p>
+								<p style="font-size:18px">Afrikaans and English, Maths or Maths Literacy are compulsory. Complementing subjects such as another Language, Tourism, Computer Application Technology (CAT), Hospitality, Consumer Sciences, History, Business Studies, Economics, Accounting, and Geography are recommended for this area.</p>
 								<a href="Area7.aspx"class="more-link">Read More</a>
 							</div>
 						</div>
@@ -171,7 +171,7 @@
 							
 							<div class="entry-content">
                                 <h4>Subject advice</h4>
-								<p>English with one additional National Senior Certificate language and Maths or Maths Literacy are compulsory. Complementing subjects such as Design, Visual Arts, Business Studies, Music, Dramatic Arts; and Dance Studies are recommended for this area.</p>
+								<p style="font-size:18px">English with one additional National Senior Certificate language and Maths or Maths Literacy are compulsory. Complementing subjects such as Design, Visual Arts, Business Studies, Music, Dramatic Arts; and Dance Studies are recommended for this area.</p>
 								<a href="Area8.aspx"class="more-link">Read More</a>
 							</div>
 						</div>
@@ -186,7 +186,7 @@
 							
 							<div class="entry-content">
                                 <h4>Subject advice</h4>
-								<p>English or Afrikaans with another National Senior Certificate language and Maths or Maths Literacy is compulsory. Complementing subjects such as Languages, History, Business Studies and Accounting are recommended for this area. </p>
+								<p style="font-size:18px">English or Afrikaans with another National Senior Certificate language and Maths or Maths Literacy is compulsory. Complementing subjects such as Languages, History, Business Studies and Accounting are recommended for this area. </p>
 								<a href="Area9.aspx"class="more-link">Read More</a>
 							</div>
 						</div>
@@ -194,12 +194,12 @@
                         <!-- app link -->
                         <div class="entry clearfix">
                             <blockquote>
-									<p>"For more information on certain career fields or further advice etc. feel free to chat to us live on our CareerXplora App. "</p>
+									<p>"For more information on certain career fields or further advice etc. feel free to chat to us live on our Career Xplora App. "</p>
 									
 								</blockquote>
 							<div class="entry-image">
 								<a href="CXplore.aspx" class="entry-link">
-									Find our More about CareerXplora
+									Find our More about Career Xplora
 									
 								</a>
 							</div>

@@ -71,20 +71,20 @@
 							<div class="entry-content notopmargin">
 
                                 <h4>Subject advice</h4>
-								<p>Maths, Physical Sciences, Life Sciences with complementary subjects such as Business Studies and Accounting are recommended for this career area.</p>
+								<p style="font-size:18px">Maths, Physical Sciences, Life Sciences with complementary subjects such as Business Studies and Accounting are recommended for this career area.</p>
 
                                 <h4>University Courses</h4>
-								<p>Maths, Physical Sciences or Life Sciences are compulsory for Medicine, Optometry, Dentistry, Pharmacology, Biological Sciences and Research and Medical Support. Some universities will accept Maths Literacy (5) for Occupational Therapy. Maths or Maths Literacy is compulsory and Life Sciences or Physical Sciences are highly recommended for Psychology, Social Work and Counselling and Medical Health Support. </p>
+								<p style="font-size:18px">Maths, Physical Sciences or Life Sciences are compulsory for Medicine, Optometry, Dentistry, Pharmacology, Biological Sciences and Research and Medical Support. Some universities will accept Maths Literacy (5) for Occupational Therapy. Maths or Maths Literacy is compulsory and Life Sciences or Physical Sciences are highly recommended for Psychology, Social Work and Counselling and Medical Health Support. </p>
 
                                 <h4>University of Technology</h4>
-								<p>Maths or Maths Literacy, Physical Sciences or Life Sciences are compulsory for most of the courses.
+								<p style="font-size:18px">Maths or Maths Literacy, Physical Sciences or Life Sciences are compulsory for most of the courses.
                                 </p>                           
 
                                 <h4>Private Institutions</h4>
-								<p>Maths or Maths Literacy and Life Sciences or Physical Sciences are compulsory for most degrees or diplomas. Admission requirements differ from institution to institution. </p>
+								<p style="font-size:18px">Maths or Maths Literacy and Life Sciences or Physical Sciences are compulsory for most degrees or diplomas. Admission requirements differ from institution to institution. </p>
 
                                 <h4>Career Fields</h4>
-								<ul>
+								<ul style="font-size:18px">
                                     <li>Medical Practitioners</li>
                                     <li>Optometry or Optometric Support</li>
                                     <li>Dentistry or Dental Support</li>
@@ -114,7 +114,7 @@
 							<div class="panel-heading">
 								<h3 class="panel-title">Quote by <span><a>Neil DeGrasse Tyson</a></span></h3>
 							</div>
-							<div class="panel-body">
+							<div class="panel-body" style="font-size:18px">
 								<div class="author-image">
 									<img src="images/Brainwave/neil.jpg" alt="" class="img-circle">
 								</div>

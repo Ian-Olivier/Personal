@@ -71,22 +71,22 @@
 							<div class="entry-content notopmargin">
 
                                 <h4>Subject advice</h4>
-                                <p>Maths or Maths Literacy is compulsory with complementary subjects such as Physical Science, Information Technology and Computer Application Technology (CAT) are important for this area. For computer animation, Visual Arts and Design are highly recommended.</p>
+                                <p style="font-size:18px">Maths or Maths Literacy is compulsory with complementary subjects such as Physical Science, Information Technology and Computer Application Technology (CAT) are important for this area. For computer animation, Visual Arts and Design are highly recommended.</p>
 
                                 <h4>University Courses</h4>
-                                <p>For B Engineering, Maths and Science are compulsory. For a B Sc degree, Maths and in some cases Physical Sciences or Information Technology is compulsory. For B Com degrees, Maths is a compulsory subject. </p>
+                                <p style="font-size:18px">For B Engineering, Maths and Science are compulsory. For a B Sc degree, Maths and in some cases Physical Sciences or Information Technology is compulsory. For B Com degrees, Maths is a compulsory subject. </p>
 
                                 <h4>University of Technology</h4>
-                                <p>Maths or Maths Literacy and English are compulsory. Highly recommended subjects are Computer Application Technology (CAT), Information Technology and Design, Visual Arts, Business Studies or Economics.</p>
+                                <p style="font-size:18px">Maths or Maths Literacy and English are compulsory. Highly recommended subjects are Computer Application Technology (CAT), Information Technology and Design, Visual Arts, Business Studies or Economics.</p>
 
                                 <h4>TVET Colleges</h4>
-                                <p>You must have completed and passed Grade 9 or be 16 years of age.</p>
+                                <p style="font-size:18px">You must have completed and passed Grade 9 or be 16 years of age.</p>
 
                                 <h4>Private Institutions</h4>
-                                <p>Maths or Math Literacy are compulsory. Highly recommended subjects are Computer Application Technology (CAT), Information Technology, Business Studies, and for certain courses, Design or Visual Arts.</p>
+                                <p style="font-size:18px">Maths or Math Literacy are compulsory. Highly recommended subjects are Computer Application Technology (CAT), Information Technology, Business Studies, and for certain courses, Design or Visual Arts.</p>
 
                                 <h4>Career Fields</h4>
-								<ul>
+								<ul style="font-size:18px">
                                     <li>Information Technology and Systems</li>
                                     <li>Hardware and Operations</li>
                                     <li>Software and Networks</li>
@@ -114,7 +114,7 @@
 							<div class="panel-heading">
 								<h3 class="panel-title">Quote by <span><a>Bill Gates</a></span></h3>
 							</div>
-							<div class="panel-body">
+							<div class="panel-body" style="font-size:18px">
 								<div class="author-image">
 									<img src="images/Brainwave/bill.jpg" alt="" class="img-circle">
 								</div>

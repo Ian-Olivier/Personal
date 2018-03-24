@@ -71,24 +71,24 @@
 							<div class="entry-content notopmargin">
 
                                 <h4>Subject advice</h4>
-								<p>For Business, Finance and Management, Maths or Maths Literacy is compulsory. Complementary subjects such as Business Studies, Economics, Accounting, Computer Application Technology (CAT) or Information Technology are recommended for this area. </p>
+								<p style="font-size:18px">For Business, Finance and Management, Maths or Maths Literacy is compulsory. Complementary subjects such as Business Studies, Economics, Accounting, Computer Application Technology (CAT) or Information Technology are recommended for this area. </p>
 
                                 <h4>University Courses</h4>
-								<p>English or Afrikaans and Maths are compulsory for all BCom degrees and Accounting is compulsory for some of the BCom courses. </p>
+								<p style="font-size:18px">English or Afrikaans and Maths are compulsory for all BCom degrees and Accounting is compulsory for some of the BCom courses. </p>
 
                                 <h4>University of Technology</h4>
-								<p>English or Afrikaans with Maths or Maths Literacy is compulsory. </p>
+								<p style="font-size:18px">English or Afrikaans with Maths or Maths Literacy is compulsory. </p>
 
                                 <h4>TVET Colleges</h4>
-								<p>A Grade 9 pass, or be 16 years old. </p>
+								<p style="font-size:18px">A Grade 9 pass, or be 16 years old. </p>
 
                                 <h4>Private Institutions</h4>
-								<p>Admission requirements vary from one institution to the other.</p>
+								<p style="font-size:18px">Admission requirements vary from one institution to the other.</p>
 
                                
 
                                 <h4>Career Fields</h4>
-								<ul>
+								<ul style="font-size:18px">
                                     <li>Financial Business</li>
                                     <li>Commercial Business</li>
                                     <li>Marketing and Sales</li>
@@ -117,7 +117,7 @@
 							<div class="panel-heading">
 								<h3 class="panel-title">Quote by <span><a>alfred marshall</a></span></h3>
 							</div>
-							<div class="panel-body">
+							<div class="panel-body" style="font-size:18px">
 								<div class="author-image">
 									<img src="images/Brainwave/alm.jpg" alt="" class="img-circle">
 								</div>

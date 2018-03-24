@@ -71,22 +71,22 @@
 							<div class="entry-content notopmargin">
 
                                 <h4>Subject advice</h4>
-                                <p>Maths or Maths Literacy, Physical Sciences and/or Life Sciences and/or Geography are compulsory for certain degrees in this area. Complementing subjects such as Agricultural Sciences, Agricultural Technology and Agricultural Management Practices, Engineering Graphic and Design, Economics and Business Studies are recommended for this area. </p>
+                                <p style="font-size:18px">Maths or Maths Literacy, Physical Sciences and/or Life Sciences and/or Geography are compulsory for certain degrees in this area. Complementing subjects such as Agricultural Sciences, Agricultural Technology and Agricultural Management Practices, Engineering Graphic and Design, Economics and Business Studies are recommended for this area. </p>
 
                                 <h4>University Courses</h4>
-                                <p>For B Sc degrees, English, Afrikaans and Maths are compulsory with either Physical Sciences or Life Sciences. Geography is highly recommended in B Sc degrees where Geography is a major subject. For B Com degrees, Agricultural Sciences, Maths and English are compulsory.</p>
+                                <p style="font-size:18px">For B Sc degrees, English, Afrikaans and Maths are compulsory with either Physical Sciences or Life Sciences. Geography is highly recommended in B Sc degrees where Geography is a major subject. For B Com degrees, Agricultural Sciences, Maths and English are compulsory.</p>
 
                                 <h4>University of Technology</h4>
-                                <p>Maths or Maths Literacy is compulsory and for some National Diplomas either Physical Sciences or Life Sciences is compulsory.</p>
+                                <p style="font-size:18px">Maths or Maths Literacy is compulsory and for some National Diplomas either Physical Sciences or Life Sciences is compulsory.</p>
 
                                 <h4>TVET Colleges</h4>
-                                <p>A Grade 9 pass and be 16 years old. </p>
+                                <p style="font-size:18px">A Grade 9 pass and be 16 years old. </p>
 
                                 <h4>Private Institutions</h4>
-                                <p>Admission requirements differ from institution to institution.</p>
+                                <p style="font-size:18px">Admission requirements differ from institution to institution.</p>
 
                                 <h4>Career Fields</h4>
-								<ul>
+								<ul style="font-size:18px">
                                     <li>Agriculture and Farming</li>
                                     <li>Animals, Birds and Insects</li>
                                     <li>Environment, or Conservation, or Waste and Recycling</li>

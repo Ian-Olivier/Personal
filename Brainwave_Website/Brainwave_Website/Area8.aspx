@@ -68,23 +68,23 @@
 							<div class="entry-content notopmargin">
 
                                 <h4>Subject advice</h4>
-                                <p>English with one additional National Senior Certificate language and Maths or Maths Literacy are compulsory. Complementing subjects such as Design, Visual Arts, Business Studies, Music, Dramatic Arts; and Dance Studies are recommended for this area. </p>
+                                <p style="font-size:18px">English with one additional National Senior Certificate language and Maths or Maths Literacy are compulsory. Complementing subjects such as Design, Visual Arts, Business Studies, Music, Dramatic Arts; and Dance Studies are recommended for this area. </p>
 
                                 <h4>University courses</h4>
-                                <p>English plus one additional National Senior Certificate language and Maths or Maths Literacy are compulsory subjects for any degree in this area. </p>
+                                <p style="font-size:18px">English plus one additional National Senior Certificate language and Maths or Maths Literacy are compulsory subjects for any degree in this area. </p>
 
                                 <h4>University of Technology</h4>
-                                <p>For a National Diploma you need English and one additional language as well as Maths or Maths Literacy. </p>
+                                <p style="font-size:18px">For a National Diploma you need English and one additional language as well as Maths or Maths Literacy. </p>
 
                                 <h4>TVET Colleges</h4>
-                                <p>Grade 10 is usually a requirement for courses in this area. </p>
+                                <p style="font-size:18px">Grade 10 is usually a requirement for courses in this area. </p>
 
                                 <h4>Private Institutions</h4>
-                                <p>Admission requirements differ from institution to institution. </p>
+                                <p style="font-size:18px">Admission requirements differ from institution to institution. </p>
                                
 
                                 <h4>Career Fields</h4>
-								<ul>
+								<ul style="font-size:18px">
                                     <li>Fine Arts and Design</li>
                                     <li>Clothing and Fashion or Sewing</li>
                                     <li>Jewellery</li>

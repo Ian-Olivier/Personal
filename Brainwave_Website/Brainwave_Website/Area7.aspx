@@ -68,23 +68,23 @@
 							<div class="entry-content notopmargin">
 
                                 <h4>Subject advice</h4>
-                                <p>Afrikaans and English, Maths or Maths Literacy are compulsory. Complementing subjects such as another Language, Tourism, Computer Application Technology (CAT), Hospitality, Consumer Sciences, History, Business Studies, Economics, Accounting, and Geography are recommended for this area. </p>
+                                <p style="font-size:18px">Afrikaans and English, Maths or Maths Literacy are compulsory. Complementing subjects such as another Language, Tourism, Computer Application Technology (CAT), Hospitality, Consumer Sciences, History, Business Studies, Economics, Accounting, and Geography are recommended for this area. </p>
 
                                 <h4>University courses</h4>
-                                <p>For B Com degrees, English plus one additional National Senior Certificate language, and Maths are compulsory. For BA degrees, English plus one additional National Senior Certificate language and Maths or Maths Literacy are compulsory. </p>
+                                <p style="font-size:18px">For B Com degrees, English plus one additional National Senior Certificate language, and Maths are compulsory. For BA degrees, English plus one additional National Senior Certificate language and Maths or Maths Literacy are compulsory. </p>
 
                                 <h4>University of Technology</h4>
-                                <p>For National Diplomas, English with one additional language and Maths or Maths Literacy are compulsory. </p>
+                                <p style="font-size:18px">For National Diplomas, English with one additional language and Maths or Maths Literacy are compulsory. </p>
 
                                 <h4>TVET Colleges</h4>
-                                <p>Grade 10 is compulsory for most of the certificates in this area. </p>
+                                <p style="font-size:18px">Grade 10 is compulsory for most of the certificates in this area. </p>
 
                                 <h4>Private Institutions</h4>
-                                <p>Admission requirements differ from college to college. </p>
+                                <p style="font-size:18px">Admission requirements differ from college to college. </p>
                                
 
                                 <h4>Career Fields</h4>
-								<ul>
+								<ul style="font-size:18px">
                                     <li>Travel and Tourism</li>
                                     <li>Hotels or Hospitality or Events</li>
                                     <li>Aviation or Airways</li>

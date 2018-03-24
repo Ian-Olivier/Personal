@@ -68,23 +68,23 @@
 							<div class="entry-content notopmargin">
 
                                 <h4>Subject advice</h4>
-                                <p>Afrikaans and English, Maths or Maths Literacy are compulsory. Complementing subjects such as Languages, Life Sciences, Tourism, Computer Application Technology (CAT), History, Business Studies, Biblical Studies and Geography are recommended for this area. </p>
+                                <p style="font-size:18px">Afrikaans and English, Maths or Maths Literacy are compulsory. Complementing subjects such as Languages, Life Sciences, Tourism, Computer Application Technology (CAT), History, Business Studies, Biblical Studies and Geography are recommended for this area. </p>
 
                                 <h4>University courses</h4>
-                                <p>For BA degrees, Afrikaans, OR English and one other National Senior Certificate language and Maths or Maths Literacy are compulsory. </p>
+                                <p style="font-size:18px">For BA degrees, Afrikaans, OR English and one other National Senior Certificate language and Maths or Maths Literacy are compulsory. </p>
 
                                 <h4>University of Technology</h4>
-                                <p>For National Diplomas, Afrikaans or English with Maths or Maths Literacy are compulsory. </p>
+                                <p style="font-size:18px">For National Diplomas, Afrikaans or English with Maths or Maths Literacy are compulsory. </p>
 
                                 <h4>TVET Colleges</h4>
-                                <p>Grade 10 is compulsory for most of the certificate courses in this area. </p>
+                                <p style="font-size:18px">Grade 10 is compulsory for most of the certificate courses in this area. </p>
 
                                 <h4>Private Institutions</h4>
-                                <p>Admission requirements differ from institution to institution. </p>
+                                <p style="font-size:18px">Admission requirements differ from institution to institution. </p>
                                
 
                                 <h4>Career Fields</h4>
-								<ul>
+								<ul style="font-size:18px">
                                     <li>Education and Training or Educare</li>
                                     <li>Sport and Fitness</li>
                                     <li>Beauty and Cosmetology</li>
@@ -113,7 +113,7 @@
 							<div class="panel-heading">
 								<h3 class="panel-title">Quote by <span><a>Nelson Mandela</a></span></h3>
 							</div>
-							<div class="panel-body">
+							<div class="panel-body" style="font-size:18px">
 								<div class="author-image">
 									<img src="images/Brainwave/nelson.jpg" alt="" class="img-circle">
 								</div>
