@@ -32,7 +32,7 @@
 
 			<div class="container clearfix">
 				<h1 style="color:#009999">Social Responsibility</h1>
-				<span style="color:#009999">Giving back to the community.</span>
+				<span style="color:#009999">Giving back to the community</span>
 				<ol class="breadcrumb">
 					<li><a href="Home.aspx">Home</a></li>					
 					<li class="active">Social Responsibility</li>
