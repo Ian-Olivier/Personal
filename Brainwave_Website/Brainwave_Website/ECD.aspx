@@ -90,22 +90,22 @@
                                         <li>NQF 4 Seta accredited  </li>
                                         <li>NQF 5 awaiting final accreditation </li>
 									</ul>
-<pre>
+<pre style="font:inherit">
 <b>NQF background info</b><br />
 <b>Why do we need the NQF?</b>
 To succeed or even survive in a globally competitive world, a country must ensure that it:
 
-&bull;has a national education and training system that provides quality learning
-&bull;it changes as the world changes
-&bull;promotes to life-long learning
+&bull; Has a national education and training system that provides quality learning
+&bull; It changes as the world changes
+&bull; Promotes to life-long learning
 
 
 <b>What are NQF levels?</b>
 The NQF is made up of 10 levels divided into three bands:
 
-&bull;General Education and Training (GET)
-&bull;Further Education and Training (FET) 
-&bull;Higher Education and Training (HET)
+&bull; General Education and Training (GET)
+&bull; Further Education and Training (FET) 
+&bull; Higher Education and Training (HET)
 </pre>                                    
 
 									
@@ -237,6 +237,12 @@ The NQF is made up of 10 levels divided into three bands:
 									<a href="images/Brainwave/gallery/9.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/9.jpg" alt=""></a>
                                     <a href="images/Brainwave/gallery/10.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/10.jpg" alt=""></a>
 									<a href="images/Brainwave/gallery/11.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/11.jpg" alt=""></a>
+                                    <a href="images/Brainwave/gallery/aa.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/aa.jpg" alt=""></a>
+									<a href="images/Brainwave/gallery/ab.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/ab.jpg" alt=""></a>
+                                    <a href="images/Brainwave/gallery/ac.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/ac.jpg" alt=""></a>
+									<a href="images/Brainwave/gallery/ad.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/ad.jpg" alt=""></a>
+                                    <a href="images/Brainwave/gallery/ae.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/ae.jpg" alt=""></a>
+									<a href="images/Brainwave/gallery/af.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/af.jpg" alt=""></a>
 								</div>
 							</div>
 

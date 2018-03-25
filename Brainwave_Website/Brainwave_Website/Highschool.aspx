@@ -27,7 +27,363 @@
     <div id="wrapper" class="clearfix">
 
    
+        <!-- Page Title
+		============================================= -->
+		<section id="page-title" class="page-title-parallax page-title-dark" style="padding: 250px 0; background-image: url('images/Brainwave/hs2.jpg'); background-size: cover; background-position: center center;" data-stellar-background-ratio="0.4">
 
+			<div class="container clearfix">
+				<h1 style="color:#660033">High School</h1>
+				<span>Everything you need to know about High School and Career Guidance</span>
+				<ol class="breadcrumb">
+					<li><a href="Home.aspx">Home</a></li>					
+					<li class="active">Early Childhood Development</li>
+				</ol>
+			</div>
+
+		</section><!-- #page-title end -->
+    
+	
+
+
+        <!-- Content
+		============================================= -->
+		<section id="content">
+
+			<div class="content-wrap">
+
+				<div class="container clearfix">
+
+					<!-- Post Content
+					============================================= -->
+					<div class="postcontent nobottommargin col_last clearfix">
+
+						<div class="single-post nobottommargin">
+
+							<!-- Single Post
+							============================================= -->
+							<div class="entry clearfix">
+
+								<!-- Entry Title
+								============================================= -->
+								<div class="entry-title">
+									<h2>The importance of Career Guidance</h2>
+								</div><!-- .entry-title end -->
+
+								
+
+								<!-- Entry Content
+								============================================= -->
+								
+
+									<!-- Entry Image
+									============================================= -->
+									<div class="entry-image">
+										<a data-lightbox="image" href="images/Brainwave/hs1.jpg"><img src="images/Brainwave/hs1.jpg" alt="Blog Single"></a>
+									</div><!-- .entry-image end -->
+
+                                    <p style="font-size:18px">Choosing a career is one of the most important decisions a person will ever make and yet within the education system there is about no vocational support for learners choosing their final subjects and or careers. This weakness in the educational system results in high unnecessary costs for countries and businesses, as well as social discontent and hardship. The drop-out rate for the first year tertiary students stands on 35% of which the lack of self- and career knowledge seems to be the underlining reason. This leads to low morale, disinterest and de-motivation, translating into poor performances and bad service levels.
+                                    With this in mind the Discover Your Career(DYC) workbook was designed to respond directly to these concerns. The workbook is a rich source of knowledge and decision making skills. In terms of knowledge, learners engage in a series of activities through which they discover their interests, their thinking style and their personality type. They then align this self knowledge to careers that are suitable for their unique self. In this way, learners are guided towards choosing subjects that support their future career choices. This sense of future tends to increase learners’ sense of motivation and purpose and encourages them to engage with their schooling on a more serious level.
+                                        </p>
+								
+                                   
+
+									
+									
+
+                                    <h4>Career Guidance Program</h4>
+                                    <ul style="font-size:18px">
+                                        <li>No more expensive, long, boring Psychometric Evaluations!</li>
+                                        <li>We offer a fun, interactive and cost effective tool to Discover Your Career!</li>
+                                        <li>Brainwave’s skilled trainers facilitate learners through the Discover Your Career programme. Through this programme  the learner will discover the world of work, their interests, thinking styles and personality. They will be guided to the most suitable Career Area for their personal profile.</li>
+                                    </ul>
+									
+                                    <h4>Benefits of the Program</h4>
+                                    <ul style="font-size:18px">
+                                        <li>It is cost effective. The career programme cost much less than conventional standardised testing.</li>
+                                        <li>It does not have to be administered and evaluated by a psychologist or Psychomotrist. It can be administered and evaluated by an educator/facilitator.</li>
+                                        <li>On completion of the programme, each learner keeps the programme material and receives a report summarising his/her unique personal profile and recommended subjects and career fields.</li>
+                                        <li>The programme compliments the Life Orientation syllabus and can be used as an additional resource in the classroom.</li>
+                                        <li>The activities form part of the learner’s assessment portfolio.</li>
+                                        <li>The programme empower learners and help them to set realistic and appropriate goals in terms of career and subject choices.</li>
+                                        <li>The material is user-friendly, colourful and interactive.</li>
+                                    </ul>
+									<h4>Value of data</h4>
+                                    <p style="font-size:18px">This programme generates a lot of useful data that is available. Analysis of this data has important contributiosn to:</p>
+
+                                 <h5>Individual learners</h5>
+                                   <ul style="font-size:18px">
+                                       <li>Identify possible bursary candidates.</li>
+                                       <li>Identifying learners with learning difficulties.</li>
+                                       <li>Identifying specific career candidates such as engineers, artisans or accountants.</li>
+                                   </ul>
+									
+                                <h5>Schools</h5>
+                                    <ul style="font-size:18px">
+                                        <li>Identifying specific literacy and or numeracy problems in schools.</li>
+                                        <li>Identifying how many learners choose a certain subjects such as Mathematics, Physical Sciences, Life Sciences.</li>
+                                        <li>Identifying preferences/thinking styles of learners that has an impact on teaching methods.</li>
+                                    </ul>
+                                <h5>Companies</h5>
+                                    <ul style="font-size:18px">
+                                        <li>Identifying possible bursary candidates.</li>
+                                        <li>Additional programmes to develop beneficiaries of bursaries.</li>
+                                        <li>Marketing.</li>
+                                        <li>Efficient use of social responsibility budget.</li>
+                                        <li>Access to data for future use.</li>
+                                    </ul>
+
+								<!-- Post Author Info
+						============================================= -->
+						<div class="panel panel-default">
+							<div class="panel-heading">
+								<h3 class="panel-title">Quote by <span><a>Nelson Mandela</a></span></h3>
+							</div>
+							<div class="panel-body" style="font-size:18px">
+								<div class="author-image">
+									<img src="images/Brainwave/nelson.jpg" alt="" class="img-circle">
+								</div>
+								Education is the most powerful weapon which you can use to change the world.
+							</div>
+						</div><!-- Post Single - Author End -->
+
+							</div><!-- .entry end -->
+
+							
+
+							
+
+							
+
+							
+
+							<h4>Related Articles:</h4>
+
+							<div class="related-posts clearfix">
+
+								<div class="col_half nobottommargin">
+
+									<div class="mpost clearfix">
+										<div class="entry-image">
+											<a href="ECD.aspx"><img src="images/Brainwave/Hihjschool.jpg" alt="Blog Single"></a>
+										</div>
+										<div class="entry-c">
+											<div class="entry-title">
+												<h4><a href="ECD.aspx">Early Childhood Development</a></h4>
+											</div>
+											
+											<div class="entry-content">View our NQF4, NQF5 and Ready Steady Learn programmes.</div>
+										</div>
+									</div>
+
+									<div class="mpost clearfix">
+										<div class="entry-image">
+											<a href="Primaryschool.aspx"><img src="images/Brainwave/education.jpg" alt="Blog Single"></a>
+										</div>
+										<div class="entry-c">
+											<div class="entry-title">
+												<h4><a href="Primaryschool.aspx">Primary school</a></h4>
+											</div>
+											
+											<div class="entry-content">English and Maths learner and teacher empowerment.</div>
+										</div>
+									</div>
+
+								</div>
+
+								<div class="col_half nobottommargin col_last">
+
+									<div class="mpost clearfix">
+										<div class="entry-image">
+											<a href="Product.aspx"><img src="images/Brainwave/gui.jpeg" alt="Blog Single"></a>
+										</div>
+										<div class="entry-c">
+											<div class="entry-title">
+												<h4><a href="Product.aspx">Products</a></h4>
+											</div>
+											
+											<div class="entry-content">View our wide rage of educational products.</div>
+										</div>
+									</div>
+
+									
+
+								</div>
+
+							</div>
+
+							
+
+						</div>
+
+					</div><!-- .postcontent end -->
+
+					<!-- Sidebar
+					============================================= -->
+					<div class="sidebar nobottommargin clearfix">
+						<div class="sidebar-widgets-wrap">
+
+							<div class="widget widget-twitter-feed clearfix">
+
+								<h4>Twitter & Facebook Feed</h4>
+								<div class="row">
+
+								<div class="col-md-6 clearfix bottommargin-sm">
+									<a href="https://www.facebook.com/Brainwave-Careers-NPC-156694704389356/" class="social-icon si-dark si-colored si-facebook nobottommargin" style="margin-right: 10px;">
+										<i class="icon-facebook"></i>
+										<i class="icon-facebook"></i>
+									</a>
+									<a href="https://www.facebook.com/Brainwave-Careers-NPC-156694704389356/"><small style="display: block; margin-top: 3px;">Facebook</small></a>
+								</div>
+								<div class="col-md-6 clearfix">
+									<a href="https://twitter.com/BrainwaveCareer" class="social-icon si-dark si-colored si-twitter nobottommargin" style="margin-right: 10px;">
+										<i class="icon-twitter"></i>
+										<i class="icon-twitter"></i>
+									</a>
+									<a href="https://twitter.com/BrainwaveCareer"><small style="display: block; margin-top: 3px;">Twitter</small></a>
+								</div>
+
+							</div>
+
+							</div>
+
+							<div class="widget clearfix">
+
+								<h4>Photo Gallery</h4>
+								<div class="entry-image clearfix">
+								<div class="portfolio-single-image masonry-thumbs col-4" data-big="3" data-lightbox="gallery">
+									<a href="images/Brainwave/gallery/1.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/1.jpg" alt=""></a>
+									<a href="images/Brainwave/gallery/2.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/2.jpg" alt=""></a>
+									<a href="images/Brainwave/gallery/3.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/3.jpg" alt=""></a>
+                                    <a href="images/Brainwave/gallery/4.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/4.jpg" alt=""></a>
+									<a href="images/Brainwave/gallery/5.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/5.jpg" alt=""></a>
+									<a href="images/Brainwave/gallery/6.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/6.jpg" alt=""></a>
+                                    <a href="images/Brainwave/gallery/7.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/7.jpg" alt=""></a>
+									<a href="images/Brainwave/gallery/8.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/8.jpg" alt=""></a>
+									<a href="images/Brainwave/gallery/9.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/9.jpg" alt=""></a>
+                                    <a href="images/Brainwave/gallery/10.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/10.jpg" alt=""></a>
+									<a href="images/Brainwave/gallery/11.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/11.jpg" alt=""></a>
+                                    <a href="images/Brainwave/gallery/aa.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/aa.jpg" alt=""></a>
+									<a href="images/Brainwave/gallery/ab.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/ab.jpg" alt=""></a>
+                                    <a href="images/Brainwave/gallery/ac.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/ac.jpg" alt=""></a>
+									<a href="images/Brainwave/gallery/ad.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/ad.jpg" alt=""></a>
+                                    <a href="images/Brainwave/gallery/ae.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/ae.jpg" alt=""></a>
+									<a href="images/Brainwave/gallery/af.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/af.jpg" alt=""></a>
+								</div>
+							</div>
+
+							</div>
+
+							
+
+							<div class="widget clearfix">
+
+								<h4>Our Products</h4>
+								<div id="oc-portfolio-sidebar" class="owl-carousel carousel-widget" data-items="1" data-margin="10" data-loop="true" data-nav="false" data-autoplay="5000">
+
+									<div class="oc-item">
+										<div class="iportfolio">
+											<div class="portfolio-image">
+												<a href="#">
+													<img src="images/Brainwave/products/p2.jpg" alt="product 2">
+												</a>
+												<div class="portfolio-overlay">
+													<a href="images/Brainwave/products/p2.jpg" class="center-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+												</div>
+											</div>
+											<div class="portfolio-desc center nobottompadding">
+												<a href="Product.aspx" class="button-link noborder color">Visit our store</a>
+												
+											</div>
+										</div>
+									</div>
+
+									<div class="oc-item">
+										<div class="iportfolio">
+											<div class="portfolio-image">
+												<a href="#">
+													<img src="images/Brainwave/products/p1.jpg" alt="product 1">
+												</a>
+												<div class="portfolio-overlay">
+													<a href="images/Brainwave/products/p1.jpg" class="center-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+												</div>
+											</div>
+											<div class="portfolio-desc center nobottompadding">
+												<a href="Product.aspx" class="button-link noborder color">Visit our store</a>
+												
+											</div>
+										</div>
+									</div>
+
+                                    <div class="oc-item">
+										<div class="iportfolio">
+											<div class="portfolio-image">
+												<a href="#">
+													<img src="images/Brainwave/products/p3.jpg" alt="product 3">
+												</a>
+												<div class="portfolio-overlay">
+													<a href="images/Brainwave/products/p3.jpg" class="center-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+												</div>
+											</div>
+											<div class="portfolio-desc center nobottompadding">
+												<a href="Product.aspx" class="button-link noborder color">Visit our store</a>
+												
+											</div>
+										</div>
+									</div>
+
+                                   <div class="oc-item">
+										<div class="iportfolio">
+											<div class="portfolio-image">
+												<a href="#">
+													<img src="images/Brainwave/products/p4.jpg" alt="product 4">
+												</a>
+												<div class="portfolio-overlay">
+													<a href="images/Brainwave/products/p4.jpg" class="center-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+												</div>
+											</div>
+											<div class="portfolio-desc center nobottompadding">
+												<a href="Product.aspx" class="button-link noborder color">Visit our store</a>
+												
+											</div>
+										</div>
+									</div>
+
+                                    <div class="oc-item">
+										<div class="iportfolio">
+											<div class="portfolio-image">
+												<a href="#">
+													<img src="images/Brainwave/products/p5.jpg" alt="product 5">
+												</a>
+												<div class="portfolio-overlay">
+													<a href="images/Brainwave/products/p5.jpg" class="center-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+												</div>
+											</div>
+											<div class="portfolio-desc center nobottompadding">
+												<a href="Product.aspx" class="button-link noborder color">Visit our store</a>
+												
+											</div>
+										</div>
+									</div>
+
+                                    
+
+								</div>
+
+								
+
+							</div>
+
+							
+
+						</div>
+
+					</div><!-- .sidebar end -->
+
+				</div>
+
+			</div>
+
+		</section><!-- #content end -->
     
 	
     
