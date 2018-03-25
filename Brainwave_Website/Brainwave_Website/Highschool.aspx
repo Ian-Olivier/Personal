@@ -36,7 +36,7 @@
 				<span>Everything you need to know about High School and Career Guidance</span>
 				<ol class="breadcrumb">
 					<li><a href="Home.aspx">Home</a></li>					
-					<li class="active">Early Childhood Development</li>
+					<li class="active">High School</li>
 				</ol>
 			</div>
 

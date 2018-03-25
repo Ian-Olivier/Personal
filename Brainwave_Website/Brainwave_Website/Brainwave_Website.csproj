@@ -234,7 +234,11 @@
     <Content Include="images\blog\standard\20.jpg" />
     <Content Include="images\blog\standard\21.jpg" />
     <Content Include="images\blog\standard\22.jpg" />
+    <Content Include="images\Brainwave\1.JPG" />
+    <Content Include="images\Brainwave\2.JPG" />
+    <Content Include="images\Brainwave\3.JPG" />
     <Content Include="images\Brainwave\acd.jpg" />
+    <Content Include="images\Brainwave\achar.jpg" />
     <Content Include="images\Brainwave\acul.jpg" />
     <Content Include="images\Brainwave\agi.jpg" />
     <Content Include="images\Brainwave\Ahos.jpg" />
@@ -267,6 +271,7 @@
     <Content Include="images\Brainwave\engi.jpg" />
     <Content Include="images\Brainwave\engir.jpg" />
     <Content Include="images\Brainwave\fin.jpg" />
+    <Content Include="images\Brainwave\front.png" />
     <Content Include="images\Brainwave\gallery\1.JPG" />
     <Content Include="images\Brainwave\gallery\10.JPG" />
     <Content Include="images\Brainwave\gallery\11.JPG" />

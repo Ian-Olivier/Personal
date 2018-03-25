@@ -26,7 +26,344 @@
     <div id="wrapper" class="clearfix">
 
    
+        <!-- Page Title
+		============================================= -->
+		<section id="page-title" class="page-title-parallax page-title-dark" style="padding: 250px 0; background-image: url('images/Brainwave/achar.jpg'); background-size: cover; background-position: center center;" data-stellar-background-ratio="0.4">
 
+			<div class="container clearfix">
+				<h1 style="color:#009999">Social Responsibility</h1>
+				<span style="color:#009999">Giving back to the community.</span>
+				<ol class="breadcrumb">
+					<li><a href="Home.aspx">Home</a></li>					
+					<li class="active">Social Responsibility</li>
+				</ol>
+			</div>
+
+		</section><!-- #page-title end -->
+    
+	
+
+
+        <!-- Content
+		============================================= -->
+		<section id="content">
+
+			<div class="content-wrap">
+
+				<div class="container clearfix">
+
+					<!-- Post Content
+					============================================= -->
+					<div class="postcontent nobottommargin col_last clearfix">
+
+						<div class="single-post nobottommargin">
+
+							<!-- Single Post
+							============================================= -->
+							<div class="entry clearfix">
+
+								<!-- Entry Title
+								============================================= -->
+								<div class="entry-title">
+									<h2>BrainWave Careers helping the community</h2>
+								</div><!-- .entry-title end -->
+
+								
+
+								<!-- Entry Content
+								============================================= -->
+								
+
+									<!-- Entry Image
+									============================================= -->
+									<div class="entry-image">
+										<a data-lightbox="image" href="images/Brainwave/achar.jpg"><img src="images/Brainwave/im.jpg" alt="Blog Single"></a>
+									</div><!-- .entry-image end -->
+
+
+                                    <h4>LAERSKOOL EDENHOOGTE</h4>
+
+                                    <p style="font-size:18px"> Brainwave Careers NPC in collaboration with 10G Consult were able to help the learners from Laerskool Edenhoogte in the Free State with warm clothes, learning aid, food and more for winter 2017 .
+                                        </p>
+								
+                                   <div class="entry clearfix">
+                            <blockquote>
+									<p>"A big thanks goes out to 10G Consult for their generous donation!"</p>
+									
+								</blockquote>
+                                       </div>
+
+									<div class="fancy-title title-center title-dotted-border">
+						<h3>PHOTOS</h3>
+					</div>
+
+					<div id="oc-images" class="owl-carousel image-carousel carousel-widget" data-margin="20" data-nav="true" data-pagi="false" data-items-xxs="2" data-items-xs="3" data-items-sm="4" data-items-md="5">
+
+						<div class="oc-item">
+							<a data-lightbox="image" href="images/Brainwave/1.jpg"><img src="images/Brainwave/1.jpg" alt="Image 1"></a>
+						</div>
+                        <div class="oc-item">
+							<a data-lightbox="image" href="images/Brainwave/2.jpg"><img src="images/Brainwave/2.jpg" alt="Image 2"></a>
+						</div>
+                        <div class="oc-item">
+							<a data-lightbox="image" href="images/Brainwave/3.jpg"><img src="images/Brainwave/3.jpg" alt="Image 3"></a>
+						</div>
+                        <div class="oc-item">
+							<a data-lightbox="image" href="images/Brainwave/im.jpg"><img src="images/Brainwave/im.jpg" alt="Image 4"></a>
+						</div>
+						
+
+					</div>
+									<br />
+
+                                    <h4>Other organisations we have helped</h4>
+                                    <ul style="font-size:18px">
+                                        <li>Rekgonne Bapo Special School</li>
+                                        <li>Kingsway Centre of Concern</li>
+                                        <li>Sponsoring the school fees of individual learners</li>
+                                        <li>Edu Africa Nursery School</li>
+                                        
+                                    </ul>
+									
+                                    
+                                <div class="line"></div>
+								
+							
+
+							
+
+							
+
+							
+
+							<h4>Related Articles:</h4>
+
+							<div class="related-posts clearfix">
+
+								<div class="col_half nobottommargin">
+
+									<div class="mpost clearfix">
+										<div class="entry-image">
+											<a href="ECD.aspx"><img src="images/Brainwave/Hihjschool.jpg" alt="Blog Single"></a>
+										</div>
+										<div class="entry-c">
+											<div class="entry-title">
+												<h4><a href="ECD.aspx">Early Childhood Development</a></h4>
+											</div>
+											
+											<div class="entry-content">View our NQF4, NQF5 and Ready Steady Learn programmes.</div>
+										</div>
+									</div>
+
+									<div class="mpost clearfix">
+										<div class="entry-image">
+											<a href="Primaryschool.aspx"><img src="images/Brainwave/education.jpg" alt="Blog Single"></a>
+										</div>
+										<div class="entry-c">
+											<div class="entry-title">
+												<h4><a href="Primaryschool.aspx">Primary school</a></h4>
+											</div>
+											
+											<div class="entry-content">English and Maths learner and teacher empowerment.</div>
+										</div>
+									</div>
+
+								</div>
+
+								<div class="col_half nobottommargin col_last">
+
+									<div class="mpost clearfix">
+										<div class="entry-image">
+											<a href="Product.aspx"><img src="images/Brainwave/gui.jpeg" alt="Blog Single"></a>
+										</div>
+										<div class="entry-c">
+											<div class="entry-title">
+												<h4><a href="Product.aspx">Products</a></h4>
+											</div>
+											
+											<div class="entry-content">View our wide rage of educational products.</div>
+										</div>
+									</div>
+
+									
+
+								</div>
+
+							</div>
+    </div>
+							
+
+						</div>
+
+					</div><!-- .postcontent end -->
+
+					<!-- Sidebar
+					============================================= -->
+					<div class="sidebar nobottommargin clearfix">
+						<div class="sidebar-widgets-wrap">
+
+							<div class="widget widget-twitter-feed clearfix">
+
+								<h4>Twitter & Facebook Feed</h4>
+								<div class="row">
+
+								<div class="col-md-6 clearfix bottommargin-sm">
+									<a href="https://www.facebook.com/Brainwave-Careers-NPC-156694704389356/" class="social-icon si-dark si-colored si-facebook nobottommargin" style="margin-right: 10px;">
+										<i class="icon-facebook"></i>
+										<i class="icon-facebook"></i>
+									</a>
+									<a href="https://www.facebook.com/Brainwave-Careers-NPC-156694704389356/"><small style="display: block; margin-top: 3px;">Facebook</small></a>
+								</div>
+								<div class="col-md-6 clearfix">
+									<a href="https://twitter.com/BrainwaveCareer" class="social-icon si-dark si-colored si-twitter nobottommargin" style="margin-right: 10px;">
+										<i class="icon-twitter"></i>
+										<i class="icon-twitter"></i>
+									</a>
+									<a href="https://twitter.com/BrainwaveCareer"><small style="display: block; margin-top: 3px;">Twitter</small></a>
+								</div>
+
+							</div>
+
+							</div>
+
+							<div class="widget clearfix">
+
+								<h4>Photo Gallery</h4>
+								<div class="entry-image clearfix">
+								<div class="portfolio-single-image masonry-thumbs col-4" data-big="3" data-lightbox="gallery">
+									<a href="images/Brainwave/gallery/1.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/1.jpg" alt=""></a>
+									<a href="images/Brainwave/gallery/2.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/2.jpg" alt=""></a>
+									<a href="images/Brainwave/gallery/3.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/3.jpg" alt=""></a>
+                                    <a href="images/Brainwave/gallery/4.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/4.jpg" alt=""></a>
+									<a href="images/Brainwave/gallery/5.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/5.jpg" alt=""></a>
+									<a href="images/Brainwave/gallery/6.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/6.jpg" alt=""></a>
+                                    <a href="images/Brainwave/gallery/7.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/7.jpg" alt=""></a>
+									<a href="images/Brainwave/gallery/8.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/8.jpg" alt=""></a>
+									<a href="images/Brainwave/gallery/9.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/9.jpg" alt=""></a>
+                                    <a href="images/Brainwave/gallery/10.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/10.jpg" alt=""></a>
+									<a href="images/Brainwave/gallery/11.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/11.jpg" alt=""></a>
+                                    <a href="images/Brainwave/gallery/aa.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/aa.jpg" alt=""></a>
+									<a href="images/Brainwave/gallery/ab.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/ab.jpg" alt=""></a>
+                                    <a href="images/Brainwave/gallery/ac.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/ac.jpg" alt=""></a>
+									<a href="images/Brainwave/gallery/ad.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/ad.jpg" alt=""></a>
+                                    <a href="images/Brainwave/gallery/ae.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/ae.jpg" alt=""></a>
+									<a href="images/Brainwave/gallery/af.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/af.jpg" alt=""></a>
+								</div>
+							</div>
+
+							</div>
+
+							
+
+							<div class="widget clearfix">
+
+								<h4>Our Products</h4>
+								<div id="oc-portfolio-sidebar" class="owl-carousel carousel-widget" data-items="1" data-margin="10" data-loop="true" data-nav="false" data-autoplay="5000">
+
+									<div class="oc-item">
+										<div class="iportfolio">
+											<div class="portfolio-image">
+												<a href="#">
+													<img src="images/Brainwave/products/p2.jpg" alt="product 2">
+												</a>
+												<div class="portfolio-overlay">
+													<a href="images/Brainwave/products/p2.jpg" class="center-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+												</div>
+											</div>
+											<div class="portfolio-desc center nobottompadding">
+												<a href="Product.aspx" class="button-link noborder color">Visit our store</a>
+												
+											</div>
+										</div>
+									</div>
+
+									<div class="oc-item">
+										<div class="iportfolio">
+											<div class="portfolio-image">
+												<a href="#">
+													<img src="images/Brainwave/products/p1.jpg" alt="product 1">
+												</a>
+												<div class="portfolio-overlay">
+													<a href="images/Brainwave/products/p1.jpg" class="center-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+												</div>
+											</div>
+											<div class="portfolio-desc center nobottompadding">
+												<a href="Product.aspx" class="button-link noborder color">Visit our store</a>
+												
+											</div>
+										</div>
+									</div>
+
+                                    <div class="oc-item">
+										<div class="iportfolio">
+											<div class="portfolio-image">
+												<a href="#">
+													<img src="images/Brainwave/products/p3.jpg" alt="product 3">
+												</a>
+												<div class="portfolio-overlay">
+													<a href="images/Brainwave/products/p3.jpg" class="center-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+												</div>
+											</div>
+											<div class="portfolio-desc center nobottompadding">
+												<a href="Product.aspx" class="button-link noborder color">Visit our store</a>
+												
+											</div>
+										</div>
+									</div>
+
+                                   <div class="oc-item">
+										<div class="iportfolio">
+											<div class="portfolio-image">
+												<a href="#">
+													<img src="images/Brainwave/products/p4.jpg" alt="product 4">
+												</a>
+												<div class="portfolio-overlay">
+													<a href="images/Brainwave/products/p4.jpg" class="center-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+												</div>
+											</div>
+											<div class="portfolio-desc center nobottompadding">
+												<a href="Product.aspx" class="button-link noborder color">Visit our store</a>
+												
+											</div>
+										</div>
+									</div>
+
+                                    <div class="oc-item">
+										<div class="iportfolio">
+											<div class="portfolio-image">
+												<a href="#">
+													<img src="images/Brainwave/products/p5.jpg" alt="product 5">
+												</a>
+												<div class="portfolio-overlay">
+													<a href="images/Brainwave/products/p5.jpg" class="center-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+												</div>
+											</div>
+											<div class="portfolio-desc center nobottompadding">
+												<a href="Product.aspx" class="button-link noborder color">Visit our store</a>
+												
+											</div>
+										</div>
+									</div>
+
+                                    
+
+								</div>
+
+								
+
+							</div>
+
+							
+
+						</div>
+
+					</div><!-- .sidebar end -->
+
+				</div>
+
+			</div>
+
+		</section><!-- #content end -->
     
 	
     

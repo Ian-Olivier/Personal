@@ -43,11 +43,11 @@
 				<div class="swiper-container swiper-parent">
 					<div class="swiper-wrapper">
 
-						<div class="swiper-slide dark" style="background-image: url('images/Brainwave/welcome2.png');">
+						<div class="swiper-slide dark" style="background-image: url('images/Brainwave/front.png');">
 							<div class="container clearfix">
 								<div class="slider-caption slider-caption-center">
 									<h2 data-caption-animate="fadeInUp">Welcome to <b style="color:#660033">Brain</b><b style="color:#009999">Wave</b></h2>
-									<p data-caption-animate="fadeInUp" data-caption-delay="200">Empowering learners to reach their full potential in helping them discover who they are and where they best fit in life</p>
+									<p style="color:#000000" data-caption-animate="fadeInUp" data-caption-delay="200"><strong>learners to reach their full potential in helping them discover who they are and where they best fit in life</strong> </p>
 								</div>
 							</div>
 						</div>
@@ -56,7 +56,7 @@
 							<div class="container clearfix">
 								<div class="slider-caption">
 									<h2 data-caption-animate="fadeInUp"><b style="color:#660033">Career</b><b style="color:#009999"> Guidance</b></h2>
-									<p data-caption-animate="fadeInUp" data-caption-delay="200">You'll be surprised to see the Final Results of your Creation &amp; would crave for more.</p>
+									<p data-caption-animate="fadeInUp" data-caption-delay="200"><strong>Everything you need to know about the nine career areas and more</strong> </p>
 								</div>
 							</div>
 						</div>
@@ -65,7 +65,7 @@
 							<div class="container clearfix">
 								<div class="slider-caption">
 									<h2 data-caption-animate="fadeInUp"><b style="color:#660033">Early</b> <b style="color:#009999">Childhood</b> <b style="color:#660033">Development</b></h2>
-									<p data-caption-animate="fadeInUp" data-caption-delay="200">Committed to putting young children first by ensuring quality early childhood development for our country’s youngest citizens</p>
+									<p data-caption-animate="fadeInUp" data-caption-delay="200"><strong>Committed to putting young children first by ensuring quality early childhood development for our country’s youngest citizens</strong> </p>
 								</div>
 							</div>
 						</div>
@@ -74,7 +74,7 @@
 							<div class="container clearfix">
 								<div class="slider-caption">
 									<h2 data-caption-animate="fadeInUp"><b style="color:#660033">Career Xplora</b><b style="color:#009999"> Mobile App</b></h2>
-									<p data-caption-animate="fadeInUp" data-caption-delay="200">Get a better understanding of the world of work and where you fit into it </p>
+									<p data-caption-animate="fadeInUp" data-caption-delay="200"><strong> a better understanding of the world of work and where you fit into it </strong> </p>
 								</div>
 							</div>
 						</div>
