@@ -137,7 +137,7 @@
 							<div class="col-md-4 bottommargin-sm">
 								<div class="feature-box media-box fbox-bg">
 									<div class="fbox-media">
-										<a href="ECD.aspx"><img class="image_fade" src="images/Brainwave/ECD.jpeg" alt="Featured Box Image"></a>
+										<a href="ECD.aspx"><img class="image_fade" src="images/Brainwave/newa.jpg" alt="Featured Box Image"></a>
 									</div>
 									<div class="fbox-desc">
 										<h3 class="nott ls0 t600">Early Childhood Development<span class="subtitle font-secondary t300 ls0">View our NQF4, NQF5 and Ready Steady Learn programmes.</span></h3>
@@ -164,7 +164,7 @@
 										<a href="Primaryschool.aspx"><img class="image_fade" src="images/Brainwave/education.jpg" alt="Featured Box Image"></a>
 									</div>
 									<div class="fbox-desc">
-										<h3 class="nott ls0 t600">Primary school<span class="subtitle font-secondary t300 ls0">English and Maths learner and teacher empowerment.</span></h3>
+										<h3 class="nott ls0 t600">Primary school<span class="subtitle font-secondary t300 ls0">English and Maths learner as well as teacher empowerment.</span></h3>
 										<a href="Primaryschool.aspx" class="button-link noborder color">Read More</a>
 									</div>
 								</div>
@@ -182,7 +182,7 @@
                             <div class="col-md-4 bottommargin-sm">
 								<div class="feature-box media-box fbox-bg">
 									<div class="fbox-media">
-										<a href="WorkShops.aspx"><img class="image_fade" src="images/Brainwave/wrok.jpg" alt="Featured Box Image"></a>
+										<a href="WorkShops.aspx"><img class="image_fade" src="images/Brainwave/1wshop.jpg" alt="Featured Box Image"></a>
 									</div>
 									<div class="fbox-desc">
 										<h3 class="nott ls0 t600">Motivational Workshops<span class="subtitle font-secondary t300 ls0">Life Skills, Teambuilding and Anger Management.</span></h3>
@@ -194,7 +194,7 @@
 							<div class="col-md-4 bottommargin-sm">
 								<div class="feature-box media-box fbox-bg">
 									<div class="fbox-media">
-										<a href="CXplore.aspx"><img class="image_fade" src="images/Brainwave/app3.jpeg" alt="Featured Box Image"></a>
+										<a href="CXplore.aspx"><img class="image_fade" src="images/Brainwave/Mobap.jpg" alt="Featured Box Image"></a>
 									</div>
 									<div class="fbox-desc">
 										<h3 class="nott ls0 t600">CareerXplora App<span class="subtitle font-secondary t300 ls0">Career Advise and Live chat, all availoble on our App.</span></h3>
@@ -206,7 +206,7 @@
 							<div class="col-md-4 bottommargin-sm">
 								<div class="feature-box media-box fbox-bg">
 									<div class="fbox-media">
-										<a href="CareerGuidance.aspx"><img class="image_fade" src="images/Brainwave/carinfo.jpeg" alt="Featured Box Image"></a>
+										<a href="CareerGuidance.aspx"><img class="image_fade" src="images/Brainwave/1gui.jpg" alt="Featured Box Image"></a>
 									</div>
 									<div class="fbox-desc">
 										<h3 class="nott ls0 t600">Career Guidance<span class="subtitle font-secondary t300 ls0">Job descriptions. Bursaries and What and Where to study.</span></h3>

@@ -164,7 +164,7 @@
 
 									<div class="mpost clearfix">
 										<div class="entry-image">
-											<a href="ECD.aspx"><img src="images/Brainwave/Hihjschool.jpg" alt="Blog Single"></a>
+											<a href="ECD.aspx"><img src="images/Brainwave/newa.jpg" alt="Blog Single"></a>
 										</div>
 										<div class="entry-c">
 											<div class="entry-title">
@@ -268,6 +268,23 @@
 									<a href="images/Brainwave/gallery/ad.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/ad.jpg" alt=""></a>
                                     <a href="images/Brainwave/gallery/ae.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/ae.jpg" alt=""></a>
 									<a href="images/Brainwave/gallery/af.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/af.jpg" alt=""></a>
+
+                                    <a href="images/Brainwave/newgal/1.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/1.jpg" alt=""></a>
+                                    
+                                    <a href="images/Brainwave/newgal/5.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/5.jpg" alt=""></a>
+                                    <a href="images/Brainwave/newgal/6.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/6.jpg" alt=""></a>
+                                    <a href="images/Brainwave/newgal/7.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/7.jpg" alt=""></a>
+                                    <a href="images/Brainwave/newgal/8.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/8.jpg" alt=""></a>
+                                    <a href="images/Brainwave/newgal/9.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/9.jpg" alt=""></a>
+                                    <a href="images/Brainwave/newgal/10.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/10.jpg" alt=""></a>
+                                    <a href="images/Brainwave/newgal/11.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/11.jpg" alt=""></a>
+                                    <a href="images/Brainwave/newgal/12.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/12.jpg" alt=""></a>
+                                    <a href="images/Brainwave/newgal/13.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/13.jpg" alt=""></a>
+                                    <a href="images/Brainwave/newgal/14.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/14.jpg" alt=""></a>
+                                    <a href="images/Brainwave/newgal/15.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/15.jpg" alt=""></a>
+                                    <a href="images/Brainwave/newgal/16.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/16.jpg" alt=""></a>
+                                    <a href="images/Brainwave/newgal/17.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/17.jpg" alt=""></a>
+                                    <a href="images/Brainwave/newgal/18.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/18.jpg" alt=""></a>
 								</div>
 							</div>
 

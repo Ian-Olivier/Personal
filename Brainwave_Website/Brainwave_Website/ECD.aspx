@@ -77,7 +77,7 @@
 									<!-- Entry Image
 									============================================= -->
 									<div class="entry-image">
-										<a data-lightbox="image" href="images/Brainwave/im.jpg"><img src="images/Brainwave/im.jpg" alt="Blog Single"></a>
+										<a data-lightbox="image" href="images/Brainwave/im.jpg"><img src="images/Brainwave/1ed.jpg" alt="Blog Single"></a>
 									</div><!-- .entry-image end -->
 
                                     <p style="font-size:18px">The value of Early Childhood Development (ECD) and getting a learner school ready cannot be underestimated and the more input at this level the better the future performance of each learner. Evidence tells us that a person’s life successes, health and emotional wellbeing have their roots in early childhood. If you get it right in early years, you can expect to see children thrive throughout school and their adult lives. 
@@ -243,16 +243,128 @@ The NQF is made up of 10 levels divided into three bands:
 									<a href="images/Brainwave/gallery/ad.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/ad.jpg" alt=""></a>
                                     <a href="images/Brainwave/gallery/ae.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/ae.jpg" alt=""></a>
 									<a href="images/Brainwave/gallery/af.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/af.jpg" alt=""></a>
+
+                                    <a href="images/Brainwave/newgal/1.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/1.jpg" alt=""></a>
+                                    
+                                    <a href="images/Brainwave/newgal/5.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/5.jpg" alt=""></a>
+                                    <a href="images/Brainwave/newgal/6.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/6.jpg" alt=""></a>
+                                    <a href="images/Brainwave/newgal/7.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/7.jpg" alt=""></a>
+                                    <a href="images/Brainwave/newgal/8.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/8.jpg" alt=""></a>
+                                    <a href="images/Brainwave/newgal/9.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/9.jpg" alt=""></a>
+                                    <a href="images/Brainwave/newgal/10.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/10.jpg" alt=""></a>
+                                    <a href="images/Brainwave/newgal/11.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/11.jpg" alt=""></a>
+                                    <a href="images/Brainwave/newgal/12.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/12.jpg" alt=""></a>
+                                    <a href="images/Brainwave/newgal/13.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/13.jpg" alt=""></a>
+                                    <a href="images/Brainwave/newgal/14.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/14.jpg" alt=""></a>
+                                    <a href="images/Brainwave/newgal/15.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/15.jpg" alt=""></a>
+                                    <a href="images/Brainwave/newgal/16.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/16.jpg" alt=""></a>
+                                    <a href="images/Brainwave/newgal/17.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/17.jpg" alt=""></a>
+                                    <a href="images/Brainwave/newgal/18.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/18.jpg" alt=""></a>
 								</div>
 							</div>
 
 							</div>
 
 							
+                            <div class="widget clearfix">
+
+								<h4>NQF 4 modules</h4>
+								<div id="oc-portfolio-sidebar2" class="owl-carousel carousel-widget" data-items="1" data-margin="10" data-loop="true" data-nav="false" data-autoplay="5000">
+
+									<div class="oc-item">
+										<div class="iportfolio">
+											<div class="portfolio-image">
+												<a href="#">
+													<img src="images/Brainwave/nqf4/1.png" alt="module 1">
+												</a>
+												<div class="portfolio-overlay">
+													<a href="images/Brainwave/nqf4/1.png" class="center-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+												</div>
+											</div>
+											
+										</div>
+									</div>
+
+									<div class="oc-item">
+										<div class="iportfolio">
+											<div class="portfolio-image">
+												<a href="#">
+													<img src="images/Brainwave/nqf4/2.png" alt="module 2">
+												</a>
+												<div class="portfolio-overlay">
+													<a href="images/Brainwave/nqf4/2.png" class="center-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+												</div>
+											</div>
+											
+										</div>
+									</div>
+
+                                    <div class="oc-item">
+										<div class="iportfolio">
+											<div class="portfolio-image">
+												<a href="#">
+													<img src="images/Brainwave/nqf4/3.png" alt="module 3">
+												</a>
+												<div class="portfolio-overlay">
+													<a href="images/Brainwave/nqf4/3.png" class="center-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+												</div>
+											</div>
+											
+										</div>
+									</div>
+
+                                    <div class="oc-item">
+										<div class="iportfolio">
+											<div class="portfolio-image">
+												<a href="#">
+													<img src="images/Brainwave/nqf4/4.png" alt="module 4">
+												</a>
+												<div class="portfolio-overlay">
+													<a href="images/Brainwave/nqf4/4.png" class="center-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+												</div>
+											</div>
+											
+										</div>
+									</div>
+
+                                    <div class="oc-item">
+										<div class="iportfolio">
+											<div class="portfolio-image">
+												<a href="#">
+													<img src="images/Brainwave/nqf4/5.png" alt="module 5">
+												</a>
+												<div class="portfolio-overlay">
+													<a href="images/Brainwave/nqf4/5.png" class="center-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+												</div>
+											</div>
+											
+										</div>
+									</div>
+
+                                    <div class="oc-item">
+										<div class="iportfolio">
+											<div class="portfolio-image">
+												<a href="#">
+													<img src="images/Brainwave/nqf4/6.png" alt="module 6">
+												</a>
+												<div class="portfolio-overlay">
+													<a href="images/Brainwave/nqf4/6.png" class="center-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+												</div>
+											</div>
+											
+										</div>
+									</div>
+
+								</div>
+
+								
+
+							</div>
+
 
 							<div class="widget clearfix">
 
-								<h4>NQF 4 & 5 modules</h4>
+								<h4>NQF 5 modules</h4>
 								<div id="oc-portfolio-sidebar" class="owl-carousel carousel-widget" data-items="1" data-margin="10" data-loop="true" data-nav="false" data-autoplay="5000">
 
 									<div class="oc-item">

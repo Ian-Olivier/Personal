@@ -67,6 +67,16 @@
 					</div>
 				</div>
 
+                <br />
+                <br />
+
+                <div class="center">
+                <h4>VISION</h4>
+                <p class="lead">Improving the quality of education in our sponsored ECD, primary and high schools. </p>
+
+                <h4>MISSION</h4>
+                <p class="lead">Empowering, educating and motivating our principals, teachers and learners through our unique SACE endorsed product and service offerings.</p>
+                </div>
                 <!-- ================================================================================================================================= -->
 
 
