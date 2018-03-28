@@ -236,9 +236,11 @@
     <Content Include="images\blog\standard\21.jpg" />
     <Content Include="images\blog\standard\22.jpg" />
     <Content Include="images\Brainwave\1.JPG" />
+    <Content Include="images\Brainwave\1cover.png" />
     <Content Include="images\Brainwave\1ed.jpg" />
     <Content Include="images\Brainwave\1gui.jpg" />
     <Content Include="images\Brainwave\1mot.jpg" />
+    <Content Include="images\Brainwave\1on.png" />
     <Content Include="images\Brainwave\1wshop.jpg" />
     <Content Include="images\Brainwave\2.JPG" />
     <Content Include="images\Brainwave\3.JPG" />
@@ -345,6 +347,7 @@
     <Content Include="images\Brainwave\nqf4\4.png" />
     <Content Include="images\Brainwave\nqf4\5.png" />
     <Content Include="images\Brainwave\nqf4\6.png" />
+    <Content Include="images\Brainwave\onlinediscover.jpg" />
     <Content Include="images\Brainwave\prim.jpeg" />
     <Content Include="images\Brainwave\prima.jpg" />
     <Content Include="images\Brainwave\primcov.jpg" />
@@ -386,6 +389,7 @@
     <Content Include="images\Brainwave\ws\2.JPG" />
     <Content Include="images\Brainwave\ws\3.JPG" />
     <Content Include="images\Brainwave\ws\4.JPG" />
+    <Content Include="images\Brainwave\xplo.png" />
     <Content Include="images\camera_skins.png" />
     <Content Include="images\clients\1.png" />
     <Content Include="images\clients\10.png" />
@@ -3763,6 +3767,7 @@
     <Content Include="include\rs-plugin\fonts\revicons\revicons.eot" />
     <Content Include="include\rs-plugin\fonts\revicons\revicons.ttf" />
     <Content Include="include\rs-plugin\fonts\revicons\revicons.woff" />
+    <Content Include="Onlinecareer.aspx" />
     <Content Include="SResponsibility.aspx" />
     <Content Include="SStories.aspx" />
     <Content Include="WorkShops.aspx" />
@@ -3910,6 +3915,13 @@
     </Compile>
     <Compile Include="News.aspx.designer.cs">
       <DependentUpon>News.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Onlinecareer.aspx.cs">
+      <DependentUpon>Onlinecareer.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Onlinecareer.aspx.designer.cs">
+      <DependentUpon>Onlinecareer.aspx</DependentUpon>
     </Compile>
     <Compile Include="Policy.aspx.cs">
       <DependentUpon>Policy.aspx</DependentUpon>

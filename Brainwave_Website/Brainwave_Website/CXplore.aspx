@@ -126,6 +126,10 @@
                         <div class="oc-item">
 							<a data-lightbox="image" href="images/Brainwave/app/4.jpg"><img src="images/Brainwave/app/4.jpg" alt="Image 4"></a>
 						</div>
+                        <div class="oc-item">
+							<a data-lightbox="image" href="images/Brainwave/xplo.png"><img src="images/Brainwave/xplo.png" alt="Image 4"></a>
+						</div>
+
 						
 
 					</div>
