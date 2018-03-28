@@ -51,7 +51,37 @@
 
 					<!-- Posts
 					============================================= -->
+
+
 					<div id="posts" class="post-grid grid-container post-masonry grid-2 clearfix">
+
+                        <div class="entry clearfix">
+                            <blockquote>
+									<p>"For more information on certain career fields or further advice etc. feel free to chat to us live on our Career Xplora App. "</p>
+									
+								</blockquote>
+							<div class="entry-image">
+								<a href="CXplore.aspx" class="entry-link">
+									Find our More about Career Xplora
+									
+								</a>
+							</div>
+							
+						</div>
+
+                        <div class="entry clearfix">
+                            <blockquote>
+									<p>"Need help choosing your subjects in high school, let us help you."</p>
+									
+								</blockquote>
+							<div class="entry-image">
+								<a href="Onlinecareer.aspx" class="entry-link">
+									Discover you career online
+									
+								</a>
+							</div>
+							
+						</div>
 
 						<div class="entry clearfix">
 							<div class="entry-image">
@@ -192,19 +222,7 @@
 						</div>
 
                         <!-- app link -->
-                        <div class="entry clearfix">
-                            <blockquote>
-									<p>"For more information on certain career fields or further advice etc. feel free to chat to us live on our Career Xplora App. "</p>
-									
-								</blockquote>
-							<div class="entry-image">
-								<a href="CXplore.aspx" class="entry-link">
-									Find our More about Career Xplora
-									
-								</a>
-							</div>
-							
-						</div>
+                        
 
 					</div><!-- #posts end -->
 
