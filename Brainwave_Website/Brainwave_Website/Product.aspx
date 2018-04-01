@@ -69,7 +69,7 @@
 								<p>A career development workshop easing the transition from primary school to high school focusing on the physical, emotional, social as well as academic changes and challenges a primary school learner faces as he/she enters high school.</p>
 								<div class="quantity clearfix">
 										
-										<input type="number" id="discareer" runat="server" name="quantity" placeholder="0" title="Qty" maxlength="20" class="qty" size="20" />
+										<input type="number" min="0" id="discareer" runat="server" name="quantity" placeholder="0" title="Qty" maxlength="20" class="qty" size="20" />
 										
 									</div>
 
@@ -98,10 +98,7 @@
 							  <td>301-500</td>
 							  <td>100</td>
 							</tr>
-                              <tr>
-							  <td>301-500</td>
-							  <td>100</td>
-							</tr>
+                              
                               <tr>
 							  <td>501-1000+</td>
 							  <td>80</td>
@@ -124,7 +121,7 @@
 								<p>A career development workshop focusing on the five choices a learner has, after having completed Grade 12. This explores the advantages and disadvantages of 'Full-time study', 'Work and part-time study', 'Entrepreneurial start up', 'Full-time' work and 'Gap year' options. Personal branding and communication skills are also highlighted and discussed.</p>
 								<div class="quantity clearfix">
 										
-										<input type="number" id="Number1" runat="server" name="quantity" placeholder="0" title="Qty" maxlength="20" class="qty" size="20" />
+										<input type="number" min="0" id="Number1" runat="server" name="quantity" placeholder="0" title="Qty" maxlength="20" class="qty" size="20" />
 										
 									</div>
 
@@ -153,10 +150,7 @@
 							  <td>301-500</td>
 							  <td>100</td>
 							</tr>
-                              <tr>
-							  <td>301-500</td>
-							  <td>100</td>
-							</tr>
+                              
                               <tr>
 							  <td>501-1000+</td>
 							  <td>80</td>
@@ -179,7 +173,59 @@
 								<p>A career development workshop easing the transition from high school to the tertiary world focusing on personal branding, the differences between high school and the tertiary world, tertiary funding options, applications, workload, study and examination management as well as personal motivation.</p>
 								<div class="quantity clearfix">
 										
-										<input type="number" id="Number2" runat="server" name="quantity" placeholder="0" title="Qty" maxlength="20" class="qty" size="20" />
+										<input type="number" min="0" id="Number2" runat="server" name="quantity" placeholder="0" title="Qty" maxlength="20" class="qty" size="20" />
+										
+									</div>
+
+
+                                <table class="table">
+						  <thead>
+							<tr>
+							  <th>Quantity</th>
+							  <th>Price (Rand)</th>
+							</tr>
+						  </thead>
+						  <tbody>
+							<tr>
+							  <td>1-10</td>
+							  <td>150</td>							 
+							</tr>
+							<tr>
+							  <td>31-100</td>
+							  <td>135</td>
+							</tr>
+							<tr>
+							  <td>101-300</td>
+							  <td>120</td>
+							</tr>
+                              
+                              <tr>
+							  <td>301-500</td>
+							  <td>100</td>
+							</tr>
+                              <tr>
+							  <td>501-1000+</td>
+							  <td>80</td>
+							</tr>
+						  </tbody>
+						</table>
+
+
+							</div>
+						</div>
+
+						<div class="product clearfix">
+							<div class="product-image">
+								<a data-lightbox="image" href="images/Brainwave/products/p4.jpg"><img src="images/Brainwave/products/p4.jpg" alt="Checked Short Dress"></a>
+
+							</div>
+							<div class="product-desc">
+								<div class="product-title"><h3><a href="#">Discover Your Career</a></h3></div>
+
+								<p>An academic strengths screening and career guidance workshop focusing on interests, personality and thinking style profiles to assist the learner with the correct subjects to choose for Grade 10-12 as well as an appropriate career path/qualification to pursue after having completed Grade 12. The World of Work and various study options are also highlighted and discussed.</p>
+								<div class="quantity clearfix">
+										
+										<input type="number" min="0" id="Number3" runat="server" name="quantity" placeholder="0" title="Qty" maxlength="20" class="qty" size="20" />
 										
 									</div>
 
@@ -208,10 +254,7 @@
 							  <td>301-500</td>
 							  <td>100</td>
 							</tr>
-                              <tr>
-							  <td>301-500</td>
-							  <td>100</td>
-							</tr>
+                              
                               <tr>
 							  <td>501-1000+</td>
 							  <td>80</td>
@@ -225,89 +268,109 @@
 
 						<div class="product clearfix">
 							<div class="product-image">
-								<a href="#"><img src="images/shop/dress/2.jpg" alt="Light Blue Denim Dress"></a>
-								<a href="#"><img src="images/shop/dress/2-2.jpg" alt="Light Blue Denim Dress"></a>
-								<div class="product-overlay">
-									<a href="#" class="add-to-cart"><i class="icon-shopping-cart"></i><span> Add to Cart</span></a>
-									<a href="include/ajax/shop-item.html" class="item-quick-view" data-lightbox="ajax"><i class="icon-zoom-in2"></i><span> Quick View</span></a>
-								</div>
+								<a data-lightbox="image" href="images/Brainwave/products/p5.jpg"><img src="images/Brainwave/products/p5.jpg" alt="Checked Short Dress"></a>
+
 							</div>
 							<div class="product-desc">
-								<div class="product-title"><h3><a href="#">Light Blue Denim Dress</a></h3></div>
-								<div class="product-price">$19.95</div>
-								<div class="product-rating">
-									<i class="icon-star3"></i>
-									<i class="icon-star3"></i>
-									<i class="icon-star3"></i>
-									<i class="icon-star3"></i>
-									<i class="icon-star-empty"></i>
-								</div>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, sit, exercitationem, consequuntur, assumenda iusto eos commodi alias aut ipsum praesentium officia pariatur doloremque dolor tenetur esse vitae voluptatibus inventore delectus. Eaque laboriosam quaerat accusamus! Porro, laboriosam temporibus dolorum doloremque dolorem ex ducimus recusandae repellat neque sapiente ab numquam rerum deleniti!</p>
-								<ul class="iconlist">
-									<li><i class="icon-caret-right"></i> Dynamic Color Options</li>
-									<li><i class="icon-caret-right"></i> Lots of Size Options</li>
-									<li><i class="icon-caret-right"></i> Delivered in 3-5 Days</li>
-									<li><i class="icon-caret-right"></i> 30-Day Return Policy</li>
-								</ul>
+								<div class="product-title"><h3><a href="#">Discover the World of Entrepreneurs</a></h3></div>
+
+								<p>A career development workshop focusing on the entrepreneurial world. Emphasis is placed on the difference between a 'Heart and Soul' vs. 'Survivalist' entrepreneur as well personal branding, entrepreneurial career fields (as well as funding and study options), communication skills and personal motivation.</p>
+								<div class="quantity clearfix">
+										
+										<input type="number" min="0" id="Number4" runat="server" name="quantity" placeholder="0" title="Qty" maxlength="20" class="qty" size="20" />
+										
+									</div>
+
+
+                                <table class="table">
+						  <thead>
+							<tr>
+							  <th>Quantity</th>
+							  <th>Price (Rand)</th>
+							</tr>
+						  </thead>
+						  <tbody>
+							<tr>
+							  <td>1-10</td>
+							  <td>150</td>							 
+							</tr>
+							<tr>
+							  <td>31-100</td>
+							  <td>135</td>
+							</tr>
+							<tr>
+							  <td>101-300</td>
+							  <td>120</td>
+							</tr>
+                              <tr>
+							  <td>301-500</td>
+							  <td>100</td>
+							</tr>
+                             
+                              <tr>
+							  <td>501-1000+</td>
+							  <td>80</td>
+							</tr>
+						  </tbody>
+						</table>
+
+
 							</div>
 						</div>
 
-						<div class="product clearfix">
-							<div class="product-image">
-								<a href="#"><img src="images/shop/sunglasses/1.jpg" alt="Unisex Sunglasses"></a>
-								<a href="#"><img src="images/shop/sunglasses/1-1.jpg" alt="Unisex Sunglasses"></a>
-								<div class="sale-flash">Sale!</div>
-								<div class="product-overlay">
-									<a href="#" class="add-to-cart"><i class="icon-shopping-cart"></i><span> Add to Cart</span></a>
-									<a href="include/ajax/shop-item.html" class="item-quick-view" data-lightbox="ajax"><i class="icon-zoom-in2"></i><span> Quick View</span></a>
-								</div>
-							</div>
-							<div class="product-desc">
-								<div class="product-title"><h3><a href="#">Unisex Sunglasses</a></h3></div>
-								<div class="product-price"><del>$19.99</del> <ins>$11.99</ins></div>
-								<div class="product-rating">
-									<i class="icon-star3"></i>
-									<i class="icon-star3"></i>
-									<i class="icon-star3"></i>
-									<i class="icon-star-empty"></i>
-									<i class="icon-star-empty"></i>
-								</div>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, sit, exercitationem, consequuntur, assumenda iusto eos commodi alias aut ipsum praesentium officia pariatur doloremque dolor tenetur esse vitae voluptatibus inventore delectus. Eaque laboriosam quaerat accusamus! Porro, laboriosam temporibus dolorum doloremque dolorem ex ducimus recusandae repellat neque sapiente ab numquam rerum deleniti!</p>
-								<ul class="iconlist">
-									<li><i class="icon-caret-right"></i> Dynamic Color Options</li>
-									<li><i class="icon-caret-right"></i> Lots of Size Options</li>
-									<li><i class="icon-caret-right"></i> Delivered in 3-5 Days</li>
-									<li><i class="icon-caret-right"></i> 30-Day Return Policy</li>
-								</ul>
-							</div>
-						</div>
+                        <div class="center">
+            <h1>African Wisdom work shop</h1>
+                </div>
 
 						<div class="product clearfix">
 							<div class="product-image">
-								<a href="#"><img src="images/shop/tshirts/1.jpg" alt="Blue Round-Neck Tshirt"></a>
-								<a href="#"><img src="images/shop/tshirts/1-1.jpg" alt="Blue Round-Neck Tshirt"></a>
-								<div class="product-overlay">
-									<a href="#" class="add-to-cart"><i class="icon-shopping-cart"></i><span> Add to Cart</span></a>
-									<a href="include/ajax/shop-item.html" class="item-quick-view" data-lightbox="ajax"><i class="icon-zoom-in2"></i><span> Quick View</span></a>
-								</div>
+								<a data-lightbox="image" href="images/Brainwave/products/p6.jpg"><img src="images/Brainwave/products/p6.jpg" alt="Checked Short Dress"></a>
+
 							</div>
 							<div class="product-desc">
-								<div class="product-title"><h3><a href="#">Blue Round-Neck Tshirt</a></h3></div>
-								<div class="product-price">$9.99</div>
-								<div class="product-rating">
-									<i class="icon-star3"></i>
-									<i class="icon-star3"></i>
-									<i class="icon-star3"></i>
-									<i class="icon-star-half-full"></i>
-									<i class="icon-star-empty"></i>
-								</div>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, sit, exercitationem, consequuntur, assumenda iusto eos commodi alias aut ipsum praesentium officia pariatur doloremque dolor tenetur esse vitae voluptatibus inventore delectus. Eaque laboriosam quaerat accusamus! Porro, laboriosam temporibus dolorum doloremque dolorem ex ducimus recusandae repellat neque sapiente ab numquam rerum deleniti!</p>
-								<ul class="iconlist">
-									<li><i class="icon-caret-right"></i> Dynamic Color Options</li>
-									<li><i class="icon-caret-right"></i> Lots of Size Options</li>
-									<li><i class="icon-caret-right"></i> Delivered in 3-5 Days</li>
-									<li><i class="icon-caret-right"></i> 30-Day Return Policy</li>
-								</ul>
+								<div class="product-title"><h3><a href="#">African Wisdom</a></h3></div>
+
+								<p>A motivational workshop focusing on animals of the African plain and what life lessons they can teach us. Topics include; staying on top of your game, positive self-image, attitude, commitment, inner strength, reaching for the stars, reputation, adaption, patience, perseverance, learning from your mistakes, support systems, listening skills, anger management, problem solving, judgement, teamwork, 'the grass is not always greener on the other side', finding balance in life, 'salt-of-the-earth' people, hunters vs scavengers, the aroma of life as well as old folk stories for excellent living.</p>
+								<div class="quantity clearfix">
+										
+										<input type="number" min="0" id="Number5" runat="server" name="quantity" placeholder="0" title="Qty" maxlength="20" class="qty" size="20" />
+										
+									</div>
+
+
+                                <table class="table">
+						  <thead>
+							<tr>
+							  <th>Quantity</th>
+							  <th>Price (Rand)</th>
+							</tr>
+						  </thead>
+						  <tbody>
+							<tr>
+							  <td>1-10</td>
+							  <td>80</td>							 
+							</tr>
+							<tr>
+							  <td>31-100</td>
+							  <td>70</td>
+							</tr>
+							<tr>
+							  <td>101-300</td>
+							  <td>60</td>
+							</tr>
+                              <tr>
+							  <td>301-500</td>
+							  <td>50</td>
+							</tr>
+                              
+                              <tr>
+							  <td>501-1000+</td>
+							  <td>40</td>
+							</tr>
+						  </tbody>
+						</table>
+
+
 							</div>
 						</div>
 
@@ -318,7 +381,49 @@
 
 				</div>
 
+        <br />
+        <br />
     
+        <div id="comments" class="container clearfix">
+        <!-- Comment Form
+								============================================= -->
+								<div id="respond" class="clearfix">
+
+									<h3>Leave a <span>Comment</span></h3>
+
+									
+
+										<div class="col_one_third">
+											<label for="author">Name</label>
+											<input type="text" name="author" id="author" value="" size="22" tabindex="1" class="sm-form-control" />
+										</div>
+
+										<div class="col_one_third">
+											<label for="email">Email</label>
+											<input type="text" name="email" id="email" value="" size="22" tabindex="2" class="sm-form-control" />
+										</div>
+
+										<div class="col_one_third col_last">
+											<label for="url">Website</label>
+											<input type="text" name="url" id="url" value="" size="22" tabindex="3" class="sm-form-control" />
+										</div>
+
+										<div class="clear"></div>
+
+										<div class="col_full">
+											<label for="comment">Comment</label>
+											<textarea name="comment" cols="58" rows="7" tabindex="4" class="sm-form-control"></textarea>
+										</div>
+
+										<div class="col_full nobottommargin">
+											<button name="submit" type="submit" id="submitbuttons" runat="server" onserverclick="addEvent" class="button button-3d nomargin">Place Order</button>
+										</div>
+
+									
+
+								</div><!-- #respond end -->
+            </div>
+
     <!-- Footer
 		============================================= -->
 		<footer id="footer" class="dark">
