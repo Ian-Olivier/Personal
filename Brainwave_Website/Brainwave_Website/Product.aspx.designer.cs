@@ -13,58 +13,121 @@ namespace Brainwave_Website {
     public partial class Product {
         
         /// <summary>
-        /// discareer control.
+        /// message control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputGenericControl discareer;
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl message;
         
         /// <summary>
-        /// Number1 control.
+        /// p1high control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputGenericControl Number1;
+        protected global::System.Web.UI.HtmlControls.HtmlInputGenericControl p1high;
         
         /// <summary>
-        /// Number2 control.
+        /// p2five control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputGenericControl Number2;
+        protected global::System.Web.UI.HtmlControls.HtmlInputGenericControl p2five;
         
         /// <summary>
-        /// Number3 control.
+        /// p3tert control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputGenericControl Number3;
+        protected global::System.Web.UI.HtmlControls.HtmlInputGenericControl p3tert;
         
         /// <summary>
-        /// Number4 control.
+        /// p4career control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputGenericControl Number4;
+        protected global::System.Web.UI.HtmlControls.HtmlInputGenericControl p4career;
         
         /// <summary>
-        /// Number5 control.
+        /// p5world control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputGenericControl Number5;
+        protected global::System.Web.UI.HtmlControls.HtmlInputGenericControl p5world;
+        
+        /// <summary>
+        /// p6af control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlInputGenericControl p6af;
+        
+        /// <summary>
+        /// names control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlInputText names;
+        
+        /// <summary>
+        /// emails control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlInputText emails;
+        
+        /// <summary>
+        /// compa control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlInputText compa;
+        
+        /// <summary>
+        /// VATa control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlInputText VATa;
+        
+        /// <summary>
+        /// Cells control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlInputText Cells;
+        
+        /// <summary>
+        /// adress control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlInputText adress;
         
         /// <summary>
         /// submitbuttons control.

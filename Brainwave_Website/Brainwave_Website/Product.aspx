@@ -44,10 +44,15 @@
 
 		</section><!-- #page-title end -->
     
+        
         <br />
+        <div id="message" runat="server" class="container clearfix">
+   
+            </div>
         <br />
 
 	
+
         <div class="container clearfix">
 
             <div class="center">
@@ -69,7 +74,7 @@
 								<p>A career development workshop easing the transition from primary school to high school focusing on the physical, emotional, social as well as academic changes and challenges a primary school learner faces as he/she enters high school.</p>
 								<div class="quantity clearfix">
 										
-										<input type="number" min="0" id="discareer" runat="server" name="quantity" placeholder="0" title="Qty" maxlength="20" class="qty" size="20" />
+										<input type="number" min="0" id="p1high" runat="server" name="quantity" placeholder="0" title="Qty" maxlength="20" class="qty" size="20" />
 										
 									</div>
 
@@ -121,7 +126,7 @@
 								<p>A career development workshop focusing on the five choices a learner has, after having completed Grade 12. This explores the advantages and disadvantages of 'Full-time study', 'Work and part-time study', 'Entrepreneurial start up', 'Full-time' work and 'Gap year' options. Personal branding and communication skills are also highlighted and discussed.</p>
 								<div class="quantity clearfix">
 										
-										<input type="number" min="0" id="Number1" runat="server" name="quantity" placeholder="0" title="Qty" maxlength="20" class="qty" size="20" />
+										<input type="number" min="0" id="p2five" runat="server" name="quantity" value="0" title="Qty" maxlength="20" class="qty" size="20" />
 										
 									</div>
 
@@ -173,7 +178,7 @@
 								<p>A career development workshop easing the transition from high school to the tertiary world focusing on personal branding, the differences between high school and the tertiary world, tertiary funding options, applications, workload, study and examination management as well as personal motivation.</p>
 								<div class="quantity clearfix">
 										
-										<input type="number" min="0" id="Number2" runat="server" name="quantity" placeholder="0" title="Qty" maxlength="20" class="qty" size="20" />
+										<input type="number" min="0" id="p3tert" runat="server" name="quantity" value="0" title="Qty" maxlength="20" class="qty" size="20" />
 										
 									</div>
 
@@ -225,7 +230,7 @@
 								<p>An academic strengths screening and career guidance workshop focusing on interests, personality and thinking style profiles to assist the learner with the correct subjects to choose for Grade 10-12 as well as an appropriate career path/qualification to pursue after having completed Grade 12. The World of Work and various study options are also highlighted and discussed.</p>
 								<div class="quantity clearfix">
 										
-										<input type="number" min="0" id="Number3" runat="server" name="quantity" placeholder="0" title="Qty" maxlength="20" class="qty" size="20" />
+										<input type="number" min="0" id="p4career" runat="server" name="quantity" value="0" title="Qty" maxlength="20" class="qty" size="20" />
 										
 									</div>
 
@@ -277,7 +282,7 @@
 								<p>A career development workshop focusing on the entrepreneurial world. Emphasis is placed on the difference between a 'Heart and Soul' vs. 'Survivalist' entrepreneur as well personal branding, entrepreneurial career fields (as well as funding and study options), communication skills and personal motivation.</p>
 								<div class="quantity clearfix">
 										
-										<input type="number" min="0" id="Number4" runat="server" name="quantity" placeholder="0" title="Qty" maxlength="20" class="qty" size="20" />
+										<input type="number" min="0" id="p5world" runat="server" name="quantity" value="0" title="Qty" maxlength="20" class="qty" size="20" />
 										
 									</div>
 
@@ -333,7 +338,7 @@
 								<p>A motivational workshop focusing on animals of the African plain and what life lessons they can teach us. Topics include; staying on top of your game, positive self-image, attitude, commitment, inner strength, reaching for the stars, reputation, adaption, patience, perseverance, learning from your mistakes, support systems, listening skills, anger management, problem solving, judgement, teamwork, 'the grass is not always greener on the other side', finding balance in life, 'salt-of-the-earth' people, hunters vs scavengers, the aroma of life as well as old folk stories for excellent living.</p>
 								<div class="quantity clearfix">
 										
-										<input type="number" min="0" id="Number5" runat="server" name="quantity" placeholder="0" title="Qty" maxlength="20" class="qty" size="20" />
+										<input type="number" min="0" id="p6af" runat="server" name="quantity" value="0" title="Qty" maxlength="20" class="qty" size="20" />
 										
 									</div>
 
@@ -389,36 +394,54 @@
 								============================================= -->
 								<div id="respond" class="clearfix">
 
-									<h3>Leave a <span>Comment</span></h3>
+									<h3>Order <span>Form</span></h3>
 
 									
 
 										<div class="col_one_third">
-											<label for="author">Name</label>
-											<input type="text" name="author" id="author" value="" size="22" tabindex="1" class="sm-form-control" />
+											<label for="author">Name & Surname</label>
+											<input type="text" runat="server" name="author" id="names" value="" size="22" tabindex="1" class="sm-form-control" />
 										</div>
 
 										<div class="col_one_third">
 											<label for="email">Email</label>
-											<input type="text" name="email" id="email" value="" size="22" tabindex="2" class="sm-form-control" />
+											<input type="text" runat="server" name="email" id="emails" value="" size="22" tabindex="2" class="sm-form-control" />
 										</div>
 
 										<div class="col_one_third col_last">
-											<label for="url">Website</label>
-											<input type="text" name="url" id="url" value="" size="22" tabindex="3" class="sm-form-control" />
+											<label for="url">Company Name</label>
+											<input type="text" runat="server" name="url" id="compa" value="" size="22" tabindex="3" class="sm-form-control" />
 										</div>
 
 										<div class="clear"></div>
 
-										<div class="col_full">
-											<label for="comment">Comment</label>
-											<textarea name="comment" cols="58" rows="7" tabindex="4" class="sm-form-control"></textarea>
+                                        <div class="col_one_third">
+											<label for="author">Vat Number</label>
+											<input type="text" runat="server" name="author" id="VATa" value="" size="22" tabindex="1" class="sm-form-control" />
 										</div>
+
+										<div class="col_one_third">
+											<label for="email">Contact Number</label>
+											<input type="text" runat="server" name="email" id="Cells" value="" size="22" tabindex="2" class="sm-form-control" />
+										</div>
+
+										<div class="col_one_third col_last">
+											<label for="url">Delivery adress</label>
+											<input type="text" runat="server" name="url" id="adress" value="" size="22" tabindex="3" class="sm-form-control" />
+										</div>
+
+                                        <div class="clear"></div>
+
+										
 
 										<div class="col_full nobottommargin">
 											<button name="submit" type="submit" id="submitbuttons" runat="server" onserverclick="addEvent" class="button button-3d nomargin">Place Order</button>
 										</div>
-
+                                    
+                                        <div class="toggle faq faq-authors faq-legal faq-itemdiscussion">
+								<div class="togglet"><i class="toggle-closed icon-question-sign"></i><i class="toggle-open icon-question-sign"></i>How do orders work?</div>
+								<div class="togglec">By filling out the above form with the selected quantity of the products an email will be sent to welma@brainwavecareers.co.za, who will then get back to you with an invoice (inclusive of VAT and courier costs) with provision of our banking details, then an EFT can be made and upon confirmation your goods will be delivered to you. <br /><br /> for more information contact us <a href="Contact.aspx" class="button-link">here</a></div>
+							</div>
 									
 
 								</div><!-- #respond end -->
