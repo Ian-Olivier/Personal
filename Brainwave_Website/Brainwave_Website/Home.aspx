@@ -43,7 +43,7 @@
 				<div class="swiper-container swiper-parent">
 					<div class="swiper-wrapper">
 
-						<div class="swiper-slide dark" style="background-image: url('images/Brainwave/front.png');">
+						<div class="swiper-slide dark" style="background-image: url('images/Brainwave/BWWeb.png');">
 							<div class="container clearfix">
 								<div class="slider-caption slider-caption-center">
 									<h2 data-caption-animate="fadeInUp">Welcome to <b style="color:#660033">Brain</b><b style="color:#009999">Wave</b></h2>

@@ -145,7 +145,7 @@ namespace Brainwave_Website
                 {
                     try { 
                     var fromAddress = new MailAddress("BrainwaveOrders@gmail.com", "Order");
-                    var toAddress = new MailAddress("olivier.ian9@gmail.com", "Test");
+                    var toAddress = new MailAddress("welma@brainwavecareers.co.za", "Welma");
                     const string fromPassword = "julie1995061";
                     body = "Name and Surname: " + name + Environment.NewLine + "Company name: " + comp + Environment.NewLine + "VAT number: " + vat + Environment.NewLine + "contact number: " + cell + Environment.NewLine + "Email: " + email + Environment.NewLine + "Delivery adress: " + add +
                        Environment.NewLine + "Discover Your High School: " + prod1 +
