@@ -29,7 +29,7 @@
 	
     </header>
 
-    <body class="stretched">
+    
 
 	<!-- Document Wrapper
 	============================================= -->
@@ -529,6 +529,6 @@
 	============================================= -->
 	<script type="text/javascript" src="js/functions.js"></script>
 
-</body>
+
 
 </asp:Content>

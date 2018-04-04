@@ -187,21 +187,22 @@ namespace Brainwave_Website
                     }
                 }//end of else bracket
             }
-            catch (InvalidOperationException ex)
+            catch (InvalidOperationException)
             {
+                
                 message.InnerHtml = "<div class='alert alert-danger nobottommargin'>" +
                           "<button type = 'button' class='close' data-dismiss='alert' aria-hidden='true'>&times;</button>" +
                           "<i class='icon-remove-sign'></i><strong>Oh snap!</strong> Please fill in the missing fields in the order form, as well as make sure they contain no spesial characters like: / , \\ , * , & etc. " +
                         "</div>";
             }
-            catch (MissingFieldException mex)
+            catch (MissingFieldException)
             {
                 message.InnerHtml = "<div class='alert alert-danger nobottommargin'>" +
                           "<button type = 'button' class='close' data-dismiss='alert' aria-hidden='true'>&times;</button>" +
                           "<i class='icon-remove-sign'></i><strong>Oh snap!</strong> Please fill in the missing fields in the order form. " +
                         "</div>";
             }
-            catch (InvalidDataException dex)
+            catch (InvalidDataException)
             {
                 message.InnerHtml = "<div class='alert alert-danger nobottommargin'>" +
                           "<button type = 'button' class='close' data-dismiss='alert' aria-hidden='true'>&times;</button>" +
