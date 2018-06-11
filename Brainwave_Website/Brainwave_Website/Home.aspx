@@ -98,27 +98,7 @@
 
 			<div class="content-wrap">
 
-				<div class="container clearfix">
-					<div class="row clearfix">
-
-						<div class="col-lg-5">
-							<div class="heading-block topmargin">
-								<h1>What we do</h1>
-							</div>
-							<p class="lead">Brainwave is dedicated to being one of the leading educational companies in RSA. It is our belief that every individual has unique potential, value and purpose on earth. We, therefore advise, educate and motivate through remedial programmes; training; workshops; courses and psychometric evaluations. Focus areas include: Career Guidance for Grade 9 learners to assist them in making the appropriate subject and career choices prior to entering into the FET phase of secondary</p>
-						</div>
-
-						<div class="col-lg-7">
-
-							<div style="position: relative; margin-bottom: -60px;" class="ohidden" data-height-lg="426" data-height-md="567" data-height-sm="470" data-height-xs="287" data-height-xxs="183">
-								<img src="images/Brainwave/works.jpg" style="position: absolute; top: 0; left: 0;" data-animate="fadeInUp" data-delay="100" alt="Chrome">
-								
-							</div>
-
-						</div>
-
-					</div>
-				</div>
+				
 
                 <!-- ================================================================================================================================= -->
 
