@@ -28,7 +28,7 @@
    
          <!-- Page Title
 		============================================= -->
-		<section id="page-title" class="page-title-parallax page-title-dark" style="padding: 250px 0; background-image: url('images/Brainwave/gui.jpeg'); background-size: cover; background-position: center center;" data-stellar-background-ratio="0.4">
+		<section id="page-title" class="page-title-parallax page-title-dark" style="padding: 250px 0; background-image: url('images/Brainwave/CD2.png'); background-size: cover; background-position: center center;" data-stellar-background-ratio="0.4">
 
 			<div class="container clearfix">
 				<h1>Career Guidance</h1>
@@ -100,7 +100,7 @@
 
 					   <div class="entry clearfix">
 							<div class="entry-image">
-								<a href="images/Brainwave/bio.jpg" data-lightbox="image"><img class="image_fade" src="images/Brainwave/bio.jpg" alt="Standard Post with Image"></a>
+								<a href="images/Brainwave/hea.png" data-lightbox="image"><img class="image_fade" src="images/Brainwave/hea.png" alt="Standard Post with Image"></a>
 							</div>
 							<div class="entry-title">
 								<h2><a href="Area2.aspx">Area 2: Health and Natural Sciences</a></h2>
@@ -132,7 +132,7 @@
 
 						   <div class="entry clearfix">
 							<div class="entry-image">
-								<a href="images/Brainwave/fin.jpg" data-lightbox="image"><img class="image_fade" src="images/Brainwave/fin.jpg" alt="Standard Post with Image"></a>
+								<a href="images/Brainwave/fins.png" data-lightbox="image"><img class="image_fade" src="images/Brainwave/fins.png" alt="Standard Post with Image"></a>
 							</div>
 							<div class="entry-title">
 								<h2><a href="Area4.aspx">Area 4: BUSINESS, FINANCE AND MANAGEMENT</a></h2>
@@ -148,7 +148,7 @@
 
 						<div class="entry clearfix">
 							<div class="entry-image">
-								<a href="images/Brainwave/agi.jpg" data-lightbox="image"><img class="image_fade" src="images/Brainwave/agi.jpg" alt="Standard Post with Image"></a>
+								<a href="images/Brainwave/agri 1.png" data-lightbox="image"><img class="image_fade" src="images/Brainwave/agri 1.png" alt="Standard Post with Image"></a>
 							</div>
 							<div class="entry-title">
 								<h2><a href="Area5.aspx">Area 5: AGRICULTURE AND ENVIRONMENT</a></h2>
@@ -163,7 +163,7 @@
 
 						<div class="entry clearfix">
 							<div class="entry-image">
-								<a href="images/Brainwave/edus.jpg" data-lightbox="image"><img class="image_fade" src="images/Brainwave/edus.jpg" alt="Standard Post with Image"></a>
+								<a href="images/Brainwave/t1.png" data-lightbox="image"><img class="image_fade" src="images/Brainwave/t1.png" alt="Standard Post with Image"></a>
 							</div>
 							<div class="entry-title">
 								<h2><a href="Area6.aspx">Area 6: HUMAN, SOCIAL AND EDUCATION</a></h2>
@@ -178,7 +178,7 @@
 
 						<div class="entry clearfix">
 							<div class="entry-image">
-								<a href="images/Brainwave/Hospitality.jpg" data-lightbox="image"><img class="image_fade" src="images/Brainwave/Hospitality.jpg" alt="Standard Post with Image"></a>
+								<a href="images/Brainwave/Service 1.png" data-lightbox="image"><img class="image_fade" src="images/Brainwave/Service 1.png" alt="Standard Post with Image"></a>
 							</div>
 							<div class="entry-title">
 								<h2><a href="Area7.aspx">Area 7: SERVICES</a></h2>
@@ -193,7 +193,7 @@
 
 						<div class="entry clearfix">
 							<div class="entry-image">
-								<a href="images/Brainwave/art.jpg" data-lightbox="image"><img class="image_fade" src="images/Brainwave/art.jpg" alt="Standard Post with Image"></a>
+								<a href="images/Brainwave/arc1.png" data-lightbox="image"><img class="image_fade" src="images/Brainwave/arc1.png" alt="Standard Post with Image"></a>
 							</div>
 							<div class="entry-title">
 								<h2><a href="Area8.aspx">Area 8: ARTS AND CULTURE</a></h2>
@@ -208,7 +208,7 @@
 
                         <div class="entry clearfix">
 							<div class="entry-image">
-								<a href="images/Brainwave/law.jpg" data-lightbox="image"><img class="image_fade" src="images/Brainwave/law.jpg" alt="Standard Post with Image"></a>
+								<a href="images/Brainwave/Law 1.png" data-lightbox="image"><img class="image_fade" src="images/Brainwave/Law 1.png" alt="Standard Post with Image"></a>
 							</div>
 							<div class="entry-title">
 								<h2><a href="Area9.aspx">Area 9: LANGUAGES AND LAW</a></h2>

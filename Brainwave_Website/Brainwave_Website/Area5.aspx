@@ -63,7 +63,7 @@
 							<!-- Entry Image
 							============================================= -->
 							<div class="entry-image bottommargin">
-								<a href="#"><img src="images/Brainwave/acul.jpg" alt="Blog Single"></a>
+								<a href="#"><img src="images/Brainwave/Agri 2.png" alt="Blog Single"></a>
 							</div><!-- .entry-image end -->
 
 							<!-- Entry Content

@@ -73,11 +73,11 @@
 								<!-- Entry Content
 								============================================= -->
 								
-
+                                
 									<!-- Entry Image
 									============================================= -->
 									<div class="entry-image">
-										<a data-lightbox="image" href="images/Brainwave/im.jpg"><img src="images/Brainwave/1ed.jpg" alt="Blog Single"></a>
+										<a data-lightbox="image" href="images/Brainwave/EDC3.png"><img src="images/Brainwave/EDC3.png" alt="Blog Single"></a>
 									</div><!-- .entry-image end -->
 
                                     <p style="font-size:18px">The value of Early Childhood Development (ECD) and getting a learner school ready cannot be underestimated and the more input at this level the better the future performance of each learner. Evidence tells us that a person’s life successes, health and emotional wellbeing have their roots in early childhood. If you get it right in early years, you can expect to see children thrive throughout school and their adult lives. 
@@ -221,49 +221,7 @@ The NQF is made up of 10 levels divided into three bands:
 
 							</div>
 
-							<div class="widget clearfix">
-
-								<h4>Photo Gallery</h4>
-								<div class="entry-image clearfix">
-								<div class="portfolio-single-image masonry-thumbs col-4" data-big="3" data-lightbox="gallery">
-									<a href="images/Brainwave/gallery/1.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/1.jpg" alt=""></a>
-									<a href="images/Brainwave/gallery/2.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/2.jpg" alt=""></a>
-									<a href="images/Brainwave/gallery/3.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/3.jpg" alt=""></a>
-                                    <a href="images/Brainwave/gallery/4.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/4.jpg" alt=""></a>
-									<a href="images/Brainwave/gallery/5.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/5.jpg" alt=""></a>
-									<a href="images/Brainwave/gallery/6.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/6.jpg" alt=""></a>
-                                    <a href="images/Brainwave/gallery/7.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/7.jpg" alt=""></a>
-									<a href="images/Brainwave/gallery/8.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/8.jpg" alt=""></a>
-									<a href="images/Brainwave/gallery/9.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/9.jpg" alt=""></a>
-                                    <a href="images/Brainwave/gallery/10.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/10.jpg" alt=""></a>
-									<a href="images/Brainwave/gallery/11.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/11.jpg" alt=""></a>
-                                    <a href="images/Brainwave/gallery/aa.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/aa.jpg" alt=""></a>
-									<a href="images/Brainwave/gallery/ab.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/ab.jpg" alt=""></a>
-                                    <a href="images/Brainwave/gallery/ac.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/ac.jpg" alt=""></a>
-									<a href="images/Brainwave/gallery/ad.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/ad.jpg" alt=""></a>
-                                    <a href="images/Brainwave/gallery/ae.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/ae.jpg" alt=""></a>
-									<a href="images/Brainwave/gallery/af.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/af.jpg" alt=""></a>
-
-                                    <a href="images/Brainwave/newgal/1.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/1.jpg" alt=""></a>
-                                    
-                                    <a href="images/Brainwave/newgal/5.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/5.jpg" alt=""></a>
-                                    <a href="images/Brainwave/newgal/6.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/6.jpg" alt=""></a>
-                                    <a href="images/Brainwave/newgal/7.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/7.jpg" alt=""></a>
-                                    <a href="images/Brainwave/newgal/8.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/8.jpg" alt=""></a>
-                                    <a href="images/Brainwave/newgal/9.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/9.jpg" alt=""></a>
-                                    <a href="images/Brainwave/newgal/10.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/10.jpg" alt=""></a>
-                                    <a href="images/Brainwave/newgal/11.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/11.jpg" alt=""></a>
-                                    <a href="images/Brainwave/newgal/12.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/12.jpg" alt=""></a>
-                                    <a href="images/Brainwave/newgal/13.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/13.jpg" alt=""></a>
-                                    <a href="images/Brainwave/newgal/14.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/14.jpg" alt=""></a>
-                                    <a href="images/Brainwave/newgal/15.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/15.jpg" alt=""></a>
-                                    <a href="images/Brainwave/newgal/16.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/16.jpg" alt=""></a>
-                                    <a href="images/Brainwave/newgal/17.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/17.jpg" alt=""></a>
-                                    <a href="images/Brainwave/newgal/18.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/18.jpg" alt=""></a>
-								</div>
-							</div>
-
-							</div>
+							
 
 							
                             <div class="widget clearfix">

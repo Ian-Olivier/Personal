@@ -29,36 +29,76 @@
    
 
   
+         <!-- Page Title
+		============================================= -->
+		<section id="page-title" class="page-title-parallax page-title-dark" style="padding: 250px 0; background-image: url('images/Brainwave/Gallery.png'); background-size: cover; background-position: center center;" data-stellar-background-ratio="0.4">
 
-		<!-- top slide show ------------------------------------------------------------------------- -->
-
-		<section id="slider" class="carousel slider-parallax swiper_wrapper full-screen clearfix">
-			<div class="slider-parallax-inner">
-
-				<div class="swiper-container swiper-parent">
-					<div class="swiper-wrapper">
-
-						<div class="swiper-slide dark" style="background-image: url('images/Brainwave/tes.jpeg');">
-							<div class="container clearfix">
-								<div class="slider-caption slider-caption-center">
-                                    <i class="i-plain i-xxlarge divcenter nobottommargin icon-warning-sign"></i>
-									<h2 data-caption-animate="fadeInUp"><b style="color:#660033">Under </b><b style="color:#009999">Construction</b></h2>
-									<p style="color:#009999" data-caption-animate="fadeInUp" data-caption-delay="200">We've gone out for tea, news will be up as soon as it becomes available</p>
-                                    <a href="Home.aspx" class="add-to-cart button nomargin"><i class="icon-arrow-left"></i> Back to Home</a>
-								</div>
-							</div>
-						</div>
-					</div>
-						
-				</div>
-
-				<a href="#" data-scrollto="#content" data-offset="100" class="dark one-page-arrow"><i class="icon-angle-down infinite animated fadeInDown"></i></a>
-
+			<div class="container clearfix">
+				<h1>Gallery</h1>
+				<span>Some photos to show what we do</span>
+				<ol class="breadcrumb">
+					<li><a href="Home.aspx">Home</a></li>					
+					<li class="active">Gallery</li>
+				</ol>
 			</div>
-		</section>
-        <!-- end of slide show =========================================================================================================================================================>
-	
-    
+
+		</section><!-- #page-title end -->
+		
+	<section id="content">
+
+			<div class="content-wrap">
+
+				<div class="container clearfix">
+
+        <div class="col_full clearfix">
+
+						<h3>4 Columns</h3>
+
+						<div class="masonry-thumbs col-4" data-big="4" data-lightbox="gallery">
+							<a href="images/Brainwave/gallery/1.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/1.jpg" alt=""></a>
+									<a href="images/Brainwave/gallery/2.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/2.jpg" alt=""></a>
+									<a href="images/Brainwave/gallery/3.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/3.jpg" alt=""></a>
+                                    <a href="images/Brainwave/gallery/4.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/4.jpg" alt=""></a>
+									<a href="images/Brainwave/gallery/5.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/5.jpg" alt=""></a>
+									<a href="images/Brainwave/gallery/6.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/6.jpg" alt=""></a>
+                                    <a href="images/Brainwave/gallery/7.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/7.jpg" alt=""></a>
+									<a href="images/Brainwave/gallery/8.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/8.jpg" alt=""></a>
+									<a href="images/Brainwave/gallery/9.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/9.jpg" alt=""></a>
+                                    <a href="images/Brainwave/gallery/10.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/10.jpg" alt=""></a>
+									<a href="images/Brainwave/gallery/11.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/11.jpg" alt=""></a>
+                                    <a href="images/Brainwave/gallery/aa.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/aa.jpg" alt=""></a>
+									<a href="images/Brainwave/gallery/ab.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/ab.jpg" alt=""></a>
+                                    <a href="images/Brainwave/gallery/ac.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/ac.jpg" alt=""></a>
+									<a href="images/Brainwave/gallery/ad.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/ad.jpg" alt=""></a>
+                                    <a href="images/Brainwave/gallery/ae.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/ae.jpg" alt=""></a>
+									<a href="images/Brainwave/gallery/af.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/af.jpg" alt=""></a>
+
+
+                                    <a href="images/Brainwave/newgal/1.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/1.jpg" alt=""></a>
+                                    
+                                    <a href="images/Brainwave/newgal/5.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/5.jpg" alt=""></a>
+                                    <a href="images/Brainwave/newgal/6.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/6.jpg" alt=""></a>
+                                    <a href="images/Brainwave/newgal/7.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/7.jpg" alt=""></a>
+                                    <a href="images/Brainwave/newgal/8.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/8.jpg" alt=""></a>
+                                    <a href="images/Brainwave/newgal/9.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/9.jpg" alt=""></a>
+                                    <a href="images/Brainwave/newgal/10.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/10.jpg" alt=""></a>
+                                    <a href="images/Brainwave/newgal/11.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/11.jpg" alt=""></a>
+                                    <a href="images/Brainwave/newgal/12.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/12.jpg" alt=""></a>
+                                    <a href="images/Brainwave/newgal/13.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/13.jpg" alt=""></a>
+                                    <a href="images/Brainwave/newgal/14.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/14.jpg" alt=""></a>
+                                    <a href="images/Brainwave/newgal/15.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/15.jpg" alt=""></a>
+                                    <a href="images/Brainwave/newgal/16.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/16.jpg" alt=""></a>
+                                    <a href="images/Brainwave/newgal/17.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/17.jpg" alt=""></a>
+                                    <a href="images/Brainwave/newgal/18.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/18.jpg" alt=""></a>
+						</div>
+
+					</div>
+
+					<div class="divider"><i class="icon-circle"></i></div>
+
+    </div>
+                </div>
+        </section>
     <!-- Footer
 		============================================= -->
 		<footer id="footer" class="dark">

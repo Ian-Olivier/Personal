@@ -29,7 +29,7 @@
    
         <!-- Page Title
 		============================================= -->
-		<section id="page-title" class="page-title-parallax page-title-dark" style="padding: 250px 0; background-image: url('images/Brainwave/hs2.jpg'); background-size: cover; background-position: center center;" data-stellar-background-ratio="0.4">
+		<section id="page-title" class="page-title-parallax page-title-dark" style="padding: 250px 0; background-image: url('images/Brainwave/hs2.png'); background-size: cover; background-position: center center;" data-stellar-background-ratio="0.4">
 
 			<div class="container clearfix">
 				<h1 style="color:#660033">High School</h1>
@@ -78,7 +78,7 @@
 									<!-- Entry Image
 									============================================= -->
 									<div class="entry-image">
-										<a data-lightbox="image" href="images/Brainwave/hs1.jpg"><img src="images/Brainwave/hs1.jpg" alt="Blog Single"></a>
+										<a data-lightbox="image" href="images/Brainwave/hs3.png"><img src="images/Brainwave/hs3.png" alt="Blog Single"></a>
 									</div><!-- .entry-image end -->
 
                                     <p style="font-size:18px">Choosing a career is one of the most important decisions a person will ever make and yet within the education system there is about no vocational support for learners choosing their final subjects and or careers. This weakness in the educational system results in high unnecessary costs for countries and businesses, as well as social discontent and hardship. The drop-out rate for the first year tertiary students stands on 35% of which the lack of self- and career knowledge seems to be the underlining reason. This leads to low morale, disinterest and de-motivation, translating into poor performances and bad service levels.
@@ -249,49 +249,7 @@
 
 							</div>
 
-							<div class="widget clearfix">
-
-								<h4>Photo Gallery</h4>
-								<div class="entry-image clearfix">
-								<div class="portfolio-single-image masonry-thumbs col-4" data-big="3" data-lightbox="gallery">
-									<a href="images/Brainwave/gallery/1.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/1.jpg" alt=""></a>
-									<a href="images/Brainwave/gallery/2.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/2.jpg" alt=""></a>
-									<a href="images/Brainwave/gallery/3.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/3.jpg" alt=""></a>
-                                    <a href="images/Brainwave/gallery/4.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/4.jpg" alt=""></a>
-									<a href="images/Brainwave/gallery/5.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/5.jpg" alt=""></a>
-									<a href="images/Brainwave/gallery/6.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/6.jpg" alt=""></a>
-                                    <a href="images/Brainwave/gallery/7.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/7.jpg" alt=""></a>
-									<a href="images/Brainwave/gallery/8.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/8.jpg" alt=""></a>
-									<a href="images/Brainwave/gallery/9.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/9.jpg" alt=""></a>
-                                    <a href="images/Brainwave/gallery/10.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/10.jpg" alt=""></a>
-									<a href="images/Brainwave/gallery/11.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/11.jpg" alt=""></a>
-                                    <a href="images/Brainwave/gallery/aa.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/aa.jpg" alt=""></a>
-									<a href="images/Brainwave/gallery/ab.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/ab.jpg" alt=""></a>
-                                    <a href="images/Brainwave/gallery/ac.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/ac.jpg" alt=""></a>
-									<a href="images/Brainwave/gallery/ad.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/ad.jpg" alt=""></a>
-                                    <a href="images/Brainwave/gallery/ae.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/ae.jpg" alt=""></a>
-									<a href="images/Brainwave/gallery/af.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/af.jpg" alt=""></a>
-
-                                    <a href="images/Brainwave/newgal/1.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/1.jpg" alt=""></a>
-                                    
-                                    <a href="images/Brainwave/newgal/5.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/5.jpg" alt=""></a>
-                                    <a href="images/Brainwave/newgal/6.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/6.jpg" alt=""></a>
-                                    <a href="images/Brainwave/newgal/7.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/7.jpg" alt=""></a>
-                                    <a href="images/Brainwave/newgal/8.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/8.jpg" alt=""></a>
-                                    <a href="images/Brainwave/newgal/9.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/9.jpg" alt=""></a>
-                                    <a href="images/Brainwave/newgal/10.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/10.jpg" alt=""></a>
-                                    <a href="images/Brainwave/newgal/11.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/11.jpg" alt=""></a>
-                                    <a href="images/Brainwave/newgal/12.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/12.jpg" alt=""></a>
-                                    <a href="images/Brainwave/newgal/13.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/13.jpg" alt=""></a>
-                                    <a href="images/Brainwave/newgal/14.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/14.jpg" alt=""></a>
-                                    <a href="images/Brainwave/newgal/15.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/15.jpg" alt=""></a>
-                                    <a href="images/Brainwave/newgal/16.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/16.jpg" alt=""></a>
-                                    <a href="images/Brainwave/newgal/17.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/17.jpg" alt=""></a>
-                                    <a href="images/Brainwave/newgal/18.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/newgal/18.jpg" alt=""></a>
-								</div>
-							</div>
-
-							</div>
+							
 
 							
 

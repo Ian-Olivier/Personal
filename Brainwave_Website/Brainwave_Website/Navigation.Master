@@ -51,7 +51,7 @@
 							</li>
 							<li><a href="Product.aspx"><div><i class="icon-cart"></i>Products</div></a>	
 							</li>							
-							<li><a href="News.aspx"><div><i class="icon-pencil2"></i>News</div></a>								
+							<li><a href="News.aspx"><div><i class="icon-camera"></i>Gallery</div></a>								
 							</li>
 							<li><a href="Contact.aspx"><div><i class="icon-email3"></i>Contact</div></a>								
 							</li>							

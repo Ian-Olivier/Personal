@@ -28,7 +28,7 @@
     <div id="wrapper" class="clearfix">
     <!-- Page Title
 		============================================= -->
-		<section id="page-title" class="page-title-parallax page-title-dark" style="padding: 250px 0; background-image: url('images/Brainwave/grad.jpeg'); background-size: cover; background-position: center center;" data-stellar-background-ratio="0.4">
+		<section id="page-title" class="page-title-parallax page-title-dark" style="padding: 250px 0; background-image: url('images/Brainwave/aboutusban.png'); background-size: cover; background-position: center center;" data-stellar-background-ratio="0.4">
 
 			<div class="container clearfix">
 				<h1>About Us</h1>
@@ -58,7 +58,7 @@
 						<div class="col-lg-7">
 
 						
-								<img src="images/Brainwave/works.jpg" style="position: absolute; top: 0; left: 0;" data-animate="fadeInUp" data-delay="100" alt="Chrome">
+								<img src="images/Brainwave/about.png" style="position: absolute; top: 0; left: 0;" data-animate="fadeInUp" data-delay="100" alt="Chrome">
 								
 							
 
@@ -111,7 +111,7 @@
 							<h3>Our <span>Areas of Focus</span>.</h3>
 						</div>
                         
-                            <h5>early childhood development</h5>
+                            <h5>Early childhood development</h5>
                                 <ul class="lead">
                                     <li>Ready, Steady, Learn.</li>
                                     <li>NQF 4 ECD accreditation.</li>

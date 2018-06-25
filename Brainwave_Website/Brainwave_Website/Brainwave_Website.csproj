@@ -173,10 +173,14 @@
     <Content Include="images\Brainwave\1wshop.jpg" />
     <Content Include="images\Brainwave\2.JPG" />
     <Content Include="images\Brainwave\3.JPG" />
+    <Content Include="images\Brainwave\about.png" />
+    <Content Include="images\Brainwave\aboutusban.png" />
     <Content Include="images\Brainwave\acd.jpg" />
     <Content Include="images\Brainwave\achar.jpg" />
     <Content Include="images\Brainwave\acul.jpg" />
     <Content Include="images\Brainwave\agi.jpg" />
+    <Content Include="images\Brainwave\agri 1.png" />
+    <Content Include="images\Brainwave\Agri 2.png" />
     <Content Include="images\Brainwave\Ahos.jpg" />
     <Content Include="images\Brainwave\alaw.jpeg" />
     <Content Include="images\Brainwave\alm.jpg" />
@@ -188,6 +192,8 @@
     <Content Include="images\Brainwave\app\3.jpg" />
     <Content Include="images\Brainwave\app\4.jpg" />
     <Content Include="images\Brainwave\aprim.JPG" />
+    <Content Include="images\Brainwave\arc1.png" />
+    <Content Include="images\Brainwave\arc2.png" />
     <Content Include="images\Brainwave\art.jpg" />
     <Content Include="images\Brainwave\artz.jpeg" />
     <Content Include="images\Brainwave\asuc.jpg" />
@@ -200,18 +206,24 @@
     <Content Include="images\Brainwave\BWWeb.png" />
     <Content Include="images\Brainwave\careerguide.jpg" />
     <Content Include="images\Brainwave\carinfo.jpeg" />
+    <Content Include="images\Brainwave\CD1.png" />
+    <Content Include="images\Brainwave\CD2.png" />
+    <Content Include="images\Brainwave\CD3.png" />
     <Content Include="images\Brainwave\comp.jpeg" />
     <Content Include="images\Brainwave\covs.JPG" />
     <Content Include="images\Brainwave\earlychild.png" />
     <Content Include="images\Brainwave\ECD.jpeg" />
     <Content Include="images\Brainwave\EDC.jpeg" />
+    <Content Include="images\Brainwave\EDC3.png" />
     <Content Include="images\Brainwave\education.jpg" />
     <Content Include="images\Brainwave\educs.jpeg" />
     <Content Include="images\Brainwave\edus.jpg" />
     <Content Include="images\Brainwave\engi.jpg" />
     <Content Include="images\Brainwave\engir.jpg" />
     <Content Include="images\Brainwave\fin.jpg" />
+    <Content Include="images\Brainwave\fins.png" />
     <Content Include="images\Brainwave\front.png" />
+    <Content Include="images\Brainwave\Gallery.png" />
     <Content Include="images\Brainwave\gallery\1.JPG" />
     <Content Include="images\Brainwave\gallery\10.JPG" />
     <Content Include="images\Brainwave\gallery\11.JPG" />
@@ -231,16 +243,21 @@
     <Content Include="images\Brainwave\gallery\af.JPG" />
     <Content Include="images\Brainwave\grad.jpeg" />
     <Content Include="images\Brainwave\gui.jpeg" />
+    <Content Include="images\Brainwave\hea.png" />
+    <Content Include="images\Brainwave\hea2.png" />
     <Content Include="images\Brainwave\Hihjschool.jpg" />
     <Content Include="images\Brainwave\Hospitality.jpg" />
-    <Content Include="images\Brainwave\hs1.jpg" />
-    <Content Include="images\Brainwave\hs2.jpg" />
+    <Content Include="images\Brainwave\hs1.png" />
+    <Content Include="images\Brainwave\hs2.png" />
+    <Content Include="images\Brainwave\hs3.png" />
     <Content Include="images\Brainwave\im.JPG" />
     <Content Include="images\Brainwave\inc.jpg" />
     <Content Include="images\Brainwave\incc.jpg" />
     <Content Include="images\Brainwave\infocc.jpg" />
     <Content Include="images\Brainwave\intro.jpg" />
     <Content Include="images\Brainwave\IT.jpg" />
+    <Content Include="images\Brainwave\Law 1.png" />
+    <Content Include="images\Brainwave\Law 2.png" />
     <Content Include="images\Brainwave\law.jpg" />
     <Content Include="images\Brainwave\lightwelcome.png" />
     <Content Include="images\Brainwave\logo_footer.png" />
@@ -251,6 +268,8 @@
     <Content Include="images\Brainwave\mods\4.png" />
     <Content Include="images\Brainwave\mods\5.png" />
     <Content Include="images\Brainwave\mods\6.png" />
+    <Content Include="images\Brainwave\mot1.png" />
+    <Content Include="images\Brainwave\mot2.png" />
     <Content Include="images\Brainwave\musk.png" />
     <Content Include="images\Brainwave\neil.jpg" />
     <Content Include="images\Brainwave\nelson.jpg" />
@@ -279,6 +298,8 @@
     <Content Include="images\Brainwave\nqf4\6.png" />
     <Content Include="images\Brainwave\onlinediscover.jpg" />
     <Content Include="images\Brainwave\prim.jpeg" />
+    <Content Include="images\Brainwave\prim1.png" />
+    <Content Include="images\Brainwave\prim2.png" />
     <Content Include="images\Brainwave\prima.jpg" />
     <Content Include="images\Brainwave\primcov.jpg" />
     <Content Include="images\Brainwave\products\p1.jpg" />
@@ -289,6 +310,8 @@
     <Content Include="images\Brainwave\products\p6.jpg" />
     <Content Include="images\Brainwave\qui.jpg" />
     <Content Include="images\Brainwave\science.jpeg" />
+    <Content Include="images\Brainwave\Service 1.png" />
+    <Content Include="images\Brainwave\Service 2.png" />
     <Content Include="images\Brainwave\sjop.jpg" />
     <Content Include="images\Brainwave\sponsors\as1.png" />
     <Content Include="images\Brainwave\sponsors\as10.jpg" />
@@ -309,7 +332,14 @@
     <Content Include="images\Brainwave\sponsors\as7.jpg" />
     <Content Include="images\Brainwave\sponsors\as8.jpg" />
     <Content Include="images\Brainwave\sponsors\as9.jpg" />
+    <Content Include="images\Brainwave\sr1.png" />
+    <Content Include="images\Brainwave\sr2.png" />
     <Content Include="images\Brainwave\suc.jpg" />
+    <Content Include="images\Brainwave\suc1.png" />
+    <Content Include="images\Brainwave\suc2.png" />
+    <Content Include="images\Brainwave\suc3.png" />
+    <Content Include="images\Brainwave\t1.png" />
+    <Content Include="images\Brainwave\t2.png" />
     <Content Include="images\Brainwave\tea.jpeg" />
     <Content Include="images\Brainwave\tes.jpeg" />
     <Content Include="images\Brainwave\welcome2.png" />
@@ -319,6 +349,8 @@
     <Content Include="images\Brainwave\ws\2.JPG" />
     <Content Include="images\Brainwave\ws\3.JPG" />
     <Content Include="images\Brainwave\ws\4.JPG" />
+    <Content Include="images\Brainwave\xpic1.png" />
+    <Content Include="images\Brainwave\xpic2.png" />
     <Content Include="images\Brainwave\xplo.png" />
     <Content Include="images\footer-bg.jpg" />
     <Content Include="images\footer-logo.png" />
@@ -374,6 +406,8 @@
     <Content Include="images\preloader-dark%402x.gif" />
     <Content Include="images\preloader-dark.gif" />
     <Content Include="images\preloader.gif" />
+    <Content Include="images\sr1.png" />
+    <Content Include="images\sr2.png" />
     <Content Include="images\uselogomain.png" />
     <Content Include="images\world-map.png" />
     <Content Include="include\ajax\portfolio-ajax-gallery.php" />
@@ -385,24 +419,7 @@
     <Content Include="include\ajax\portfolio-single-thumbs.html" />
     <Content Include="include\ajax\portfolio-single-video.html" />
     <Content Include="include\ajax\shop-item.html" />
-    <Content Include="include\campaign-monitor\class\base_classes.php" />
-    <Content Include="include\campaign-monitor\class\log.php" />
-    <Content Include="include\campaign-monitor\class\serialisation.php" />
-    <Content Include="include\campaign-monitor\class\services_json.php" />
-    <Content Include="include\campaign-monitor\class\transport.php" />
-    <Content Include="include\campaign-monitor\csrest_subscribers.php" />
     <Content Include="include\getresponse\GetResponseAPI3.class.php" />
-    <Content Include="include\jobs.php" />
-    <Content Include="include\landing-5.php" />
-    <Content Include="include\phpmailer\class.phpmailer.php" />
-    <Content Include="include\phpmailer\class.phpmaileroauth.php" />
-    <Content Include="include\phpmailer\class.phpmaileroauthgoogle.php" />
-    <Content Include="include\phpmailer\class.pop3.php" />
-    <Content Include="include\phpmailer\class.smtp.php" />
-    <Content Include="include\phpmailer\get_oauth_token.php" />
-    <Content Include="include\phpmailer\PHPMailerAutoload.php" />
-    <Content Include="include\quickcontact-subscribe.php" />
-    <Content Include="include\quickcontact.php" />
     <Content Include="include\rs-plugin\assets\coloredbg.png" />
     <Content Include="include\rs-plugin\assets\gridtile.png" />
     <Content Include="include\rs-plugin\assets\gridtile_3x3.png" />
@@ -516,16 +533,6 @@
     <Content Include="include\rs-plugin\php\twitter\RestApi.php" />
     <Content Include="include\rs-plugin\php\vimeo\class-vimeo.php" />
     <Content Include="include\rs-plugin\php\youtube\class-youtube.php" />
-    <Content Include="include\rsvp.php" />
-    <Content Include="include\sendemail-autoresponder.php" />
-    <Content Include="include\sendemail-subscribe.php" />
-    <Content Include="include\sendemail.php" />
-    <Content Include="include\subscribe-cm.php" />
-    <Content Include="include\subscribe-email.php" />
-    <Content Include="include\subscribe.php" />
-    <Content Include="include\twitter\oauth\OAuth.php" />
-    <Content Include="include\twitter\oauth\twitteroauth.php" />
-    <Content Include="include\twitter\tweets.php" />
     <Content Include="js\chart-utils.js" />
     <Content Include="js\chart.js" />
     <Content Include="js\components\bs-datatable.js" />
@@ -618,7 +625,6 @@
     <Content Include="css\fonts\Simple-Line-Icons.eot" />
     <Content Include="css\fonts\Simple-Line-Icons.ttf" />
     <Content Include="css\fonts\Simple-Line-Icons.woff" />
-    <Content Include="include\campaign-monitor\class\cacert.pem" />
     <Content Include="include\rs-plugin\fonts\font-awesome\fonts\fontawesome-webfont.eot" />
     <Content Include="include\rs-plugin\fonts\font-awesome\fonts\fontawesome-webfont.ttf" />
     <Content Include="include\rs-plugin\fonts\font-awesome\fonts\fontawesome-webfont.woff" />
@@ -840,6 +846,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="include\twitter\cache\" />
+    <Folder Include="include\twitter\oauth\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

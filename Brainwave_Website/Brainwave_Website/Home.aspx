@@ -47,7 +47,7 @@
 							<div class="container clearfix">
 								<div class="slider-caption slider-caption-center">
 									<h2 data-caption-animate="fadeInUp">Welcome to <b style="color:#660033">Brain</b><b style="color:#009999">Wave</b></h2>
-									<p style="color:#000000" data-caption-animate="fadeInUp" data-caption-delay="200"><strong>learners to reach their full potential in helping them discover who they are and where they best fit in life</strong> </p>
+									<p style="color:#000000" data-caption-animate="fadeInUp" data-caption-delay="200"><strong>Learners to reach their full potential in helping them discover who they are and where they best fit in life.</strong> </p>
 								</div>
 							</div>
 						</div>
@@ -129,7 +129,7 @@
 							<div class="col-md-4 bottommargin-sm">
 								<div class="feature-box media-box fbox-bg">
 									<div class="fbox-media">
-										<a href="Highschool.aspx"><img class="image_fade" src="images/Brainwave/Hihjschool.jpg" alt="Featured Box Image"></a>
+										<a href="Highschool.aspx"><img class="image_fade" src="images/Brainwave/hs1.png" alt="Featured Box Image"></a>
 									</div>
 									<div class="fbox-desc">
 										<h3 class="nott ls0 t600">High School<span class="subtitle font-secondary t300 ls0">Career Guidance, Subject choices and life skills.</span></h3>
@@ -141,7 +141,7 @@
 							<div class="col-md-4 bottommargin-sm">
 								<div class="feature-box media-box fbox-bg">
 									<div class="fbox-media">
-										<a href="Primaryschool.aspx"><img class="image_fade" src="images/Brainwave/education.jpg" alt="Featured Box Image"></a>
+										<a href="Primaryschool.aspx"><img class="image_fade" src="images/Brainwave/prim1.png" alt="Featured Box Image"></a>
 									</div>
 									<div class="fbox-desc">
 										<h3 class="nott ls0 t600">Primary school<span class="subtitle font-secondary t300 ls0">English and Maths learner as well as teacher empowerment.</span></h3>
@@ -162,7 +162,7 @@
                             <div class="col-md-4 bottommargin-sm">
 								<div class="feature-box media-box fbox-bg">
 									<div class="fbox-media">
-										<a href="WorkShops.aspx"><img class="image_fade" src="images/Brainwave/1wshop.jpg" alt="Featured Box Image"></a>
+										<a href="WorkShops.aspx"><img class="image_fade" src="images/Brainwave/mot1.png" alt="Featured Box Image"></a>
 									</div>
 									<div class="fbox-desc">
 										<h3 class="nott ls0 t600">Motivational Workshops<span class="subtitle font-secondary t300 ls0">Life Skills, Teambuilding and Anger Management.</span></h3>
@@ -174,7 +174,7 @@
 							<div class="col-md-4 bottommargin-sm">
 								<div class="feature-box media-box fbox-bg">
 									<div class="fbox-media">
-										<a href="CXplore.aspx"><img class="image_fade" src="images/Brainwave/Mobap.jpg" alt="Featured Box Image"></a>
+										<a href="CXplore.aspx"><img class="image_fade" src="images/Brainwave/xpic1.png" alt="Featured Box Image"></a>
 									</div>
 									<div class="fbox-desc">
 										<h3 class="nott ls0 t600">CareerXplora App<span class="subtitle font-secondary t300 ls0">Career Advise and Live chat, all availoble on our App.</span></h3>
@@ -186,7 +186,7 @@
 							<div class="col-md-4 bottommargin-sm">
 								<div class="feature-box media-box fbox-bg">
 									<div class="fbox-media">
-										<a href="CareerGuidance.aspx"><img class="image_fade" src="images/Brainwave/1gui.jpg" alt="Featured Box Image"></a>
+										<a href="CareerGuidance.aspx"><img class="image_fade" src="images/Brainwave/CD1.png" alt="Featured Box Image"></a>
 									</div>
 									<div class="fbox-desc">
 										<h3 class="nott ls0 t600">Career Guidance<span class="subtitle font-secondary t300 ls0">Job descriptions. Bursaries and What and Where to study.</span></h3>
@@ -208,7 +208,7 @@
                             <div class="col-md-4 bottommargin-sm">
 								<div class="feature-box media-box fbox-bg">
 									<div class="fbox-media">
-										<a href="SResponsibility.aspx"><img class="image_fade" src="images/Brainwave/intro.jpg" alt="Featured Box Image"></a>
+										<a href="SResponsibility.aspx"><img class="image_fade" src="images/Brainwave/sr1.png" alt="Featured Box Image"></a>
 									</div>
 									<div class="fbox-desc">
 										<h3 class="nott ls0 t600">Social Responsibility<span class="subtitle font-secondary t300 ls0">Giving back to the community.</span></h3>
@@ -220,7 +220,7 @@
 							<div class="col-md-4 bottommargin-sm">
 								<div class="feature-box media-box fbox-bg">
 									<div class="fbox-media">
-										<a href="SStories.aspx"><img class="image_fade" src="images/Brainwave/suc.jpg" alt="Featured Box Image"></a>
+										<a href="SStories.aspx"><img class="image_fade" src="images/Brainwave/suc1.png" alt="Featured Box Image"></a>
 									</div>
 									<div class="fbox-desc">
 										<h3 class="nott ls0 t600">Success Stories<span class="subtitle font-secondary t300 ls0">Testimonials from our clients.</span></h3>
@@ -321,7 +321,7 @@
                         <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/as4.jpg"><img src="images/Brainwave/sponsors/as4.jpg" alt="Clients"></a></div>
                         <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/as5.jpg"><img src="images/Brainwave/sponsors/as5.jpg" alt="Clients"></a></div>
                         <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/as6.jpg"><img src="images/Brainwave/sponsors/as6.jpg" alt="Clients"></a></div>
-                        <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/as6.jpg"><img src="images/Brainwave/sponsors/as6.jpg" alt="Clients"></a></div>
+                       
                         <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/as8.jpg"><img src="images/Brainwave/sponsors/as8.jpg" alt="Clients"></a></div>
                         <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/as9.jpg"><img src="images/Brainwave/sponsors/as9.jpg" alt="Clients"></a></div>
                         <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/as10.jpg"><img src="images/Brainwave/sponsors/as10.jpg" alt="Clients"></a></div>
@@ -332,7 +332,7 @@
                         <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/as15.gif"><img src="images/Brainwave/sponsors/as15.gif" alt="Clients"></a></div>
                         <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/as16.jpg"><img src="images/Brainwave/sponsors/as16.jpg" alt="Clients"></a></div>
                         <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/as17.png"><img src="images/Brainwave/sponsors/as17.png" alt="Clients"></a></div>
-                        <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/as17.jpg"><img src="images/Brainwave/sponsors/as17.jpg" alt="Clients"></a></div>
+                        
                         <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/as18.jpg"><img src="images/Brainwave/sponsors/as18.jpg" alt="Clients"></a></div>
 
 					</div>
