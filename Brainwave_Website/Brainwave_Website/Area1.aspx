@@ -63,7 +63,7 @@
 							<!-- Entry Image
 							============================================= -->
 							<div class="entry-image bottommargin">
-								<a href="#"><img src="images/Brainwave/engir.jpg" alt="Blog Single"></a>
+								<a href="#"><img src="images/Brainwave/neer2.png" alt="Blog Single"></a>
 							</div><!-- .entry-image end -->
 
 							<!-- Entry Content

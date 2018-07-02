@@ -85,7 +85,7 @@
 
 						<div class="entry clearfix">
 							<div class="entry-image">
-								<a href="images/Brainwave/engi.jpg" data-lightbox="image"><img class="image_fade" src="images/Brainwave/engi.jpg" alt="Standard Post with Image"></a>
+								<a href="images/Brainwave/neer1.png" data-lightbox="image"><img class="image_fade" src="images/Brainwave/neer1.png" alt="Standard Post with Image"></a>
 							</div>
 							<div class="entry-title">
 								<h2><a href="Area1.aspx">Area 1: Engineering and Technology</a></h2>
@@ -115,7 +115,7 @@
 
 						<div class="entry clearfix">
 							<div class="entry-image">
-								<a href="images/Brainwave/IT.jpg" data-lightbox="image"><img class="image_fade" src="images/Brainwave/IT.jpg" alt="Standard Post with Image"></a>
+								<a href="images/Brainwave/pc1.png" data-lightbox="image"><img class="image_fade" src="images/Brainwave/pc1.png" alt="Standard Post with Image"></a>
 							</div>
 							<div class="entry-title">
 								<h2><a href="Area3.aspx">Area 3: COMPUTERS AND INFORMATION TECHNOLOGY</a></h2>

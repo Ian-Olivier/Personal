@@ -63,7 +63,7 @@
 							<!-- Entry Image
 							============================================= -->
 							<div class="entry-image bottommargin">
-								<a href="#"><img src="images/Brainwave/comp.jpeg" alt="Blog Single"></a>
+								<a href="#"><img src="images/Brainwave/pc2.png" alt="Blog Single"></a>
 							</div><!-- .entry-image end -->
 
 							<!-- Entry Content
