@@ -32,7 +32,7 @@
 
 			<div class="container clearfix">
 				<h1 style="color:#009999">Success Stories</h1>
-				<span >Testimonials from our clients</span>
+				<span >Testimonials from our learners</span>
 				<ol class="breadcrumb">
 					<li><a href="Home.aspx">Home</a></li>					
 					<li class="active">Success Stories</li>
@@ -79,7 +79,7 @@
 									</div><!-- .entry-image end -->
 
 
-                                    <h2>Feedback from learners on the Discover your Career program</h2>
+                                    <h2>Feedback from learners on the Discover your Career programme</h2>
 
                                     <!-- Comments
 						============================================= -->
@@ -341,60 +341,7 @@
 
 							
 
-							<h4>Related Articles:</h4>
-
-							<div class="related-posts clearfix">
-
-								<div class="col_half nobottommargin">
-
-									<div class="mpost clearfix">
-										<div class="entry-image">
-											<a href="ECD.aspx"><img src="images/Brainwave/newa.jpg" alt="Blog Single"></a>
-										</div>
-										<div class="entry-c">
-											<div class="entry-title">
-												<h4><a href="ECD.aspx">Early Childhood Development</a></h4>
-											</div>
-											
-											<div class="entry-content">View our NQF4, NQF5 and Ready Steady Learn programmes.</div>
-										</div>
-									</div>
-
-									<div class="mpost clearfix">
-										<div class="entry-image">
-											<a href="Primaryschool.aspx"><img src="images/Brainwave/education.jpg" alt="Blog Single"></a>
-										</div>
-										<div class="entry-c">
-											<div class="entry-title">
-												<h4><a href="Primaryschool.aspx">Primary school</a></h4>
-											</div>
-											
-											<div class="entry-content">English and Maths learner and teacher empowerment.</div>
-										</div>
-									</div>
-
-								</div>
-
-								<div class="col_half nobottommargin col_last">
-
-									<div class="mpost clearfix">
-										<div class="entry-image">
-											<a href="Product.aspx"><img src="images/Brainwave/gui.jpeg" alt="Blog Single"></a>
-										</div>
-										<div class="entry-c">
-											<div class="entry-title">
-												<h4><a href="Product.aspx">Products</a></h4>
-											</div>
-											
-											<div class="entry-content">View our wide rage of educational products.</div>
-										</div>
-									</div>
-
-									
-
-								</div>
-
-							</div>
+							
     </div>
 							
 

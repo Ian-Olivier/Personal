@@ -82,9 +82,9 @@
                                     <h4>Background Information</h4>
                                     <p style="font-size:18px"> 
 
-                                        South-Africa is an education system often described as being in ‘crisis’. Results from international, standardised tests show that between 75% - 80% of South-African schools are not able to effectively impact the necessary skills to learners. <br /><br />
-                                        A recent claim suggests 80% of South-African schools are “dysfunctional.”- Kate Wilkinson. From the 48 countries that participated in TIMSS, South-Africa came 47th for Mathematics and 48th for Science. Research conducted on Grade 9 learners in RSA showed similar results to the primary school data. Grade 6 learners in the poorest of 75% of schools performed significantly worse in literacy and numeracy than Grade 6 learners in the wealthiest 25% of schools. The trend is similar for Grade 9 learners, where learners in the poorest 80% of schools achieved substantially lower results in Maths and Science compared to learners in the wealthiest 20% of schools. <br /><br />
-                                        International Reading Literacy Study (Pirls) conducted during 2016 reported that 8 out of 10 children in Grade 4 cannot read for meaning. South-Africa scored last in reading out of 50 schools assessed. This failure could seriously hamper the learners’ performance when they get to Grade 12.  During 2017 9 of South-African schools recorded a shocking 0% Grade 12 pass rate. <br /><br />
+                                        South Africa is an education system often described as being in ‘crisis’. Results from international, standardised tests show that between 75% - 80% of South African schools are not able to effectively impact the necessary skills to learners. <br /><br />
+                                        A recent claim suggests 80% of South African schools are “dysfunctional.”- Kate Wilkinson. From the 48 countries that participated in TIMSS, South Africa came 47th for Mathematics and 48th for Science. Research conducted on Grade 9 learners in RSA showed similar results to the primary school data. Grade 6 learners in the poorest of 75% of schools performed significantly worse in literacy and numeracy than Grade 6 learners in the wealthiest 25% of schools. The trend is similar for Grade 9 learners, where learners in the poorest 80% of schools achieved substantially lower results in Maths and Science compared to learners in the wealthiest 20% of schools. <br /><br />
+                                        International Reading Literacy Study (Pirls) conducted during 2016 reported that 8 out of 10 children in Grade 4 cannot read for meaning. South-Africa scored last in reading out of 50 schools assessed. This failure could seriously hamper the learners’ performance when they get to Grade 12.  During 2017 nine of South African schools recorded a shocking 0% Grade 12 pass rate. <br /><br />
                                         Furthermore, RSA schools have 5,159 teachers who are unqualified or under-qualified. <br />
 
                                         </p>
@@ -100,7 +100,7 @@
                                         Brainwave strives to make a difference in our education system, especially in our ‘poorest’ areas. <br /><br />
                                         Education is our passion, and we agree with Nelson Mandela’s quote that indeed education  is the most powerful weapon one can use to change the world. Brainwave will always fight for the right of each child to be educated and to treat others with respect, dignity and love. <br /><br />
 
-                                        Education is all a matter of building bridges – bridges between the actual educational level of a school and the goal you intend to reach. We have started to build bridges in 2014 and we are proud to say that some of our bridges are nearly completed. In some of our sponsored schools we are still battling to complete the bridges. We are, however, positive that we will be able to build strong bridges that will resist all storms in the future. At times you just must stop building the bridge and re-evaluate what you are currently doing and draw up new plans to complete it. <br /><br />
+                                        Education is all a matter of building bridges – bridges between the actual educational level of a school and the goal you intend to reach. We have started to build bridges in 2014, and we are proud to say that some of our bridges are nearly completed. In some of our sponsored schools, we are still battling to complete the bridges. We are, however, positive that we will be able to build strong bridges that will resist all storms in the future. At times you must stop building the bridge and re-evaluate what you are currently doing. And then draw up new plans to complete it. <br /><br />
                                         We have taken a long-term view of what we are trying to achieve, and we therefore have decided to address our unique challenges and obstacles at each school to ensure we are building the right kind of bridge. <br /><br />
                                         Brainwave believe that educating the mind without educating the heart is no education at all. We will always strive to deliver the best quality work we can, never to give up, to conquer our challenges and make sure all our learners have wings to fly like birds. <br /><br />
 
@@ -111,19 +111,6 @@
                                     </ul>
                                     
 
-								<!-- Post Author Info
-						============================================= -->
-						<div class="panel panel-default">
-							<div class="panel-heading">
-								<h3 class="panel-title">Quote by <span><a>Nelson Mandela</a></span></h3>
-							</div>
-							<div class="panel-body" style="font-size:18px">
-								<div class="author-image">
-									<img src="images/Brainwave/nelson.jpg" alt="" class="img-circle">
-								</div>
-								Education is the most powerful weapon which you can use to change the world.
-							</div>
-						</div><!-- Post Single - Author End -->
 
 							</div><!-- .entry end -->
 
@@ -135,60 +122,9 @@
 
 							
 
-							<h4>Related Articles:</h4>
+							
 
-							<div class="related-posts clearfix">
-
-								<div class="col_half nobottommargin">
-
-									<div class="mpost clearfix">
-										<div class="entry-image">
-											<a href="ECD.aspx"><img src="images/Brainwave/newa.jpg" alt="Blog Single"></a>
-										</div>
-										<div class="entry-c">
-											<div class="entry-title">
-												<h4><a href="ECD.aspx">Early Childhood Development</a></h4>
-											</div>
-											
-											<div class="entry-content">View our NQF4, NQF5 and Ready Steady Learn programmes.</div>
-										</div>
-									</div>
-
-									<div class="mpost clearfix">
-										<div class="entry-image">
-											<a href="Highschool.aspx"><img src="images/Brainwave/Hihjschool.jpg" alt="Blog Single"></a>
-										</div>
-										<div class="entry-c">
-											<div class="entry-title">
-												<h4><a href="Highschool.aspx">High School</a></h4>
-											</div>
-											
-											<div class="entry-content">Career Guidance, Subject choices and life skills.</div>
-										</div>
-									</div>
-
-								</div>
-
-								<div class="col_half nobottommargin col_last">
-
-									<div class="mpost clearfix">
-										<div class="entry-image">
-											<a href="Product.aspx"><img src="images/Brainwave/gui.jpeg" alt="Blog Single"></a>
-										</div>
-										<div class="entry-c">
-											<div class="entry-title">
-												<h4><a href="Product.aspx">Products</a></h4>
-											</div>
-											
-											<div class="entry-content">View our wide rage of educational products.</div>
-										</div>
-									</div>
-
-									
-
-								</div>
-
-							</div>
+							
 
 							
 

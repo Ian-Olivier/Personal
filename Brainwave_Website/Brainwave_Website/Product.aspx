@@ -324,7 +324,7 @@
 						</div>
 
                         <div class="center">
-            <h1>African Wisdom work shop</h1>
+            <h1>African Wisdom</h1>
                 </div>
 
 						<div class="product clearfix">
@@ -335,7 +335,7 @@
 							<div class="product-desc">
 								<div class="product-title"><h3><a href="#">African Wisdom</a></h3></div>
 
-								<p>A motivational workshop focusing on animals of the African plain and what life lessons they can teach us. Topics include; staying on top of your game, positive self-image, attitude, commitment, inner strength, reaching for the stars, reputation, adaption, patience, perseverance, learning from your mistakes, support systems, listening skills, anger management, problem solving, judgement, teamwork, 'the grass is not always greener on the other side', finding balance in life, 'salt-of-the-earth' people, hunters vs scavengers, the aroma of life as well as old folk stories for excellent living.</p>
+								<p>A motivational workshop focusing on animals of the African plain and the life lessons they can teach us. Topics include: staying on top of your game, positive self-image, attitude, commitment, inner strength, reaching for the stars, reputation, adaptation, patience, perseverance, learning from your mistakes, support systems, listening skills, anger management, problem solving, judgement, teamwork, 'the grass is not always greener on the other side', finding balance in life, 'salt-of-the-earth' people, hunters vs scavengers, the aroma of life, as well as old folk stories for excellent living.</p>
 								<div class="quantity clearfix">
 										
 										<input type="number" min="0" id="p6af" runat="server" name="quantity" value="0" title="Qty" maxlength="20" class="qty" size="20" />

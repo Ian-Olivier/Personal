@@ -81,8 +81,8 @@
 										<a data-lightbox="image" href="images/Brainwave/hs3.png"><img src="images/Brainwave/hs3.png" alt="Blog Single"></a>
 									</div><!-- .entry-image end -->
 
-                                    <p style="font-size:18px">Choosing a career is one of the most important decisions a person will ever make and yet within the education system there is about no vocational support for learners choosing their final subjects and or careers. This weakness in the educational system results in high unnecessary costs for countries and businesses, as well as social discontent and hardship. The drop-out rate for the first year tertiary students stands on 35% of which the lack of self- and career knowledge seems to be the underlining reason. This leads to low morale, disinterest and de-motivation, translating into poor performances and bad service levels.
-                                    With this in mind the Discover Your Career(DYC) workbook was designed to respond directly to these concerns. The workbook is a rich source of knowledge and decision making skills. In terms of knowledge, learners engage in a series of activities through which they discover their interests, their thinking style and their personality type. They then align this self knowledge to careers that are suitable for their unique self. In this way, learners are guided towards choosing subjects that support their future career choices. This sense of future tends to increase learners’ sense of motivation and purpose and encourages them to engage with their schooling on a more serious level.
+                                    <p style="font-size:18px">Choosing a career is one of the most important decisions a person will ever make, and yet within the education system, there is no vocational support for learners choosing their final subjects and/or careers. This weakness in the educational system results in high unnecessary costs for countries and businesses, as well as social discontent and hardship. The drop-out rate for the first year tertiary students stands at 35% of which the lack of self- and career knowledge seems to be the underlying reason. This leads to low morale, disinterest and de-motivation, translating into poor performances and bad service levels.
+                                    With this in mind, the Discover Your Career(DYC) workbook was designed to respond directly to these concerns. The workbook is a rich source of knowledge and decision-making skills. In terms of knowledge, learners engage in a series of activities through which they discover their interests, their thinking style and their personality type. They then align this self-knowledge to careers that are suitable for their unique self. In this way, learners are guided towards choosing subjects that support their future career choices. This sense of future tends to increase learners’ sense of motivation and purpose and encourages them to engage with their schooling on a more serious level.
                                         </p>
 								
                                    
@@ -90,21 +90,21 @@
 									
 									
 
-                                    <h4>Career Guidance Program</h4>
+                                    <h4>Career Guidance Programme</h4>
                                     <ul style="font-size:18px">
                                         <li>No more expensive, long, boring Psychometric Evaluations!</li>
-                                        <li>We offer a fun, interactive and cost effective tool to Discover Your Career!</li>
+                                        <li>We offer a fun, interactive and cost-effective tool to Discover Your Career!</li>
                                         <li>Brainwave’s skilled trainers facilitate learners through the Discover Your Career programme. Through this programme  the learner will discover the world of work, their interests, thinking styles and personality. They will be guided to the most suitable Career Area for their personal profile.</li>
                                     </ul>
 									
                                     <h4>Benefits of the Program</h4>
                                     <ul style="font-size:18px">
-                                        <li>It is cost effective. The career programme cost much less than conventional standardised testing.</li>
-                                        <li>It does not have to be administered and evaluated by a psychologist or Psychomotrist. It can be administered and evaluated by an educator/facilitator.</li>
+                                        <li>It is cost effective. The career programme costs much less than conventional standardised testing.</li>
+                                        <li>It does not have to be administered and evaluated by a psychologist or Psychometrist. It can be administered and evaluated by an educator/facilitator.</li>
                                         <li>On completion of the programme, each learner keeps the programme material and receives a report summarising his/her unique personal profile and recommended subjects and career fields.</li>
-                                        <li>The programme compliments the Life Orientation syllabus and can be used as an additional resource in the classroom.</li>
+                                        <li>The programme complements the Life Orientation syllabus and can be used as an additional resource in the classroom.</li>
                                         <li>The activities form part of the learner’s assessment portfolio.</li>
-                                        <li>The programme empower learners and help them to set realistic and appropriate goals in terms of career and subject choices.</li>
+                                        <li>The programme empowers learners and help them to set realistic and appropriate goals in terms of career and subject choices.</li>
                                         <li>The material is user-friendly, colourful and interactive.</li>
                                     </ul>
 									<h4>Value of data</h4>
@@ -135,20 +135,7 @@
                                 <div class="center">
                                     <a href="Onlinecareer.aspx" class="add-to-cart button nomargin"><i class="icon-arrow-right"></i> Discover Your Career Online</a>
                                     </div><br />
-								<!-- Post Author Info
-						============================================= -->
-						<div class="panel panel-default">
-							<div class="panel-heading">
-								<h3 class="panel-title">Quote by <span><a>Nelson Mandela</a></span></h3>
-							</div>
-							<div class="panel-body" style="font-size:18px">
-								<div class="author-image">
-									<img src="images/Brainwave/nelson.jpg" alt="" class="img-circle">
-								</div>
-								Education is the most powerful weapon which you can use to change the world.
-							</div>
-						</div><!-- Post Single - Author End -->
-
+								
 							</div><!-- .entry end -->
 
 							
@@ -159,60 +146,7 @@
 
 							
 
-							<h4>Related Articles:</h4>
-
-							<div class="related-posts clearfix">
-
-								<div class="col_half nobottommargin">
-
-									<div class="mpost clearfix">
-										<div class="entry-image">
-											<a href="ECD.aspx"><img src="images/Brainwave/newa.jpg" alt="Blog Single"></a>
-										</div>
-										<div class="entry-c">
-											<div class="entry-title">
-												<h4><a href="ECD.aspx">Early Childhood Development</a></h4>
-											</div>
-											
-											<div class="entry-content">View our NQF4, NQF5 and Ready Steady Learn programmes.</div>
-										</div>
-									</div>
-
-									<div class="mpost clearfix">
-										<div class="entry-image">
-											<a href="Primaryschool.aspx"><img src="images/Brainwave/education.jpg" alt="Blog Single"></a>
-										</div>
-										<div class="entry-c">
-											<div class="entry-title">
-												<h4><a href="Primaryschool.aspx">Primary school</a></h4>
-											</div>
-											
-											<div class="entry-content">English and Maths learner and teacher empowerment.</div>
-										</div>
-									</div>
-
-								</div>
-
-								<div class="col_half nobottommargin col_last">
-
-									<div class="mpost clearfix">
-										<div class="entry-image">
-											<a href="Product.aspx"><img src="images/Brainwave/gui.jpeg" alt="Blog Single"></a>
-										</div>
-										<div class="entry-c">
-											<div class="entry-title">
-												<h4><a href="Product.aspx">Products</a></h4>
-											</div>
-											
-											<div class="entry-content">View our wide rage of educational products.</div>
-										</div>
-									</div>
-
-									
-
-								</div>
-
-							</div>
+						
 
 							
 

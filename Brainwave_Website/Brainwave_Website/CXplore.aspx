@@ -31,11 +31,11 @@
 		<section id="page-title" class="page-title-parallax page-title-dark" style="padding: 250px 0; background-image: url('images/Brainwave/xpic2.png'); background-size: cover; background-position: center center;" data-stellar-background-ratio="0.4">
 
 			<div class="container clearfix">
-				<h1 style="color:#660033">Career Xplora</h1>
+				<h1 style="color:#660033">CareerXplora</h1>
 				<span>Everything you need to know about our mobile App</span>
 				<ol class="breadcrumb">
 					<li><a href="Home.aspx">Home</a></li>					
-					<li class="active">Career Xplora</li>
+					<li class="active">CareerXplora</li>
 				</ol>
 			</div>
 
@@ -65,7 +65,7 @@
 								<!-- Entry Title
 								============================================= -->
 								<div class="entry-title">
-									<h2>About Career Xplora</h2>
+									<h2>About CareerXplora</h2>
 								</div><!-- .entry-title end -->
 
 								

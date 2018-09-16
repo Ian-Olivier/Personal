@@ -31,7 +31,7 @@
 		<section id="page-title" class="page-title-parallax page-title-dark" style="padding: 250px 0; background-image: url('images/Brainwave/CD2.png'); background-size: cover; background-position: center center;" data-stellar-background-ratio="0.4">
 
 			<div class="container clearfix">
-				<h1>Career Guidance</h1>
+				<h1>Career Info</h1>
 				<span>Everything you need to know about the nine career areas</span>
 				<ol class="breadcrumb">
 					<li><a href="Home.aspx">Home</a></li>					
@@ -57,12 +57,12 @@
 
                         <div class="entry clearfix">
                             <blockquote>
-									<p>"For more information on certain career fields or further advice etc. feel free to chat to us live on our Career Xplora App. "</p>
+									<p>"For more information on certain career fields or further advice etc. feel free to chat to us live on our CareerXplora App. "</p>
 									
 								</blockquote>
 							<div class="entry-image">
 								<a href="CXplore.aspx" class="entry-link">
-									Find our More about Career Xplora
+									Find out More about CareerXplora
 									
 								</a>
 							</div>
@@ -76,7 +76,7 @@
 								</blockquote>
 							<div class="entry-image">
 								<a href="Onlinecareer.aspx" class="entry-link">
-									Discover you career online
+									Discover your career online
 									
 								</a>
 							</div>
@@ -113,6 +113,21 @@
 							</div>
 						</div>
 
+                        <div class="entry clearfix">
+							<div class="entry-image">
+								<a href="images/Brainwave/fins.png" data-lightbox="image"><img class="image_fade" src="images/Brainwave/fins.png" alt="Standard Post with Image"></a>
+							</div>
+							<div class="entry-title">
+								<h2><a href="Area4.aspx">Area 4: BUSINESS, FINANCE AND MANAGEMENT</a></h2>
+							</div>
+							
+							<div class="entry-content">
+                                <h4>Subject advice</h4>
+								<p style="font-size:18px">For Business, Finance and Management, Maths or Maths Literacy is compulsory. Complementary subjects such as Business Studies, Economics, Accounting, Computer Application Technology (CAT) or Information Technology are recommended for this area. </p>
+								<a href="Area4.aspx"class="more-link">Read More</a>
+							</div>
+						</div>
+
 						<div class="entry clearfix">
 							<div class="entry-image">
 								<a href="images/Brainwave/pc1.png" data-lightbox="image"><img class="image_fade" src="images/Brainwave/pc1.png" alt="Standard Post with Image"></a>
@@ -129,21 +144,21 @@
 						</div>
 
 						
-
-						   <div class="entry clearfix">
+                        <div class="entry clearfix">
 							<div class="entry-image">
-								<a href="images/Brainwave/fins.png" data-lightbox="image"><img class="image_fade" src="images/Brainwave/fins.png" alt="Standard Post with Image"></a>
+								<a href="images/Brainwave/t1.png" data-lightbox="image"><img class="image_fade" src="images/Brainwave/t1.png" alt="Standard Post with Image"></a>
 							</div>
 							<div class="entry-title">
-								<h2><a href="Area4.aspx">Area 4: BUSINESS, FINANCE AND MANAGEMENT</a></h2>
+								<h2><a href="Area6.aspx">Area 6: HUMAN, SOCIAL AND EDUCATION</a></h2>
 							</div>
 							
 							<div class="entry-content">
                                 <h4>Subject advice</h4>
-								<p style="font-size:18px">For Business, Finance and Management, Maths or Maths Literacy is compulsory. Complementary subjects such as Business Studies, Economics, Accounting, Computer Application Technology (CAT) or Information Technology are recommended for this area. </p>
-								<a href="Area4.aspx"class="more-link">Read More</a>
+								<p style="font-size:18px">Afrikaans and English, Maths or Maths Literacy are compulsory. Complementing subjects such as Languages, Life Sciences, Tourism, Computer Application Technology (CAT), History, Business Studies, Biblical Studies and Geography are recommended for this area.  </p>
+								<a href="Area6.aspx"class="more-link">Read More</a>
 							</div>
 						</div>
+						   
 
 
 						<div class="entry clearfix">
@@ -161,20 +176,7 @@
 							</div>
 						</div>
 
-						<div class="entry clearfix">
-							<div class="entry-image">
-								<a href="images/Brainwave/t1.png" data-lightbox="image"><img class="image_fade" src="images/Brainwave/t1.png" alt="Standard Post with Image"></a>
-							</div>
-							<div class="entry-title">
-								<h2><a href="Area6.aspx">Area 6: HUMAN, SOCIAL AND EDUCATION</a></h2>
-							</div>
-							
-							<div class="entry-content">
-                                <h4>Subject advice</h4>
-								<p style="font-size:18px">Afrikaans and English, Maths or Maths Literacy are compulsory. Complementing subjects such as Languages, Life Sciences, Tourism, Computer Application Technology (CAT), History, Business Studies, Biblical Studies and Geography are recommended for this area.  </p>
-								<a href="Area6.aspx"class="more-link">Read More</a>
-							</div>
-						</div>
+						
 
 						<div class="entry clearfix">
 							<div class="entry-image">

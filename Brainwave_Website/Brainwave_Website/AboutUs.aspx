@@ -52,7 +52,7 @@
 							<div class="heading-block topmargin">
 								<h1>What we do</h1>
 							</div>
-							<p class="lead">Brainwave Careers is dedicated to being one of the leading educational companies in RSA. It is our belief that every individual has unique potential, value and purpose on earth. We, therefore advise, educate and motivate through remedial programmes, training, workshops, courses and psychometric evaluations. Through the provision of quality lifelong educational services’, we advise, educate and motivate teachers and learners to reach their full potential and find their rightful place in the world of work. We aim to build educational bridges across all South African cultures and leave a legacy behind that will make a positive difference in the educational sector of South Africa.</p>
+							<p class="lead">Brainwave Careers is dedicated to being one of the leading educational companies in RSA. We believe that every individual has unique potential, value and purpose on earth. We, therefore, advise, educate and motivate both teachers and learners through remedial programmes, training, workshops and courses as well as psychometric evaluations and lifelong educational services. These services assist them in reaching their full potential and rightful place in the world of work. We aim to build educational bridges across all South African cultures and leave a legacy that will make a positive difference in the educational sector of South Africa.</p>
 						</div>
 
 						<div class="col-lg-7">
@@ -113,22 +113,22 @@
                         
                             <h5>Early childhood development</h5>
                                 <ul class="lead">
-                                    <li>Ready, Steady, Learn.</li>
-                                    <li>NQF 4 ECD accreditation.</li>
-                                    <li>School Readiness evaluations.</li>
-                                    <li>Grade R CAPS based material development.</li>
+                                    <li>Ready, Steady, Learn</li>
+                                    <li>NQF4 ECD accreditation</li>
+                                    <li>School Readiness evaluations</li>
+                                    <li>Grade R CAPS based material development</li>
                                 </ul>
                            
                             <h5>Primary school</h5>
                                 <ul class="lead">
-                                    <li>Tailored English and Mathematics programmes.</li>
+                                    <li>Tailored English and Mathematics programmes</li>
                                 </ul>
                             
                             <h5>High school</h5>
                                 <ul class="lead">
-                                    <li>Free mobile career guidance.</li>
-                                    <li>Psychometric career guidance evaluations.</li>
-                                    <li>Career development based products.</li>
+                                    <li>Free mobile career guidance</li>
+                                    <li>Psychometric career guidance evaluations</li>
+                                    <li>Career development based products</li>
                                 </ul>
                             
                            
@@ -147,14 +147,14 @@
                         
                          <h5>Dr Lanette Hattingh</h5>
                         <ul class="lead">
-                            <li>Rocci business woman of the year - 2010 & 2011</li>
-                            <li>Rocci entrepreneurial awareness - 2012</li>
-                            <li>Lady Rocci community service champion - 2012-2016</li>
-                            <li>Life time achievement award in community service - 2017</li>
+                            <li>Rocci Businesswoman of the Year - 2010 & 2011</li>
+                            <li>Rocci Entrepreneurial Awareness – 2012</li>
+                            <li>Lady Rocci Community Service Champion - 2012-2016</li>
+                            <li>Lifetime Achievement Award in Community Service – 2017</li>
                         </ul>
                         <h5>Brainwave Careers</h5>
                         <ul class="lead">
-                            <li>Rocci business of the Year (Education) - 2010-2017</li>
+                            <li>Rocci Business of the Year (Education) - 2010-2017</li>
                             <li>Rocci community support organization - 2010-2015</li>
                         </ul>
 					</div>

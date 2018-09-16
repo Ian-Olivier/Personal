@@ -80,42 +80,25 @@
 										<a data-lightbox="image" href="images/Brainwave/EDC3.png"><img src="images/Brainwave/EDC3.png" alt="Blog Single"></a>
 									</div><!-- .entry-image end -->
 
-                                    <p style="font-size:18px">The value of Early Childhood Development (ECD) and getting a learner school ready cannot be underestimated and the more input at this level the better the future performance of each learner. Evidence tells us that a person’s life successes, health and emotional wellbeing have their roots in early childhood. If you get it right in early years, you can expect to see children thrive throughout school and their adult lives. 
-                                        That is why understanding the need to invest in very young children is so important, to maximize their future well-being.
-                                        At Brainwave, we therefore, are passionate to support teachers, caregivers and parents in applying the principals of school readiness that includes all developmental stages of a child. <br /><br />
+                                    <p style="font-size:18px">The value of Early Childhood Development (ECD) and getting a learner school ready cannot be underestimated and the more input at this level, the better the future performance of each learner. Evidence tells us that a person’s life successes, health and emotional wellbeing have their roots in early childhood. If you get it right in the early years, you can expect to see children thrive throughout school and their adult lives.                     
+                                        At Brainwave, we are passionate about supporting teachers, caregivers and parents in applying the principals of school readiness that includes all developmental stages of a child.  That is why understanding the need to invest in very young children is so important, to maximize their future well-being. <br /><br />
                                         At Brainwave we offer the following sponsored ECD programmes:
                                         </p>
 									<ul style="font-size:18px">
                                         <li>Ready Steady Learn</li>
-                                        <li>NQF 4 Seta accredited  </li>
-                                        <li>NQF 5 awaiting final accreditation </li>
+                                        <li>NQF4 Seta accredited  </li>
+                                        <li>NQF5 awaiting final accreditation </li>
 									</ul>
-<pre style="font:inherit">
-<b>NQF background info</b><br />
-<b>Why do we need the NQF?</b>
-To succeed or even survive in a globally competitive world, a country must ensure that it:
-
-&bull; Has a national education and training system that provides quality learning
-&bull; It changes as the world changes
-&bull; Promotes to life-long learning
-
-
-<b>What are NQF levels?</b>
-The NQF is made up of 10 levels divided into three bands:
-
-&bull; General Education and Training (GET)
-&bull; Further Education and Training (FET) 
-&bull; Higher Education and Training (HET)
-</pre>                                    
+                                  
 
 									
 									<!-- Post Single - Content End -->
 
-                                    <h4>Ready Steady Learn program – holistic development is the key to school readiness.</h4>
-                                    <p style="font-size:18px">The RSL workshop focusses on the social, emotional, physical and motor development of a child as well as learning and listening skills, and seeing, eye movements and visual processing. It is a practical course with demonstrations and lessons to ensure the teacher understand how to assist and help the children develop and reach their full potential. </p>
+                                    <h4>Ready Steady Learn programme – holistic development is the key to school readiness.</h4>
+                                    <p style="font-size:18px">The RSL workshop focusses on the social, emotional, physical and motor development of a child as well as learning and listening skills, and seeing, eye movements and visual processing. It is a practical course with demonstrations and lessons to ensure the teacher understands how to assist and help the children develop and reach their full potential. </p>
 									
-                                    <h4>NQF 4 and NQF 5 EDTP Seta accredited programs</h4>
-                                    <p style="font-size:18px">We offer this sponsored program over 12 to 18 months. The delegates support a minimum of four days per month to ensure they have a good understanding of each module and that the POE files are on standard. </p>
+                                    <h4>NQF4 and NQF5 EDTP Seta accredited programs</h4>
+                                    <p style="font-size:18px">We offer this sponsored programme over 12 to 18 months. The delegates receive support for a minimum of four days per month to ensure they have a good understanding of each module and that the POE files are up to standard. </p>
 									
 
 									
@@ -131,60 +114,8 @@ The NQF is made up of 10 levels divided into three bands:
 
 							
 
-							<h4>Related Articles:</h4>
-
-							<div class="related-posts clearfix">
-
-								<div class="col_half nobottommargin">
-
-									<div class="mpost clearfix">
-										<div class="entry-image">
-											<a href="Highschool.aspx"><img src="images/Brainwave/Hihjschool.jpg" alt="Blog Single"></a>
-										</div>
-										<div class="entry-c">
-											<div class="entry-title">
-												<h4><a href="Highschool.aspx">High School</a></h4>
-											</div>
-											
-											<div class="entry-content">Career Guidance, Subject choices and life skills.</div>
-										</div>
-									</div>
-
-									<div class="mpost clearfix">
-										<div class="entry-image">
-											<a href="Primaryschool.aspx"><img src="images/Brainwave/education.jpg" alt="Blog Single"></a>
-										</div>
-										<div class="entry-c">
-											<div class="entry-title">
-												<h4><a href="Primaryschool.aspx">Primary school</a></h4>
-											</div>
-											
-											<div class="entry-content">English and Maths learner and teacher empowerment.</div>
-										</div>
-									</div>
-
-								</div>
-
-								<div class="col_half nobottommargin col_last">
-
-									<div class="mpost clearfix">
-										<div class="entry-image">
-											<a href="Product.aspx"><img src="images/Brainwave/gui.jpeg" alt="Blog Single"></a>
-										</div>
-										<div class="entry-c">
-											<div class="entry-title">
-												<h4><a href="Product.aspx">Products</a></h4>
-											</div>
-											
-											<div class="entry-content">View our wide rage of educational products.</div>
-										</div>
-									</div>
-
-									
-
-								</div>
-
-							</div>
+							
+							
 
 							
 
@@ -226,7 +157,7 @@ The NQF is made up of 10 levels divided into three bands:
 							
                             <div class="widget clearfix">
 
-								<h4>NQF 4 modules</h4>
+								<h4>NQF4 modules</h4>
 								<div id="oc-portfolio-sidebar2" class="owl-carousel carousel-widget" data-items="1" data-margin="10" data-loop="true" data-nav="false" data-autoplay="5000">
 
 									<div class="oc-item">
@@ -322,7 +253,7 @@ The NQF is made up of 10 levels divided into three bands:
 
 							<div class="widget clearfix">
 
-								<h4>NQF 5 modules</h4>
+								<h4>NQF5 modules</h4>
 								<div id="oc-portfolio-sidebar" class="owl-carousel carousel-widget" data-items="1" data-margin="10" data-loop="true" data-nav="false" data-autoplay="5000">
 
 									<div class="oc-item">

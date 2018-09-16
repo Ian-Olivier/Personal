@@ -52,7 +52,7 @@
 
         <div class="col_full clearfix">
 
-						<h3>4 Columns</h3>
+						
 
 						<div class="masonry-thumbs col-4" data-big="4" data-lightbox="gallery">
 							<a href="images/Brainwave/gallery/1.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/Brainwave/gallery/1.jpg" alt=""></a>
