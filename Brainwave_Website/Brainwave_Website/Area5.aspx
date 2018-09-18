@@ -77,10 +77,10 @@
                                 <p style="font-size:18px">For B Sc degrees, English, Afrikaans and Maths are compulsory with either Physical Sciences or Life Sciences. Geography is highly recommended in B Sc degrees where Geography is a major subject. For B Com degrees, Agricultural Sciences, Maths and English are compulsory.</p>
 
                                 <h4>University of Technology</h4>
-                                <p style="font-size:18px">Maths or Maths Literacy is compulsory and for some National Diplomas either Physical Sciences or Life Sciences is compulsory.</p>
+                                <p style="font-size:18px">Maths or Maths Literacy is compulsory, and for some National Diplomas, either Physical Sciences or Life Sciences is compulsory.</p>
 
                                 <h4>TVET Colleges</h4>
-                                <p style="font-size:18px">A Grade 9 pass and be 16 years old. </p>
+                                <p style="font-size:18px">A Grade 9 pass, and be 16 years old. </p>
 
                                 <h4>Private Institutions</h4>
                                 <p style="font-size:18px">Admission requirements differ from institution to institution.</p>

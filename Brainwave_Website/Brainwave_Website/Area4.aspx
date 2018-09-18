@@ -71,10 +71,10 @@
 							<div class="entry-content notopmargin">
 
                                 <h4>Subject advice</h4>
-								<p style="font-size:18px">For Business, Finance and Management, Maths or Maths Literacy is compulsory. Complementary subjects such as Business Studies, Economics, Accounting, Computer Application Technology (CAT) or Information Technology are recommended for this area. </p>
+								<p style="font-size:18px">For Business, Finance and Management, Maths or Maths Literacy are compulsory. Complementary subjects such as Business Studies, Economics, Accounting, Computer Application Technology (CAT) or Information Technology are recommended for this area. </p>
 
                                 <h4>University Courses</h4>
-								<p style="font-size:18px">English or Afrikaans and Maths are compulsory for all BCom degrees and Accounting is compulsory for some of the BCom courses. </p>
+								<p style="font-size:18px">English or Afrikaans and Maths are compulsory for all BCom degrees, and Accounting is compulsory for some of the BCom courses. </p>
 
                                 <h4>University of Technology</h4>
 								<p style="font-size:18px">English or Afrikaans with Maths or Maths Literacy is compulsory. </p>
@@ -121,7 +121,7 @@
 								<div class="author-image">
 									<img src="images/Brainwave/alm.jpg" alt="" class="img-circle">
 								</div>
-								The price of every thing rises and falls from time to time and place to place; and with every such change the purchasing power of money changes so far as that thing goes.
+								The price of everything rises and falls from time to time and place to place; and with every such change the purchasing power of money changes so far as that thing goes.
 							</div>
 						</div><!-- Post Single - Author End -->
 

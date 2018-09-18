@@ -74,7 +74,7 @@
 								<p style="font-size:18px">Maths, Physical Sciences, Life Sciences with complementary subjects such as Business Studies and Accounting are recommended for this career area.</p>
 
                                 <h4>University Courses</h4>
-								<p style="font-size:18px">Maths, Physical Sciences or Life Sciences are compulsory for Medicine, Optometry, Dentistry, Pharmacology, Biological Sciences and Research and Medical Support. Some universities will accept Maths Literacy (5) for Occupational Therapy. Maths or Maths Literacy is compulsory and Life Sciences or Physical Sciences are highly recommended for Psychology, Social Work and Counselling and Medical Health Support. </p>
+								<p style="font-size:18px">Maths, Physical Sciences or Life Sciences are compulsory for Medicine, Optometry, Dentistry, Pharmacology, Biological Sciences and Research, and Medical Support. Some universities will accept Maths Literacy (5) for Occupational Therapy. Maths or Maths Literacy is compulsory, and Life Sciences or Physical Sciences are highly recommended for Psychology, Social Work and Counselling and Medical Health Support. </p>
 
                                 <h4>University of Technology</h4>
 								<p style="font-size:18px">Maths or Maths Literacy, Physical Sciences or Life Sciences are compulsory for most of the courses.

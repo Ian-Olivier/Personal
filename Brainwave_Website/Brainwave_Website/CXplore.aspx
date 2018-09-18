@@ -82,7 +82,7 @@
 
                                     <p style="font-size:18px">
                                         Brainwave Careers in proud partnership with Investec:<br />
-                                        Empowering learners to reach their full potential in helping them discover who they are and where they best fit in life and the ‘world of work’. This innovative careers mobile helpline is designed to enable real time chats to learners about all subject selection, career guidance and tertiary world information
+                                        Empowering learners to reach their full potential in helping them discover who they are and where they best fit in, in life and the ‘world of work’. This innovative careers mobile helpline is designed to enable real-time chats to learners about all subject selection, career guidance and tertiary world information
 
                                         </p>
 								
@@ -102,7 +102,7 @@
                                     </ul>
 									
                                     <p style="font-size:18px">You can get answers to all these questions and more, as well as a better understanding of the world of work and where you fit into it by completing the career quiz on your cell phone! This is the first step in the right direction!
-                                      Career Xplora also offer a life chat service, please chat to our facilitators regarding any career related questions you may have. 
+                                      CareerXplora also offers a live chat service. Please chat to our facilitators regarding any career-related questions you may have. 
                                     </p>
 
                                 <div class="center">
@@ -120,9 +120,7 @@
                         <div class="oc-item">
 							<a data-lightbox="image" href="images/Brainwave/app/2.jpg"><img src="images/Brainwave/app/2.jpg" alt="Image 2"></a>
 						</div>
-                        <div class="oc-item">
-							<a data-lightbox="image" href="images/Brainwave/app/3.jpg"><img src="images/Brainwave/app/3.jpg" alt="Image 3"></a>
-						</div>
+                       
                         <div class="oc-item">
 							<a data-lightbox="image" href="images/Brainwave/app/4.jpg"><img src="images/Brainwave/app/4.jpg" alt="Image 4"></a>
 						</div>
@@ -133,73 +131,10 @@
 						
 
 					</div>
-                <div class="line"></div>
 
-							<h4>Related Articles:</h4>
+              
 
-							<div class="related-posts clearfix">
-
-								<div class="col_half nobottommargin">
-
-									<div class="mpost clearfix">
-										<div class="entry-image">
-											<a href="ECD.aspx"><img src="images/Brainwave/newa.jpg" alt="Blog Single"></a>
-										</div>
-										<div class="entry-c">
-											<div class="entry-title">
-												<h4><a href="ECD.aspx">Early Childhood Development</a></h4>
-											</div>
-											
-											<div class="entry-content">View our NQF4, NQF5 and Ready Steady Learn programmes.</div>
-										</div>
-									</div>
-
-									<div class="mpost clearfix">
-										<div class="entry-image">
-											<a href="Primaryschool.aspx"><img src="images/Brainwave/education.jpg" alt="Blog Single"></a>
-										</div>
-										<div class="entry-c">
-											<div class="entry-title">
-												<h4><a href="Primaryschool.aspx">Primary school</a></h4>
-											</div>
-											
-											<div class="entry-content">English and Maths learner and teacher empowerment.</div>
-										</div>
-									</div>
-
-								</div>
-
-								<div class="col_half nobottommargin col_last">
-
-									<div class="mpost clearfix">
-										<div class="entry-image">
-											<a href="Product.aspx"><img src="images/Brainwave/gui.jpeg" alt="Blog Single"></a>
-										</div>
-										<div class="entry-c">
-											<div class="entry-title">
-												<h4><a href="Product.aspx">Products</a></h4>
-											</div>
-											
-											<div class="entry-content">View our wide rage of educational products.</div>
-										</div>
-									</div>
-
-									<div class="mpost clearfix">
-										<div class="entry-image">
-											<a href="Highschool.aspx"><img src="images/Brainwave/Hihjschool.jpg" alt="Blog Single"></a>
-										</div>
-										<div class="entry-c">
-											<div class="entry-title">
-												<h4><a href="Highschool.aspx">High School</a></h4>
-											</div>
-											
-											<div class="entry-content">Career Guidance, Subject choices and life skills.</div>
-										</div>
-									</div>
-
-								</div>
-
-							</div>
+							
 
 							</div>
 

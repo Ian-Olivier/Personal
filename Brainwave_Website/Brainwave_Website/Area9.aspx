@@ -77,7 +77,7 @@
                                 <p style="font-size:18px">For B Com degrees, you need English and one additional language as well as Maths. For BA degrees, you need the two languages and Maths or Maths Literacy. </p>
 
                                 <h4>University of Technology</h4>
-                                <p style="font-size:18px">For a National Diploma in Journalism or Languages you need Afrikaans or English with another National Senior Certificate language, and Maths or Maths Literacy. </p>
+                                <p style="font-size:18px">For a National Diploma in Journalism or Languages, you need Afrikaans or English with another National Senior Certificate language, and Maths or Maths Literacy. </p>
 
                                 
 

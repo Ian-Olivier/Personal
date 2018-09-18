@@ -32,7 +32,7 @@
 
 			<div class="container clearfix">
 				<h1 style="color:#660033">Motivational Workshops</h1>
-				<span>Life Skills, Teambuilding and Anger Management.</span>
+				<span>Life Skills and Anger Management.</span>
 				<ol class="breadcrumb">
 					<li><a href="Home.aspx">Home</a></li>					
 					<li class="active">Motivational Workshops</li>
@@ -102,30 +102,16 @@
                                     <ul style="font-size:18px">
                                         <li>Anger is one of the most common and destructive delusions, and it distresses our minds almost every day. For every minute you are angry, you lose sixty seconds of happiness! </li>
                                         <li>Holding onto anger is like grasping a hot coal with the intent to throw it at someone else; you are the one who gets burnt. When you are angry, you are more likely to miss opportunities, make mistakes and take actions that you may later regret. </li>
-                                        <li>An angry person is always full of poison and negative thoughts and it brings out a lot of negative energy. People who lose their temper regularly will always be in stressful situation. </li>
+                                        <li>An angry person is always full of poison and negative thoughts, and it brings out a lot of negative energy. People who lose their temper regularly will always be in stressful situations. </li>
                                         <li>The key to a healthy body is a calm head. </li>
                                         <li>Don’t do something stupid just because you are temporarily upset. When a man is stung by a bee, he doesn’t set off to destroy the beehives. You need to control anger before it controls you! </li>
-                                        <li>Anger that is out of control will drive away those we love the most and endanger our daily existence. According to Bruce Lee a quick temper will make a fool of you soon enough, thus take charge because anger is a force that can move an organization forward to improve, or, it can be a force that destroys the organization's ability to fulfil its purpose on an everyday level. </li>
-                                        <li>The way bosses and employees deal with conflict and anger will set the climate in which you work, how you communicate, how you solve problems, who you trust and how creative you as a team will be. </li>
+                                        <li>Anger that is out of control will drive away those we love the most and endanger our daily existence. According to Bruce Lee, a quick temper will make a fool of you soon enough, thus take charge because anger is a force that can move an organisation forward to improve, or, it can be a force that destroys the organisation's ability to fulfil its purpose on an everyday level. </li>
+                                        <li>The way bosses and employees deal with conflict and anger will set the climate in which you work, how you communicate, how you solve problems, who you trust and how creative you, as a team, will be. </li>
                                         
                                     </ul>
 									
-                                    <h5>Anger techniques</h5>
-                                 <p style="font-size:18px">Here are lovely activities so calm you down, to get the anger out of your body and to put you in control. These techniques will support you in communication, team building, trust, creativity and a positive work environment. </p>
-                                    <ul style="font-size:18px">
-                                        <li>Count 10 breaths.</li>
-                                        <li>Deep and controlled breathing </li>
-                                        <li>Tearing paper </li>
-                                        <li>Balloon therapy </li>
-                                        <li>Anger Map </li>
-                                        <li>Colouring in </li>
-                                        <li>Clay therapy </li>
-                                        <li>Listen to calming music. </li>
-                                        <li>Shaking your body </li>
-                                        <li>Laughter is the best medicine, etc. </li>
-                                    </ul>
-                                <br />
-									<h4>African Wisdom Inspirational lessons </h4>
+                                    
+									<h4>African Wisdom Inspirational Lessons </h4>
                                     <p style="font-size:18px">A motivational workshop focusing on animals of the African plain and what life lessons they can teach us. Topics include; staying on top of your game, positive self-image, attitude, commitment, inner strength, reaching for the stars, reputation, adaption, patience, perseverance, learning from your mistakes, support systems, listening skills, anger management, problem solving, judgement, teamwork, 'the grass is not always greener on the other side', finding balance in life, 'salt-of-the-earth' people, hunters vs scavengers, the aroma of life as well as old folk stories for excellent living.</p>
                                     
 								<br />
@@ -159,60 +145,7 @@
 
 							
 
-							<h4>Related Articles:</h4>
-
-							<div class="related-posts clearfix">
-
-								<div class="col_half nobottommargin">
-
-									<div class="mpost clearfix">
-										<div class="entry-image">
-											<a href="ECD.aspx"><img src="images/Brainwave/newa.jpg" alt="Blog Single"></a>
-										</div>
-										<div class="entry-c">
-											<div class="entry-title">
-												<h4><a href="ECD.aspx">Early Childhood Development</a></h4>
-											</div>
-											
-											<div class="entry-content">View our NQF4, NQF5 and Ready Steady Learn programmes.</div>
-										</div>
-									</div>
-
-									<div class="mpost clearfix">
-										<div class="entry-image">
-											<a href="Primaryschool.aspx"><img src="images/Brainwave/education.jpg" alt="Blog Single"></a>
-										</div>
-										<div class="entry-c">
-											<div class="entry-title">
-												<h4><a href="Primaryschool.aspx">Primary school</a></h4>
-											</div>
-											
-											<div class="entry-content">English and Maths learner and teacher empowerment.</div>
-										</div>
-									</div>
-
-								</div>
-
-								<div class="col_half nobottommargin col_last">
-
-									<div class="mpost clearfix">
-										<div class="entry-image">
-											<a href="Product.aspx"><img src="images/Brainwave/gui.jpeg" alt="Blog Single"></a>
-										</div>
-										<div class="entry-c">
-											<div class="entry-title">
-												<h4><a href="Product.aspx">Products</a></h4>
-											</div>
-											
-											<div class="entry-content">View our wide rage of educational products.</div>
-										</div>
-									</div>
-
-									
-
-								</div>
-
-							</div>
+							
 
 							
 

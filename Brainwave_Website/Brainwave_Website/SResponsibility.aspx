@@ -83,7 +83,7 @@
 
                                     <h4>LAERSKOOL EDENHOOGTE</h4>
 
-                                    <p style="font-size:18px"> Brainwave Careers NPC in collaboration with 10G Consult were able to help the learners from Laerskool Edenhoogte in the Free State with warm clothes, learning aid, food and more for winter 2017 .
+                                    <p style="font-size:18px"> Brainwave Careers NPC in collaboration with 10G Consult, were able to help the learners from Laerskool Edenhoogte in the Free State with warm clothes, learning aids, food and more for winter 2017.
                                         </p>
 								
                                    <div class="entry clearfix">
@@ -114,16 +114,6 @@
 						
 
 					</div>
-									<br />
-
-                                    <h4>Other organisations we have helped</h4>
-                                    <ul style="font-size:18px">
-                                        <li>Rekgonne Bapo Special School</li>
-                                        <li>Kingsway Centre of Concern</li>
-                                        <li>Sponsoring the school fees of individual learners</li>
-                                        <li>Edu Africa Nursery School</li>
-                                        
-                                    </ul>
 									
                                     
                                 <div class="line"></div>
@@ -136,60 +126,7 @@
 
 							
 
-							<h4>Related Articles:</h4>
-
-							<div class="related-posts clearfix">
-
-								<div class="col_half nobottommargin">
-
-									<div class="mpost clearfix">
-										<div class="entry-image">
-											<a href="ECD.aspx"><img src="images/Brainwave/newa.jpg" alt="Blog Single"></a>
-										</div>
-										<div class="entry-c">
-											<div class="entry-title">
-												<h4><a href="ECD.aspx">Early Childhood Development</a></h4>
-											</div>
-											
-											<div class="entry-content">View our NQF4, NQF5 and Ready Steady Learn programmes.</div>
-										</div>
-									</div>
-
-									<div class="mpost clearfix">
-										<div class="entry-image">
-											<a href="Primaryschool.aspx"><img src="images/Brainwave/education.jpg" alt="Blog Single"></a>
-										</div>
-										<div class="entry-c">
-											<div class="entry-title">
-												<h4><a href="Primaryschool.aspx">Primary school</a></h4>
-											</div>
-											
-											<div class="entry-content">English and Maths learner and teacher empowerment.</div>
-										</div>
-									</div>
-
-								</div>
-
-								<div class="col_half nobottommargin col_last">
-
-									<div class="mpost clearfix">
-										<div class="entry-image">
-											<a href="Product.aspx"><img src="images/Brainwave/gui.jpeg" alt="Blog Single"></a>
-										</div>
-										<div class="entry-c">
-											<div class="entry-title">
-												<h4><a href="Product.aspx">Products</a></h4>
-											</div>
-											
-											<div class="entry-content">View our wide rage of educational products.</div>
-										</div>
-									</div>
-
-									
-
-								</div>
-
-							</div>
+							
     </div>
 							
 

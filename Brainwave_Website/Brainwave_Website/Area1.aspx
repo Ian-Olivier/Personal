@@ -83,10 +83,10 @@
                                 </p>
 
                                 <h4>Technical Vocational Education and Training (TVET) Colleges</h4>
-								<p style="font-size:18px">You need Grade 9 and you must be 16 years old.</p>
+								<p style="font-size:18px">You need Grade 9, and you must be 16 years old.</p>
 
                                 <h4>Private Institutions and Training Centres</h4>
-								<p style="font-size:18px">Admission requirements differ from institution to institution, therefore you must make completely sure your marks comply with their criteria. </p>
+								<p style="font-size:18px">Admission requirements differ from institution to institution therefore, you must make completely sure your marks comply with their criteria. </p>
 
                                 <h4>Career Fields</h4>
 								<ul style="font-size:18px">
