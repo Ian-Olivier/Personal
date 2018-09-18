@@ -43,7 +43,7 @@
 				<div class="swiper-container swiper-parent">
 					<div class="swiper-wrapper">
 
-						<div class="swiper-slide dark" style="background-image: url('images/Brainwave/BWWeb.png');">
+						<div class="swiper-slide dark" style="background-image: url('images/Brainwave/BW.jpg');">
 							<div class="container clearfix">
 								<div class="slider-caption slider-caption-center">
 									<h2 data-caption-animate="fadeInUp">Welcome to <b style="color:#660033">Brain</b><b style="color:#009999">Wave</b></h2>
@@ -86,7 +86,7 @@
 						</div>
 					</div>
 				
-						<div class="row topmargin-sm clearfix">
+						<div class="row topmargin-sm clearfix container-fluid">
 
 							<div class="col-md-4 bottommargin-sm">
 								<div class="feature-box media-box fbox-bg">
@@ -142,7 +142,7 @@
 							<div class="col-md-4 bottommargin-sm">
 								<div class="feature-box media-box fbox-bg">
 									<div class="fbox-media">
-										<a href="CareerGuidance.aspx"><img class="image_fade" src="images/Brainwave/CD1.png" alt="Featured Box Image"></a>
+										<a href="CareerGuidance.aspx"><img class="image_fade" src="images/Brainwave/CG.jpg" alt="Featured Box Image"></a>
 									</div>
 									<div class="fbox-desc">
 										<h3 class="nott ls0 t600">Career Info<span class="subtitle font-secondary t300 ls0">Career Areas and Careerfields</span></h3>
@@ -154,7 +154,7 @@
                             <div class="col-md-4 bottommargin-sm">
 								<div class="feature-box media-box fbox-bg">
 									<div class="fbox-media">
-										<a href="CXplore.aspx"><img class="image_fade" src="images/Brainwave/xpic1.png" alt="Featured Box Image"></a>
+										<a href="CXplore.aspx"><img class="image_fade" src="images/Brainwave/xp.jpg" alt="Featured Box Image" style="height:242px"></a>
 									</div>
 									<div class="fbox-desc">
 										<h3 class="nott ls0 t600">CareerXplora App<span class="subtitle font-secondary t300 ls0">Career Advice and Live chat on our App.</span></h3>
@@ -166,7 +166,7 @@
                             <div class="col-md-4 bottommargin-sm">
 								<div class="feature-box media-box fbox-bg">
 									<div class="fbox-media">
-										<a href="Onlinecareer.aspx"><img class="image_fade" src="images/Brainwave/1cover.png" alt="Featured Box Image"></a>
+										<a href="Onlinecareer.aspx"><img class="image_fade" src="images/Brainwave/1cover.png" alt="Featured Box Image" style="height:242px"></a>
 									</div>
 									<div class="fbox-desc">
 										<h3 class="nott ls0 t600">Discover your Career Online<span class="subtitle font-secondary t300 ls0">Personality, and Career Interests.</span></h3>

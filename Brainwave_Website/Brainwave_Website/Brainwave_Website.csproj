@@ -173,8 +173,8 @@
     <Content Include="images\Brainwave\1wshop.jpg" />
     <Content Include="images\Brainwave\2.JPG" />
     <Content Include="images\Brainwave\3.JPG" />
-    <Content Include="images\Brainwave\about.png" />
-    <Content Include="images\Brainwave\aboutusban.png" />
+    <Content Include="images\Brainwave\aboutus.jpg" />
+    <Content Include="images\Brainwave\Aboutusban.jpg" />
     <Content Include="images\Brainwave\acd.jpg" />
     <Content Include="images\Brainwave\achar.jpg" />
     <Content Include="images\Brainwave\acul.jpg" />
@@ -203,12 +203,14 @@
     <Content Include="images\Brainwave\boy.jpg" />
     <Content Include="images\Brainwave\bulb.jpeg" />
     <Content Include="images\Brainwave\bus.jpeg" />
+    <Content Include="images\Brainwave\BW.jpg" />
     <Content Include="images\Brainwave\BWWeb.png" />
     <Content Include="images\Brainwave\careerguide.jpg" />
     <Content Include="images\Brainwave\carinfo.jpeg" />
     <Content Include="images\Brainwave\CD1.png" />
     <Content Include="images\Brainwave\CD2.png" />
     <Content Include="images\Brainwave\CD3.png" />
+    <Content Include="images\Brainwave\CG.jpg" />
     <Content Include="images\Brainwave\comp.jpeg" />
     <Content Include="images\Brainwave\covs.JPG" />
     <Content Include="images\Brainwave\earlychild.png" />
@@ -356,7 +358,7 @@
     <Content Include="images\Brainwave\ws\2.JPG" />
     <Content Include="images\Brainwave\ws\3.JPG" />
     <Content Include="images\Brainwave\ws\4.JPG" />
-    <Content Include="images\Brainwave\xpic1.png" />
+    <Content Include="images\Brainwave\xp.jpg" />
     <Content Include="images\Brainwave\xpic2.png" />
     <Content Include="images\Brainwave\xplo.png" />
     <Content Include="images\footer-bg.jpg" />
