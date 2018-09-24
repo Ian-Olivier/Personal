@@ -47,7 +47,7 @@
 							<div class="container clearfix">
 								<div class="slider-caption slider-caption-center">
 									<h2 data-caption-animate="fadeInUp">Welcome to <b style="color:#660033">Brain</b><b style="color:#009999">Wave</b></h2>
-									
+									<p data-caption-animate="fadeInUp" data-caption-delay="200" style="color:#660033" class="fadeInUp animated"><strong>A child without an education is like a bird without wings, we at Brainwaves are passionate about leaving a legacy in education</strong> </p>
 								</div>
 							</div>
 						</div>
@@ -281,30 +281,31 @@
 					<div id="oc-clients" class="owl-carousel image-carousel carousel-widget" data-margin="60" data-loop="true" data-nav="false" data-autoplay="5000" data-pagi="false" data-items-xxs="2" data-items-xs="3" data-items-sm="4" data-items-md="5" data-items-lg="6">
 
                         <br />
-						<div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/1.jpg"><img src="images/Brainwave/sponsors/1.jpg" alt="Clients"></a></div> 
-						<div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/2.jpg"><img src="images/Brainwave/sponsors/2.jpg" alt="Clients"></a></div>
-                        <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/3.png"><img src="images/Brainwave/sponsors/3.png" alt="Clients"></a></div>
-                        <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/4.jpg"><img src="images/Brainwave/sponsors/4.jpg" alt="Clients"></a></div>
-                        <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/5.jpg"><img src="images/Brainwave/sponsors/5.jpg" alt="Clients"></a></div>
-                        <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/6.png"><img src="images/Brainwave/sponsors/6.png" alt="Clients"></a></div>
-                       
-                        <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/7.png"><img src="images/Brainwave/sponsors/7.png" alt="Clients"></a></div>
-                        <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/9.jpg"><img src="images/Brainwave/sponsors/9.jpg" alt="Clients"></a></div>
-                        <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/8.png"><img src="images/Brainwave/sponsors/8.png" alt="Clients"></a></div>
-                        <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/11.jpg"><img src="images/Brainwave/sponsors/11.jpg" alt="Clients"></a></div>
-                        <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/12.jpg"><img src="images/Brainwave/sponsors/12.jpg" alt="Clients"></a></div>
-                        <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/13.png"><img src="images/Brainwave/sponsors/13.png" alt="Clients"></a></div>
-                        <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/14.png"><img src="images/Brainwave/sponsors/14.png" alt="Clients"></a></div>
-                        <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/15.jpg"><img src="images/Brainwave/sponsors/15.jpg" alt="Clients"></a></div>
-                        <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/16.png"><img src="images/Brainwave/sponsors/16.png" alt="Clients"></a></div>
-                        <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/17.jpg"><img src="images/Brainwave/sponsors/17.jpg" alt="Clients"></a></div>
-                        <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/18.png"><img src="images/Brainwave/sponsors/18.png" alt="Clients"></a></div>
-                        <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/19.jpg"><img src="images/Brainwave/sponsors/19.jpg" alt="Clients"></a></div>
-                        <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/20.jpg"><img src="images/Brainwave/sponsors/20.jpg" alt="Clients"></a></div>
-                        <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/21.jpg"><img src="images/Brainwave/sponsors/21.jpg" alt="Clients"></a></div> 
-                        <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/22.jpg"><img src="images/Brainwave/sponsors/22.jpg" alt="Clients"></a></div>
-                        
-                       
+						<div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/s1.png"><img style="height:90px" src="images/Brainwave/sponsors/s1.png" alt="Clients"></a></div> 
+						<div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/s2.png"><img style="height:90px" src="images/Brainwave/sponsors/s2.png" alt="Clients"></a></div> 
+                        <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/s3.png"><img style="height:90px" src="images/Brainwave/sponsors/s3.png" alt="Clients"></a></div> 
+                        <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/s4.png"><img style="height:90px" src="images/Brainwave/sponsors/s4.png" alt="Clients"></a></div> 
+                        <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/s5.png"><img style="height:90px" src="images/Brainwave/sponsors/s5.png" alt="Clients"></a></div> 
+                        <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/s6.png"><img style="height:90px" src="images/Brainwave/sponsors/s6.png" alt="Clients"></a></div> 
+						<div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/s7.png"><img style="height:90px" src="images/Brainwave/sponsors/s7.png" alt="Clients"></a></div> 
+                        <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/s8.png"><img style="height:90px" src="images/Brainwave/sponsors/s8.png" alt="Clients"></a></div> 
+                        <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/s9.png"><img style="height:90px" src="images/Brainwave/sponsors/s9.png" alt="Clients"></a></div> 
+                        <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/s10.png"><img style="height:90px" src="images/Brainwave/sponsors/s10.png" alt="Clients"></a></div>
+                        <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/s11.png"><img style="height:90px" src="images/Brainwave/sponsors/s11.png" alt="Clients"></a></div> 
+						<div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/s12.png"><img style="height:90px" src="images/Brainwave/sponsors/s12.png" alt="Clients"></a></div> 
+                        <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/s13.png"><img style="height:90px" src="images/Brainwave/sponsors/s13.png" alt="Clients"></a></div> 
+                        <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/s14.png"><img style="height:90px" src="images/Brainwave/sponsors/s14.png" alt="Clients"></a></div> 
+                        <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/s15.png"><img style="height:90px" src="images/Brainwave/sponsors/s15.png" alt="Clients"></a></div> 
+                        <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/s16.png"><img style="height:90px" src="images/Brainwave/sponsors/s16.png" alt="Clients"></a></div> 
+						<div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/s17.png"><img style="height:90px" src="images/Brainwave/sponsors/s17.png" alt="Clients"></a></div> 
+                        <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/s18.png"><img style="height:90px" src="images/Brainwave/sponsors/s18.png" alt="Clients"></a></div> 
+                        <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/s19.png"><img style="height:90px" src="images/Brainwave/sponsors/s19.png" alt="Clients"></a></div> 
+                        <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/s20.png"><img style="height:90px" src="images/Brainwave/sponsors/s20.png" alt="Clients"></a></div>
+						<div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/s21.png"><img style="height:90px" src="images/Brainwave/sponsors/s21.png" alt="Clients"></a></div> 
+						<div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/s22.png"><img style="height:90px" src="images/Brainwave/sponsors/s22.png" alt="Clients"></a></div> 
+                        <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/s23.png"><img style="height:90px" src="images/Brainwave/sponsors/s23.png" alt="Clients"></a></div> 
+                        <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/s24.png"><img style="height:90px" src="images/Brainwave/sponsors/s24.png" alt="Clients"></a></div> 
+                        <div class="oc-item"><a data-lightbox="image" href="images/Brainwave/sponsors/s25.png"><img style="height:90px" src="images/Brainwave/sponsors/s25.png" alt="Clients"></a></div> 
 
 					</div>
 

@@ -273,13 +273,13 @@
 
 						<div class="product clearfix">
 							<div class="product-image">
-								<a data-lightbox="image" href="images/Brainwave/products/p5.jpg"><img src="images/Brainwave/products/p5.jpg" alt="Checked Short Dress"></a>
+								<a data-lightbox="image" href="images/Brainwave/products/steps.jpg"><img src="images/Brainwave/products/steps.jpg" alt="Checked Short Dress"></a>
 
 							</div>
 							<div class="product-desc">
-								<div class="product-title"><h3><a href="#">Discover the World of Entrepreneurs</a></h3></div>
+								<div class="product-title"><h3><a href="#">Discover Your Study Steps</a></h3></div>
 
-								<p>A career development workshop focusing on the entrepreneurial world. Emphasis is placed on the difference between a 'Heart and Soul' vs. 'Survivalist' entrepreneur as well personal branding, entrepreneurial career fields (as well as funding and study options), communication skills and personal motivation.</p>
+								<p>A career development workbook focusing on study methods and techniques. Topics covered include: attitude and motivation, positive study environment, goal setting, time management, learning styles, developing an effective study plan, reading strategies, summary techniques, listening skills and reward yourself.</p>
 								<div class="quantity clearfix">
 										
 										<input type="number" min="0" id="p5world" runat="server" name="quantity" value="0" title="Qty" maxlength="20" class="qty" size="20" />
