@@ -74,7 +74,7 @@
 								<p>A career development workshop easing the transition from primary school to high school focusing on the physical, emotional, social as well as academic changes and challenges a primary school learner faces as he/she enters high school.</p>
 								<div class="quantity clearfix">
 										
-										<input type="number" min="0" id="p1high" runat="server" name="quantity" placeholder="0" title="Qty" maxlength="20" class="qty" size="20" />
+										<input type="number" min="0" id="p1high" runat="server" name="quantity" value="0" title="Qty" class="qty" />
 										
 									</div>
 
@@ -126,7 +126,7 @@
 								<p>A career development workshop focusing on the five choices a learner has, after having completed Grade 12. This explores the advantages and disadvantages of 'Full-time study', 'Work and part-time study', 'Entrepreneurial start up', 'Full-time' work and 'Gap year' options. Personal branding and communication skills are also highlighted and discussed.</p>
 								<div class="quantity clearfix">
 										
-										<input type="number" min="0" id="p2five" runat="server" name="quantity" value="0" title="Qty" maxlength="20" class="qty" size="20" />
+										<input type="number" min="0" id="p2five" runat="server" name="quantity" value="0" title="Qty" class="qty" />
 										
 									</div>
 
@@ -178,7 +178,7 @@
 								<p>A career development workshop easing the transition from high school to the tertiary world focusing on personal branding, the differences between high school and the tertiary world, tertiary funding options, applications, workload, study and examination management as well as personal motivation.</p>
 								<div class="quantity clearfix">
 										
-										<input type="number" min="0" id="p3tert" runat="server" name="quantity" value="0" title="Qty" maxlength="20" class="qty" size="20" />
+										<input type="number" min="0" id="p3tert" runat="server" name="quantity" value="0" title="Qty" class="qty"/>
 										
 									</div>
 
@@ -230,7 +230,7 @@
 								<p>An academic strengths screening and career guidance workshop focusing on interests, personality and thinking style profiles to assist the learner with the correct subjects to choose for Grade 10-12 as well as an appropriate career path/qualification to pursue after having completed Grade 12. The World of Work and various study options are also highlighted and discussed.</p>
 								<div class="quantity clearfix">
 										
-										<input type="number" min="0" id="p4career" runat="server" name="quantity" value="0" title="Qty" maxlength="20" class="qty" size="20" />
+										<input type="number" min="0" id="p4career" runat="server" name="quantity" value="0" title="Qty" class="qty" />
 										
 									</div>
 
@@ -282,7 +282,7 @@
 								<p>A career development workbook focusing on study methods and techniques. Topics covered include: attitude and motivation, positive study environment, goal setting, time management, learning styles, developing an effective study plan, reading strategies, summary techniques, listening skills and reward yourself.</p>
 								<div class="quantity clearfix">
 										
-										<input type="number" min="0" id="p5world" runat="server" name="quantity" value="0" title="Qty" maxlength="20" class="qty" size="20" />
+										<input type="number" min="0" id="p5world" runat="server" name="quantity" value="0" title="Qty"  class="qty" />
 										
 									</div>
 
@@ -338,7 +338,7 @@
 								<p>A motivational workshop focusing on animals of the African plain and the life lessons they can teach us. Topics include: staying on top of your game, positive self-image, attitude, commitment, inner strength, reaching for the stars, reputation, adaptation, patience, perseverance, learning from your mistakes, support systems, listening skills, anger management, problem solving, judgement, teamwork, 'the grass is not always greener on the other side', finding balance in life, 'salt-of-the-earth' people, hunters vs scavengers, the aroma of life, as well as old folk stories for excellent living.</p>
 								<div class="quantity clearfix">
 										
-										<input type="number" min="0" id="p6af" runat="server" name="quantity" value="0" title="Qty" maxlength="20" class="qty" size="20" />
+										<input type="number" min="0" id="p6af" runat="server" name="quantity" value="0" title="Qty" class="qty" />
 										
 									</div>
 
