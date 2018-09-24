@@ -77,7 +77,7 @@
 									<!-- Entry Image
 									============================================= -->
 									<div class="entry-image">
-										<a data-lightbox="image" href="images/Brainwave/EDC3.png"><img src="images/Brainwave/EDC3.png" alt="Blog Single"></a>
+										<a data-lightbox="image" href="images/Brainwave/EDC3.png"><img src="images/Brainwave/kid.jpg" alt="Blog Single"></a>
 									</div><!-- .entry-image end -->
 
                                     <p style="font-size:18px">The value of Early Childhood Development (ECD) and getting a learner school ready cannot be underestimated and the more input at this level, the better the future performance of each learner. Evidence tells us that a person’s life successes, health and emotional wellbeing have their roots in early childhood. If you get it right in the early years, you can expect to see children thrive throughout school and their adult lives.                     

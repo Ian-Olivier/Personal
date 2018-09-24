@@ -175,7 +175,6 @@
     <Content Include="images\Brainwave\3.JPG" />
     <Content Include="images\Brainwave\aboutus.jpg" />
     <Content Include="images\Brainwave\Aboutusban.jpg" />
-    <Content Include="images\Brainwave\acd.jpg" />
     <Content Include="images\Brainwave\achar.jpg" />
     <Content Include="images\Brainwave\acul.jpg" />
     <Content Include="images\Brainwave\agi.jpg" />
@@ -216,7 +215,6 @@
     <Content Include="images\Brainwave\earlychild.png" />
     <Content Include="images\Brainwave\ECD.jpeg" />
     <Content Include="images\Brainwave\EDC.jpeg" />
-    <Content Include="images\Brainwave\EDC3.png" />
     <Content Include="images\Brainwave\education.jpg" />
     <Content Include="images\Brainwave\educs.jpeg" />
     <Content Include="images\Brainwave\edus.jpg" />
@@ -258,6 +256,7 @@
     <Content Include="images\Brainwave\infocc.jpg" />
     <Content Include="images\Brainwave\intro.jpg" />
     <Content Include="images\Brainwave\IT.jpg" />
+    <Content Include="images\Brainwave\kid.jpg" />
     <Content Include="images\Brainwave\Law 1.png" />
     <Content Include="images\Brainwave\Law 2.png" />
     <Content Include="images\Brainwave\law.jpg" />
@@ -318,7 +317,7 @@
     <Content Include="images\Brainwave\science.jpeg" />
     <Content Include="images\Brainwave\Service 1.png" />
     <Content Include="images\Brainwave\Service 2.png" />
-    <Content Include="images\Brainwave\shop.png" />
+    <Content Include="images\Brainwave\shop.jpg" />
     <Content Include="images\Brainwave\sjop.jpg" />
     <Content Include="images\Brainwave\sponsors\1.jpg" />
     <Content Include="images\Brainwave\sponsors\11.jpg" />
