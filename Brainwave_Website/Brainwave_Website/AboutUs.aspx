@@ -94,13 +94,10 @@
 						</div>
                         <h5>Brainwave Careers upholds the following values in everything we do:</h5>
 						<ul class="lead">
-                            <li>Productivity</li>
-                            <li>Adaptability</li>
-                            <li>Sincerity</li>
-                            <li>Supportiveness</li>
-                            <li>Innovation</li>
-                            <li>Open mindedness</li>
-                            <li>Nobleness</li>                           
+                            <li>Passion</li>
+                            <li>Integrity</li>
+                            <li>Commitment</li>
+                            <li>And exellence in all we do</li>                                                
 						</ul>
 
 					</div>
@@ -159,6 +156,8 @@
                         </ul>
 					</div>
 
+                    
+
 				</div>
                 </section>
       <!-- End of next row of content ==================================================================================================================================================================== -->
@@ -188,8 +187,12 @@
             </div>
         </section>
     <!--<i class="i-plain i-xlarge divcenter nobottommargin icon-mobile"></i> -->
-
-   
+        <br />
+   <div class="promo promo-light bottommargin center">
+						<h3>All our products are endorsed by the South African Council for Education</h3>
+						<span>Visit our online store to see more.</span>
+						<a href="ECD.aspx"><img class="image_fade" src="images/Brainwave/SACE.png" height="150" ></a>
+					</div>
 
 	</div><!-- #wrapper end -->
 

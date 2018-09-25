@@ -28,7 +28,7 @@
    
         <!-- Page Title
 		============================================= -->
-		<section id="page-title" class="page-title-parallax page-title-dark" style="padding: 250px 0; background-image: url('images/Brainwave/acd.jpg'); background-size: cover; background-position: center center;" data-stellar-background-ratio="0.4">
+		<section id="page-title" class="page-title-parallax page-title-dark" style="padding: 250px 0; background-image: url('images/Brainwave/EDs.jpg'); background-size: cover; background-position: center center;" data-stellar-background-ratio="0.4">
 
 			<div class="container clearfix">
 				<h1 style="color:#660033">Early Childhood Development </h1>

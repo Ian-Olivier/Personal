@@ -215,6 +215,7 @@
     <Content Include="images\Brainwave\earlychild.png" />
     <Content Include="images\Brainwave\ECD.jpeg" />
     <Content Include="images\Brainwave\EDC.jpeg" />
+    <Content Include="images\Brainwave\EDs.jpg" />
     <Content Include="images\Brainwave\education.jpg" />
     <Content Include="images\Brainwave\educs.jpeg" />
     <Content Include="images\Brainwave\edus.jpg" />
@@ -314,6 +315,7 @@
     <Content Include="images\Brainwave\products\p6.jpg" />
     <Content Include="images\Brainwave\products\steps.jpg" />
     <Content Include="images\Brainwave\qui.jpg" />
+    <Content Include="images\Brainwave\SACE.png" />
     <Content Include="images\Brainwave\science.jpeg" />
     <Content Include="images\Brainwave\Service 1.png" />
     <Content Include="images\Brainwave\Service 2.png" />
